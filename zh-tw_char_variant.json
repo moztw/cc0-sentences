@@ -1,0 +1,25 @@
+{
+  "__comment": [
+    "正體中文漢字異體字對照 Traditional Chinese characters variant table",
+    "Here we collect some common variant of zh-tw chars,",
+    "we should replace them before commit to the CC0 repo"
+  ],
+  "⿈": {"variant": "黃黄", "Unicode": "U+2FC8"},
+  "不": {"variant": "不", "Unicode": "U+4E0D"},
+  "了": {"variant": "了", "Unicode": "U+4E86"},
+  "來": {"variant": "來", "Unicode": "U+4F86"},
+  "北": {"variant": "北北", "Unicode": "U+5317"},
+  "年": {"variant": "年", "Unicode": "U+5E74"},
+  "溫": {"variant": "温", "Unicode": "U+6EAB"},
+  "漏": {"variant": "漏", "Unicode": "U+6F0F"},
+  "略": {"variant": "略", "Unicode": "U+7565"},
+  "立": {"variant": "⽴立", "Unicode": "U+7ACB"},
+  "綠": {"variant": "綠", "Unicode": "U+7DA0"},
+  "聯": {"variant": "聨聯", "Unicode": "U+806F"},
+  "良": {"variant": "良", "Unicode": "U+826F"},
+  "藍": {"variant": "藍", "Unicode": "U+85CD"},
+  "路": {"variant": "路", "Unicode": "U+8DEF"},
+  "離": {"variant": "離", "Unicode": "U+96E2"},
+  "領": {"variant": "領", "Unicode": "U+9818"},
+  "館": {"variant": "館舘", "Unicode": "U+9928"}
+}
