@@ -5,8 +5,9 @@ You can use it without any restriction.
 
 ## some sources
 
+
 - G0v Rand0m channel - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
-- Mozilla Common Voice Project - https://github.com/mozilla/voice-web/tree/master/server/data/zh-TW
+- corpus at [Mozilla Common Voice](http://voice.mozilla.org/zh-TW/) Project - https://github.com/mozilla/voice-web/tree/master/server/data/zh-TW
 
 
 ## phonetic coverage 
