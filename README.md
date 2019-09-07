@@ -6,7 +6,7 @@ You can use it without any restriction.
 ## some sources
 
 
-- G0v Rand0m channel - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
+- archive of G0v Rand0m channel (chats to donate here) - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
 - corpus at [Mozilla Common Voice](http://voice.mozilla.org/zh-TW/) Project - https://github.com/mozilla/voice-web/tree/master/server/data/zh-TW
 
 
