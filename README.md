@@ -12,11 +12,14 @@ You can use it without any restriction.
 
 ## phonetic coverage 
 
-(until 4/2, fe530612eb9aa0e5f6ad1fcf7d594c7fee3be55f)
+### zh-TW
+
+9294 sentences
+(until 11/17, https://github.com/irvin/cc0-sentences/commit/bef33f28e97d66b0f2395dc667ff63e51e9958b5)
 
 ```
 node text-tools.js -c ../cc0-sentences/zh-TW/all.txt CnsPhonetic2016-08v2.cin
 Total numbers of phonetic in CnsPhonetic2016-08v2.cin are 1567
-Numbers of phonetic from 2675 characters in ../cc0-sentences/zh-TW/all.txt are 957
-We have cover 61.07% of the pronunciations.
+Numbers of phonetic from 2784 characters in all_unique.txt are 974
+We have cover 62.16% of the pronunciations.
 ```
