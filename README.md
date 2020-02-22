@@ -15,7 +15,7 @@ You can use it without any restriction.
 ### zh-TW
 
 9294 sentences
-(until 11/17, https://github.com/irvin/cc0-sentences/commit/bef33f28e97d66b0f2395dc667ff63e51e9958b5)
+(calculate via [text tools](https://github.com/irvin/voice-text-tools), on 11/17, https://github.com/irvin/cc0-sentences/commit/bef33f28e97d66b0f2395dc667ff63e51e9958b5)
 
 ```
 node text-tools.js -c ../cc0-sentences/zh-TW/all.txt CnsPhonetic2016-08v2.cin
