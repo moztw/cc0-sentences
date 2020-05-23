@@ -1,4 +1,4 @@
-# g0v slack rand0m 頻道 chatlog
+# [g0v Slack][3] #rand0m channel chatlog
 
 ## 整理方法
 
@@ -10,6 +10,7 @@
 
 [1]: https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/
 [2]: https://github.com/irvin/cc0-sentences/blob/master/zh-TW/g0v_slack_rand0m.txt
+[3]: http://join.g0v.tw/
 
 ## 目前進度
 
