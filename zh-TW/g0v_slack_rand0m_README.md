@@ -4,7 +4,7 @@
 
 1. 把 [chatlog][1] 的句子拆開成一句一句
 2. 編輯內容去識別化，移掉冷僻難句，隨機打散順序
-3. 然後commit 到 [repo][2]，並更新 README 檔案中的進度標示
+3. 然後commit 到 [repo][2]，並更新 [README](https://github.com/irvin/cc0-sentences/blob/master/zh-TW/g0v_slack_rand0m_README.md) 檔案中的進度標示
 
 整理的成果品質標準可參考目前的句子
 
