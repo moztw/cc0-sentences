@@ -22,3 +22,10 @@ Total numbers of phonetic in CnsPhonetic2016-08v2.cin are 1567
 Numbers of phonetic from 2904 characters in all_unique.txt are 992
 We have cover 63.31% of the pronunciations.
 ```
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work.
+
