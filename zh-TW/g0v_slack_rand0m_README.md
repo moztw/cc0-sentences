@@ -14,4 +14,4 @@
 
 ## 目前進度
 
-整理至 [2019/6](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2019-06) 完成
+整理至 [2019/7](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2019-07) 完成
