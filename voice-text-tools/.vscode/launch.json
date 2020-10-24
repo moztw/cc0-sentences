@@ -1,0 +1,20 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "啟動程式",
+            "program": "${workspaceFolder}/text-tools.js",
+            // "args": ["-s"]
+            // "args": ["-s", "error.txt"]
+            // "args": ["-s", "lms.txt"]
+            // "args": ["-c", "all.txt", "CnsPhonetic2016-08v2.cin"]
+            // "args": ["-c", "all.txt", "CnsPhonetic2016-08v2.cin", "-i", "3,4,6,7"]
+            "args": ["-o", "all.txt", "教育部常用字.txt"]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+# CC0 centences
+
+zh-tw sentences release under CC0 to Public Domain, gather from various sources. 
+You can use it without any restriction.
+
+
+## some sources
+
+- archive of G0v Rand0m channel (chats to donate here) - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
+- corpus at [Mozilla Common Voice](http://voice.mozilla.org/zh-TW/) Project - https://github.com/mozilla/voice-web/tree/master/server/data/zh-TW
+
+
+## phonetic coverage 
+
+### zh-TW
+
+The coveraged rate of phonetic of current corpus, compared to CnsPhonetic2016-08v2.cin input table.
+
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [{{ date }}](https://github.com/irvin/cc0-sentences/commit/{{ lastCommit }}) DB)
+{{ sentencesAmount }} sentences
+
+```
+✗ node text-tools.js -c all.txt CnsPhonetic2016-08v2.cin
+{{ phonCov}}
+```
+
+
+## chars coverage
+
+### zh-TW
+
+The coveraged rate and missing chars from current text corpus to common chars table from MOE. 
+
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [{{ date }}](https://github.com/irvin/cc0-sentences/commit/{{ lastCommit }}) DB)
+{{ sentencesAmount }} sentences
+
+```
+➜  voice-text-tools git:(master) ✗ node text-tools.js -o all.txt 教育部2015常用字99.75%\(3593字\).txt
+{{ charCov }}
+```
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work.
