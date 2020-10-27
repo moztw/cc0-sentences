@@ -1,6 +1,9 @@
 name: Update Readme
 
-on: [push, pull_request]
+on:
+  push:
+    paths:
+    - 'zh-TW/**'
 
 jobs:
   merge-and-commit:
@@ -22,7 +25,8 @@ jobs:
       uses: EndBug/add-and-commit@v5.1.0
       with:
         add: README.md
-        author_name: GitHub Action - Update ReadMe
+        author_email: fox@moztw.github.bot
+        author_name: 摩茲機器狐
         message: Automatically update statistic info in README.md via GitHub Actions
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
