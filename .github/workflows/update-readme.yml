@@ -1,10 +1,6 @@
 name: Update Readme
 
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on: [push, pull_request]
 
 jobs:
   merge-and-commit:
@@ -19,7 +15,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 12.x
-    - run: ls
     - run: node voice-text-tools/text-tools.js -a ./zh-TW
     - run: npm install mustache
     - run: node gen-readme.js
@@ -28,7 +23,6 @@ jobs:
       with:
         add: README.md
         author_name: GitHub Action - Update ReadMe
-        branch: master
-        message: Update information in README.md
+        message: Automatically update statistic info in README.md via GitHub Actions
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
