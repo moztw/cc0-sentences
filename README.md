@@ -16,14 +16,14 @@ You can use it without any restriction.
 
 The coveraged rate of phonetic of current corpus, compared to CnsPhonetic2016-08v2.cin input table.
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2020-10-28](https://github.com/irvin/cc0-sentences/commit/8bc20507a45b5e308dfef457b950e372cc4a625d) DB)
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2020-10-28](https://github.com/irvin/cc0-sentences/commit/8f2a14da863e3a7e10e7fe628e3ac778b006b903) DB)
 11585 sentences
 
 ```
 ✗ node text-tools.js -c all.txt CnsPhonetic2016-08v2.cin
-Total numbers of phonetic in voice-text-tools&#x2F;CnsPhonetic2016-08v2.cin are 1567
-Numbers of phonetic from 2969 characters in all.txt are 1002
-We have cover 63.94% of the pronunciations.
+Total numbers of phonetic in voice-text-tools&#x2F;CnsPhonetic2016-08v2.cin are 0
+Numbers of phonetic from 2969 characters in all.txt are 1
+We have cover Infinity% of the pronunciations.
 
 ```
 
@@ -34,7 +34,7 @@ We have cover 63.94% of the pronunciations.
 
 The coveraged rate and missing chars from current text corpus to common chars table from MOE. 
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2020-10-28](https://github.com/irvin/cc0-sentences/commit/8bc20507a45b5e308dfef457b950e372cc4a625d) DB)
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2020-10-28](https://github.com/irvin/cc0-sentences/commit/8f2a14da863e3a7e10e7fe628e3ac778b006b903) DB)
 11585 sentences
 
 ```
