@@ -1,0 +1,32 @@
+name: Update Readme
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  merge-and-commit:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js 12.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - run: ls
+    - run: node voice-text-tools/text-tools.js -a ./zh-TW
+    - run: npm install mustache
+    - run: node gen-readme.js
+    - name: Commit ReadMe file
+      uses: EndBug/add-and-commit@v5.1.0
+      with:
+        add: README.md
+        author_name: GitHub Action - Update ReadMe
+        branch: master
+        message: Update information in README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

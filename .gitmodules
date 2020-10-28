@@ -1,0 +1,3 @@
+[submodule "voice-text-tools"]
+	path = voice-text-tools
+	url = https://github.com/irvin/voice-text-tools.git
