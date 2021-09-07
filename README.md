@@ -16,8 +16,8 @@ You can use it without any restriction.
 
 The coveraged rate of phonetic of current corpus, compared to CnsPhonetic2016-08v2.cin input table.
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-09-07](https://github.com/irvin/cc0-sentences/commit/dfac6ad2f7f7feca28e346f655bb8f68e2a84249) DB)
-13962 sentences
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-09-07](https://github.com/irvin/cc0-sentences/commit/3c8ee5e19d63f9e1a11772e8ed96d89c8ab4b024) DB)
+13957 sentences
 
 ```
 ✗ node text-tools.js -c all.txt CnsPhonetic2016-08v2.cin
@@ -34,8 +34,8 @@ We have cover 64.9% of the pronunciations.
 
 The coveraged rate and missing chars from current text corpus to common chars table from MOE. 
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-09-07](https://github.com/irvin/cc0-sentences/commit/dfac6ad2f7f7feca28e346f655bb8f68e2a84249) DB)
-13962 sentences
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-09-07](https://github.com/irvin/cc0-sentences/commit/3c8ee5e19d63f9e1a11772e8ed96d89c8ab4b024) DB)
+13957 sentences
 
 ```
 ➜  voice-text-tools git:(master) ✗ node text-tools.js -o all.txt 教育部2015常用字99.75%\(3593字\).txt
