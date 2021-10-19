@@ -16,13 +16,13 @@ You can use it without any restriction.
 
 The coveraged rate of phonetic of current corpus, compared to CnsPhonetic2016-08v2.cin input table.
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-10-19](https://github.com/irvin/cc0-sentences/commit/0f8862eb97ddcd25062d98b21ee838567eaa12ad) DB)
-16389 sentences
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-10-19](https://github.com/irvin/cc0-sentences/commit/9ba041aea3b05a9f0197f5d068e71b6d77436486) DB)
+16390 sentences
 
 ```
 ✗ node text-tools.js -c all.txt CnsPhonetic2016-08v2.cin
 Total numbers of phonetic in voice-text-tools&#x2F;CnsPhonetic2016-08v2.cin are 1567
-Numbers of phonetic from 3268 characters in all.txt are 1025
+Numbers of phonetic from 3269 characters in all.txt are 1025
 We have cover 65.41% of the pronunciations.
 
 ```
@@ -34,12 +34,12 @@ We have cover 65.41% of the pronunciations.
 
 The coveraged rate and missing chars from current text corpus to common chars table from MOE. 
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-10-19](https://github.com/irvin/cc0-sentences/commit/0f8862eb97ddcd25062d98b21ee838567eaa12ad) DB)
-16389 sentences
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2021-10-19](https://github.com/irvin/cc0-sentences/commit/9ba041aea3b05a9f0197f5d068e71b6d77436486) DB)
+16390 sentences
 
 ```
 ➜  voice-text-tools git:(master) ✗ node text-tools.js -o all.txt 教育部2015常用字99.75%\(3593字\).txt
-Numbers of chars in all.txt are 3268
+Numbers of chars in all.txt are 3269
 Numbers of chars in voice-text-tools&#x2F;教育部2015常用字99.75%(3593字).txt are 3593
 --------------------
 all.txt includes 2905 chars from voice-text-tools&#x2F;教育部2015常用字99.75%(3593字).txt (80.9%)
