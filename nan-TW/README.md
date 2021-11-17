@@ -1,6 +1,6 @@
 # 台語 CC0 句庫
 
-請參見： Common Voice 台語計畫共筆 https://hackmd.io/@moztw/cv-taiwanese-plan
+請參見： [Common Voice 台語計畫共筆](https://github.com/moztw/hackMD_docs/blob/master/common-voice-taiwanese-plan.md)
 
 本句庫僅限收錄無版權的句子，諸如網路文章、小說內容、影劇台詞等，請勿提交。
 
