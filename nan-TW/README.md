@@ -9,3 +9,7 @@
 - 以漢字為主；如教育部字典中沒有對應漢字，才使用羅馬字
 - 在句子後方可以` （發音1）`格式以羅馬字標示發音
 - 如在不同腔調有不同讀音，可以`（發音1 | 發音2）`的方式標示
+
+## 協助清理資料
+
+[ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.csv](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.csv) 中的句子尚需人工整理，確認後放入[ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.csv](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.csv)，歡迎協助。
