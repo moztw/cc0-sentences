@@ -12,4 +12,4 @@
 
 ## 協助清理資料
 
-[ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.csv](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.csv) 中的句子尚需人工整理，確認後放入[ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.csv](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.csv)，歡迎協助。
+[ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.txt](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.txt) 中的句子尚需人工整理，確認後放入[ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.txt](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.txt)，歡迎協助。
