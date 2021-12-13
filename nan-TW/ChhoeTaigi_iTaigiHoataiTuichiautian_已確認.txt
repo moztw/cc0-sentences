@@ -163,7 +163,7 @@
 一徛一畫 （tsi̍t-khiā-tsi̍t-uē）
 一捲 （tsi̍t kńg）
 一掠長 （tsi̍t-lia̍h tn̂g）
-一望無盡 （it bōng bô7 tsīn）
+一望無盡 （it bōng bô tsīn）
 一桮 （tsi̍t-pue）
 一條腸仔通尻川 （tsi̍t tiâu tn̂g-á thong kha-tshng）
 一條歌 （tsi̍t-tiâu-kua）
@@ -454,7 +454,7 @@
 入鄉隨俗，入港隨灣 （ji̍p-hiong suî-sio̍k, ji̍p káng suî uan）
 入錢 （ji̍p-tsînn）
 入螺鈿 （ji̍p-lê-tiān）
-八七分袂當閣較懸矣 （87 hun bē-tàng koh khah kuân--ah）
+八七分袂當閣較懸矣 （pueh-tsa̍p-tshit hun bē-tàng koh khah kuân--ah）
 八斗仔 （Peh-táu-á）
 八方雲集 （Pat-hong-hûn-tsi̍p）
 八仙投資人 （pat-sian tâu-tsu-jîn）
@@ -503,7 +503,7 @@
 十字軍 （Si̍p-jī-kun | Si̍p-lī-kun）
 十字街 （si̍p-jī-ke | si̍p-lī-kue | si̍p-jī-kue）
 十字路頭 （si̍p-jī lōo-thâu）
-十年修得同船渡，百年修得共枕眠 （si̍p liân siu tik tông tsûn tōo, pik liân siu tik kiōng tsím biân）
+十年修得同船渡 （si̍p liân siu tik tông tsûn tōo）
 十扳仔 （si̍p-pán-á）
 十指有長短 （tsa̍p-tsáinn ū tn̂g-té）
 十指迵心肝 （tsa̍p-tsáinn thàng sim-kuann）
@@ -1353,6 +1353,7 @@
 中央大學 （Tiong-iong Tai-ha̍k）
 中央氣象局 （Tiong-ng-khì-siōng-kio̍k）
 中央處理器 （tiong-iong tshú-lí-khì | tiong-ng tshú-lí-khì）
+百年修得共枕眠 （pik liân siu tik kiōng tsím biân）
 呵咾唯是
 無兩人相親像 （bô nn̄g-lâng sio-tshin-tshiūnn）
 跤鬆手弄
