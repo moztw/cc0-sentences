@@ -53,13 +53,11 @@
 一牢豬仔，無一隻會刣（tsi̍t-tiâu ti-á, bô tsi̍t-tsiah ē thâi）
 一言不中，千言無用（it-giân put tiòng, tshian giân bû iōng）
 一言以蔽之
-一言既出，駟馬難追
-話講會得出, 收袂得入
+話講會得出，收袂得入
 一言既出，駟馬難追（it-giân kì tshut, sù má lân tui）
 一身（tsi̍t-sin）
 一身上下
 一身頂下
-一身頭尾
 一身是膽
 獅刀魚無腸無肚，全食一把膽
 一身輕
@@ -67,10 +65,8 @@
 跤鬆手弄
 一身頭尾（tsi̍t-sin thâu-bué）
 一事無成
-十做九不成
 一例一休（it-lē-it-hiu）
-一例一歇（it-lē-it-hioh）
-一例一歇（tsi̍t lē tsi̍t hioh）
+一例一歇（it-lē-it-hioh | tsi̍t-lē tsi̍t-hioh）
 一味稱讚
 呵咾唯是
 一囷草（tsi̍t khûn tsháu）
@@ -133,7 +129,6 @@
 一頂眠床（tsi̍t tíng bîn-tshn̂g）
 一喙氣（tsi̍t-tshuì-khuì）
 一喙掛雙舌（tsi̍t-tshuì kuà siang tsi̍h）
-一喙傳一耳（tsi̍t tshuì thuân tsi̍t hīnn）
 一喙傳一耳（tsi̍t-tshuì thuân tsi̍t hīnn）
 一喙雙頭（tsi̍t-tshuì siang-thâu）
 一喙雙頭出（tsi̍t-tshuì siang-thâu tshut）
@@ -146,8 +141,7 @@
 一絲一厘都無差（tsi̍t si tsi̍t lî to bô-tsha）
 一絲仔就袂走閃得（tsi̍t-si-á tō bē tsáu-siám tit）
 一開始（tsi̍t-khai-sí）
-一溜仔囝（tsi̍t-lí-ū-á-kiánn）
-一溜仔囝（tsi̍t-liu-á-kiánn）
+一溜仔囝（tsi̍t-lí-ū-á-kiánn | tsi̍t-liu-á-kiánn）
 一窟死窟仔水（tsi̍t-khut sí-khut-á-tsuí）
 一節課（tsi̍t tsiat khò）
 一葩火（tsi̍t pha hué）
@@ -172,17 +166,14 @@
 一耦鱟（tsi̍t-ngauh-hāu）
 一橫（tsi̍t-huâinn | tsi̍t-huînn）
 一舉兩得（it-kí-lióng-tit）
-一舉兩得（it-kí lióng tit）
 一蕊（tsi̍t luí）
 一諾千金（it lo̍k tshian-kim）
 一錯再錯（it tshò tsài tshò）
 一霎仔久（tsi̍t-tiap-á-kú）
-一聲毋知，百項無代（tsi̍t siann m̄ tsai pah hāng bô-tāi）
 一聲毋知，百項無代（tsi̍t-siann m̄-tsai, pah-hāng bô-tāi）
 一還一，二還二（tsi̍t huân tsi̍t, jī huân jī）
 一點一揬（tsi̍t-tiám tsi̍t-tuh）
 一點一滴（tsi̍t-tiám-tsi̍t-tih）
-一點也貓，百點也貓（tsi̍t-tiám iā niau pah-tiám iā niau）
 一點也貓，百點也貓（tsi̍t-tiám iā niau, pah-tiám iā niau）
 一點仔（tsit-tiám-á）
 一點仔囝（tsi̍t-tiám-á-kiánn）
@@ -198,11 +189,7 @@
 一thiōng錢（tsi̍t thōng tsînn）
 一tòng錢（tsi̍t tòng tsînn）
 乙太（it-thài）
-乙太（it-thaì）
-乙太坊（It-thài-hng）
-乙太坊（it-thài-hng）
-乙太坊（It-thài-hong）
-乙太坊（it-thài-hong）
+乙太坊（It-thài-hng | It-thài-hong）
 乙太幣（It-thài-pè）
 乙狀結腸（it-tsōng-kiat-tn̂g）
 丁字褲（ting-jī-khòo）
@@ -222,11 +209,8 @@
 七仔笑八仔（tshit--á tshiò peh--á）
 七扣八扣（tshit-khàu-peh-khàu）
 七扣八除（tshit-khàu-peh-tû）
-七早八早（tshit tsá peh tsá）
-七早八早（tshit-tsá-peh-tsá）
-七早八早（tshit-tsá-pueh-tsá）
+七早八早（tshit-tsá-peh-tsá | tshit-tsá-pueh-tsá）
 七老八老（tshit-lāu-peh-lāu）
-七老八拄（Tshit-lāu-peh-tú）
 七老八拄（tshit-lāu-peh-tú）
 七色圖（tshit-sik-tôo）
 七身無夠死（tshit-sin bô-kàu sí）
@@ -234,6 +218,7 @@
 七奇八怪（tshit kî peh kuài）
 七拐八拐（tshit-kuái-peh-kuái）
 七的（tshit--ê）
+七股（Tshit-kóo）
 七股臺灣鹽博物館（Tshit-kóo Tâi-uân Iâm Phok-bu̍t-kuán）
 七歪八拐（tshit-uai-peh-kuái）
 七歪八斜（tshit uai peh tshua̍h）
@@ -266,7 +251,6 @@
 九方陣（kiú-hong-tīn）
 九月重陽（káu-gue̍h-tiông-iâng）
 九份仔（Káu-hūn-á）
-九份仔（káu-hun-á）
 九如（Kiú-jû | Kiú-lû）
 九州（kiú-tsiu）
 九年一貫（káu-nî it-kuàn）
@@ -299,10 +283,8 @@
 二二八事件（Jī-jī-pat sū-kiānn）
 二八十六，四四也十六（jī pat tsa̍p la̍k sì sì iā tsa̍p la̍k）
 二八佳人（jī pat ka-jîn）
-二十（jī-tsa̍p）
-二十（ji-tsa̍p）
+二十（jī-tsa̍p | ji-tsa̍p）
 二月（jī--gue̍h）
-二月（jī-gue̍h）
 二四小時（jī-sì-sió-sî）
 二竹圍（Jī-tik-uî）
 二弦（jī-hiân）
@@ -323,7 +305,6 @@
 人工神經網路（jîn-kang sîn-king bāng-lōo）
 人工智能（jîn-kang tì-lêng）
 人工智慧（jîn-kang tì-huī）
-人工智慧（jîn-kang-tì-huī）
 人工糞口（jîn-kang phùn-kháu）
 人中齒（jîn-tiong-khí）
 人之常情（jîn-tsi-siông-tsîng）
@@ -360,10 +341,7 @@
 人家女（lâng-ke-li）
 人氣（jîn-khì）
 人氣歌（jîn-khì-kua）
-人參（gîn-som）
-人參（ji̋n-jín）
-人參（jîn-sim）
-人參（jîn-som | lîn-som）
+人參（jîn-som | lîn-som | jîn-sim | ji̋n-jín | gîn-som）
 人參榕（jîn-sim tshîng）
 人情冷暖，世態炎涼（jîn-tsîng líng luán, sè thài iām liâng）
 人情冷暖（jîn-tsîng líng luán）
@@ -447,7 +425,6 @@
 刀兵水火劫（to ping tsuí-hué kiap）
 刀斧手（to-hú-siú）
 刀板仁豆（to-pán jîn tāu）
-刀喙（to tshuì）
 刀喙（to-tshuì）
 刀路深（to-lōo tshim）
 刀嶺（to-niá）
@@ -461,7 +438,6 @@
 十八狗（si̍p-pat-káu）
 十三天外（tsa̍p sann thinn guā）
 十三行（Tsa̍p-sann-hâng）
-十大功勞（tsa̍p tuā kong-lô）
 十大功勞（tsa̍p-tuā kong-lô）
 十分佔九分九（tsa̍p hun tsiàm káu hun káu）
 十叮嚀，八吩咐（tsa̍p ting-lîng peh huan-hù | tsa̍p ting-lîng pueh huan-hù）
@@ -472,10 +448,8 @@
 十全大補（si̍p-tsuân tāi póo）
 十囝十新婦，賰一个老寡婦（tsa̍p kiánn tsa̍p sin-pū, tshun tsi̍t-ê lāu kuá-hū）
 十字互街（si̍p-jī-hòo-kue | si̍p-jī-hòo-ke）
-十字軍（Si̍p-jī-kun）
-十字軍（Si̍p-lī-kun）
-十字街（si̍p-jī-ke | si̍p-lī-kue）
-十字街（si̍p-jī-kue | si̍p-jī-ke）
+十字軍（Si̍p-jī-kun | Si̍p-lī-kun）
+十字街（si̍p-jī-ke | si̍p-lī-kue | si̍p-jī-kue）
 十字路頭（si̍p-jī lōo-thâu）
 十年修得同船渡，百年修得共枕眠（si̍p liân siu tik tông tsûn tōo, pik liân siu tik kiōng tsím biân）
 十扳仔（si̍p-pán-á）
@@ -483,11 +457,9 @@
 十指迵心肝（tsa̍p-tsáinn thàng sim-kuann）
 十限九無影（tsa̍p ān káu bô-iánn）
 十做九不成（tsa̍p tsò káu put-sîng）
-十桱床（tsa̍p-kènn-tshn̂g）
-十桱床（tsa̍p-kìnn-tshn̂g）
+十桱床（tsa̍p-kènn-tshn̂g | tsa̍p-kìnn-tshn̂g）
 十喙九尻川（tsa̍p tshuì káu kha-tshng）
-十喙九頭面（tsa̍p tshuì káu thâu-bīn）
-十喙九頭面（tsa̍p-tshuì-káu-thâu-bīn）
+十喙九頭面（tsa̍p-tshuì káu-thâu-bīn）
 十跤五手（tsa̍p kha gōo tshiú）
 十鼓仁糖文創園區（Si̍p-kóo Jîn-thn̂g Bûn-tshòng Uân-khu）
 十箍（tsa̍p khoo）
@@ -499,7 +471,6 @@
 三七二十一（sann tshit jī-tsa̍p it）
 三人共一心，烏塗變成金（sann lâng kāng tsit-sim, oo-thôo piàn-sîng kim）
 三人兩面（sann-lâng nn̄g-bīn）
-三八叮咚（sam-pat ting tong）
 三八叮咚（sam-pat ting-tong）
 三八叮噹（sam-pat ting tang）
 三八甲有賰（sam-pat kah ū-tshun）
@@ -507,7 +478,6 @@
 三八查某（sam-pat tsa-bóo）
 三八哩囉（sam-pat li-lo）
 三八假賢慧（sam-pat ké hiân-huē）
-三八無藥醫（sam-pat bô io̍h i）
 三八無藥醫（sam-pat bô-io̍h-i）
 三八膣（sam-pat-tsi）
 三十下昏（sann-tsa̍p-e-huinn）
@@ -521,8 +491,7 @@
 三个半人（sann-ê puànn-lâng）
 三千年一擺海漲（sann-tshing nî tsi̍t pái hái-tiòng）
 三千年的狗屎也提出來講（sann-tshing-nî ê káu-sái iā the̍h--tshut-lâi kóng）
-三叉河（Sam-tshe-hô）
-三叉河（Sann-tshe-hô）
+三叉河（Sam-tshe-hô | Sann-tshe-hô）
 三大法人（sann-tuā-huat-jîn）
 三不五時（sam put gōo sî）
 三不正時（sann put tsìng sî）
@@ -537,7 +506,6 @@
 三月（sann--gue̍h | sann--ge̍h）
 三月痟媽祖（sann--gue̍h siáu Má-tsóo）
 三月節（sann-gue̍h tseh）
-三仔三十一（sann á sann-tsa̍p it）
 三仔三十一（sann-á-sann-tsa̍p-it）
 三仙台（Sam-sian-tâi）
 三民主義（Sam-bîn-tsú-gī）
@@ -584,7 +552,6 @@
 三明（Sam-bîng）
 三杯卵糕（sann-pue-nn̄g-ko）
 三林鎮（Sam-lîm-tìn）
-三長四短命（sann tn̂g sì té-miā）
 三長四短命（sann-tn̂g-sì-té-miā）
 三長兩短（sann-tn̂g-nn̄g-té）
 三門（Sam-bûn）
@@ -593,8 +560,7 @@
 三星（Sam-sing）
 三界公生（Sann-kài-kong-senn）
 三皇五帝（Sam-hông Ngóo-tè）
-三重（sam-tîng）
-三重（Sam-tiông）
+三重（Sam-tîng | Sam-tiông）
 三重埔（Sam-tiông-poo）
 三敆鐵（Sann-kap-thih）
 三時風兩時雨（sann-sî hong, nn̄g-sî hōo）
@@ -603,7 +569,6 @@
 三隻豬仔（sann tsiah ti-á）
 三做四毋著（sann tsò sì m̄-tio̍h）
 三做四歇（sann tsò sì hioh）
-三國志（sam-kok-tsì）
 三國志（Sam-kok-tsì）
 三國鼎立（sam-kok tíng-li̍p）
 三國演義（Sam-kok-ián-gī）
@@ -628,7 +593,6 @@
 三跤娘仔（sann-kha-niû-á）
 三跤馬（sann-kha-bé）
 三跤豬僫刣（sann-kha-ti oh-thâi）
-三跤貓笑一目狗（sann-kha-niau tshiò tsi̍t ba̍k káu）
 三跤貓笑一目狗（sann-kha-niau tshiò tsi̍t-ba̍k-káu）
 三跤鱉（sann-kha pih）
 三頓前，兩頓後（sann-tn̄g tsîng, nn̄g tǹg āu）
@@ -680,11 +644,9 @@
 上海（Siāng-hái）
 上海毛蟹（Siōng-hái moo-hē）
 上尉（siōng-uì）
-上媠（siāng-suí）
-上媠（siōng-suí）
+上媠（siāng-suí | siōng-suí）
 上廁所（tsiūnn tshè-sóo）
-上傳（siōng-thuân）
-上傳（tsiūⁿ-thuân）
+上傳（siōng-thuân | tsiūⁿ-thuân）
 上愛（siōng ài）
 上落（tsiūnn-lo̍h）
 上虞（Siōng-gû）
@@ -693,8 +655,7 @@
 上膊骨（siōng-phok-kut）
 上蓋戇（siōng-kài gōng）
 上閹雞膋（tsiūnn iam-ke lâ）
-上頭一下（siōng-thâu-tsê）
-上頭一下（siōng-thâu-tsi̍t-ē）
+上頭一下（siōng-thâu-tsê | siōng-thâu-tsi̍t-ē）
 上頭上面（tsiūnn thâu tsiūnn bīn）
 上頭仔（sîng-thâu-á | siâng-thâu-á）
 上濟（siāng tsē）
@@ -712,8 +673,7 @@
 下半晝仔（ē-puànn-tàu-á）
 下半晡（ē-puànn-poo）
 下半晡仔（ē-puànn-poo-á）
-下早（ē-tsá）
-下早（ē-tsái）
+下早（ē-tsá | ē-tsái）
 下早仔（e-tsái-á）
 下早市（ē-tsái-tshī）
 下早飯（e-tsái-pn̄g）
@@ -722,8 +682,7 @@
 下昏（e-huinn）
 下昏時（ing-sî）
 下昏討無明仔早起頓（e-hng thó bô bîng á tsá-khí-tǹg）
-下昏暗（e-hng-àm）
-下昏暗（ing-àm）
+下昏暗（e-hng-àm | ing-àm）
 下昏暗時（ing-àm sî）
 下城（Ē-siânn）
 下埔（Ē-poo）
@@ -760,11 +719,9 @@
 久年百載（kú nî pah tsài）
 久年萬代（kú nî bān tāi）
 久別（kiú-pia̍t）
-久旱逢甘霖（kiú hān hông kam-lîm）
 久旱逢甘霖（kiú hān hông kâm-lîm）
 久長病，無孝子（kú-tn̂g-pēnn, bô hàu-tsú）
 乞丐趕廟公（khit-tsia̍h kuánn biō-kong）
-乞食下大願（khit-tsia̍h hē tuā guān）
 乞食下大願（khit-tsia̍h hē tuā-guān）
 乞食加薦落去，講也無效（khit-tsia̍h ka-tsì lo̍h-khì kóng iā bô-hāu）
 乞食做忌（khit-tsia̍h tsò-kī）
@@ -783,7 +740,6 @@
 亡國奴（bông-kok lôo）
 凡若是（huân-nā-sī）
 凡勢（huān-sè | huān-sì）
-凡勢（huān-sè）
 千（tshuinn）
 千人共見（tshian-jîn-kiōng-kiàn）
 千刀萬割（tshian to bān kuah）
@@ -814,8 +770,7 @@
 口座（kháu-tsō）
 口座暗碼（kháu-tsō àm-bé）
 口感（kháu-kám）
-口罩（kháu-tà）
-口罩（khió-tàu）
+口罩（kháu-tà | khió-tàu）
 口蹄疫（kháu-tê-i̍k）
 口靈舌辯（kháu lîng sia̍t piān）
 土人參（thóo jîn-sim）
@@ -823,8 +778,7 @@
 土生仔（thóo-senn-á）
 土生仔囝（thóo-sinn-á-kiánn | thóo-senn-á-kiánn）
 土生囝（thóo-sinn-kiánn | thóo-senn-kiánn）
-土地公（Thóo-lī-kong）
-土地公（Thóo-tī-kong）
+土地公（Thóo-lī-kong | Thóo-tī-kong）
 土地公伯（thóo-tē-kong-peh）
 土地公金（thóo-tē-kong-kim）
 土地公僫請（Thóo-tē-kong oh tshiánn）
@@ -834,8 +788,7 @@
 土地公擽跤底（Thóo-tē-kong ngiau kha-té）
 土米仔（thóo-bí-á）
 土耳古（thóo-ní-kóo）
-土耳其（Thóo-jínn-kî）
-土耳其（Thóo-ní-kî）
+土耳其（Thóo-jínn-kî | Thóo-ní-kî）
 土角窟（thôo-kak-khut）
 土板仁豆（thóo pán jîn tāu）
 土家族（Thóo-ka-tso̍k）
@@ -880,8 +833,7 @@
 大台南公車故事館（Tāi Tâi-lâm Kong-tshia Kòo-sū-kuán）
 大四肢（tāu-sù-ki）
 大尻川龍（Tuā-kha-tshng-liông）
-大巨蛋（Tāi-kī-tàn | Tāi-kū-tàn）
-大巨蛋（tuā-kì-tàn | tuā-kù-tàn）
+大巨蛋（Tāi-kī-tàn | Tāi-kū-tàn | Tuā-kì-tàn | Tuā-kù-tàn）
 大平台（tuā-pîng-tâi）
 大平陽（tuā-pîng-iûnn）
 大本山葡萄（tuā-pún suann pô-tô）
@@ -894,7 +846,6 @@
 大目降文化園區（Tuā-ba̍k-kàng Bûn-huà Uân-khu）
 大目框仔（tuā-ba̍k-khing-á）
 大目海鰱（tuā-ba̍k-hái-liân）
-大目側仔（tuā-ba̍k tsik-á）
 大目側仔（tuā-ba̍k-tsik-á）
 大目船（tuā-ba̍k-tsûn）
 大目鏡片（tuā-ba̍k-kiànn-phìnn）
@@ -903,7 +854,6 @@
 大同仔水雞（Tāi-tông-á-tsuí-ke）
 大名鼎鼎（tāi-bîng tíng-tíng）
 大圳（tuā-tsùn）
-大好大敗（tuā hó tuā pāi）
 大好大敗（tuā-hó-tuā-pāi）
 大好額（tuā-hó-gia̍h）
 大好額人（tuā hó-gia̍h-lâng）
@@ -916,7 +866,6 @@
 大汗四簾垂（tuā kuānn sì-liâm suî）
 大百（tuā-pah）
 大舌（tuā-tsi̍h | tuā-tsī）
-大舌（tuā-tsi̍h）
 大舌口（tuā-tsi̍h-kháu）
 大舌怪（Tuā-tsi̍h-kuài）
 大舌閣興喋（tuā-tsi̍h koh hìng thi̍h）
@@ -934,9 +883,7 @@
 大肚胿仔（tuā tōo kuai á）
 大肚魚仔（tuā-tōo hî-á）
 大角喙（tuā-kak-tshuì）
-大身閣滾龍（tuā-sin koh kún liông）
 大身閣滾龍（tuā-sin koh kún-liông）
-大車夯（tuā tshia giâ）
 大車夯（tuā-tshia-giâ）
 大車路（tuā-tshia-lōo）
 大里簡（Tāi-lí-kán）
@@ -957,8 +904,7 @@
 大直（Tuā-ti̍t）
 大社（Tuā-siā）
 大社欺負小社（tuā-siā khi-hū sió siā）
-大穹頂（Tua-khiong-tíng）
-大穹頂（Tuā-kiong-tíng）
+大穹頂（Tua-khiong-tíng | Tuā-kiong-tíng）
 大肥相偃（tuā-puî sio-ián）
 大金面（Tuā-kim-bīn）
 大門大戶（tuā muî tuā hōo）
@@ -995,7 +941,6 @@
 大茴（tuā-huê）
 大茴香（tuā-huê-hiunn）
 大草（tuā-tsháu）
-大起大落（tuā khí tuā lo̍h）
 大起大落（tuā-khí-tuā-lo̍h）
 大針蜂（Tuā-tsiam-phang）
 大隻野狼（tuā-tsiah iá-lông）
@@ -1053,7 +998,6 @@
 大爺二爺（tuā-iâ-jī-iâ）
 大爺細爺（tuā-iâ-sè-iâ）
 大窟（tuā-khut）
-大窟（Tuā-khut）
 大腦（tuā-náu）
 大腸香腸（tuā-tn̂g ian-tshiâng）
 大腸頭（tuā-tn̂g-thâu）
@@ -1075,14 +1019,12 @@
 大慈大悲（tāi-tsû-tāi-pi）
 大暝日（tuā-mê-ji̍t）
 大滾水（tuā-kún-tsuí）
-大漢食細漢（tuā-hàn tsia̍h sè-hàn）
-大漢食細漢（tuā-hàn ttsia̍h sè-hàn）
+大漢食細漢（tuā-hàn tsia̍h sè-hàn | tuā-hàn ttsia̍h sè-hàn）
 大漢嬰（tuā-hàn-enn）
 大箍（tuā-khoo）
 大箍丁（tuā-khoo-ting）
 大箍人（tuā-khoo-lâng）
-大箍人好看頭（tuā-khoo lâng hó khuánn-thâu）
-大箍人好看頭（tuā-khoo lâng hó khuànn-thâu）
+大箍人好看頭（tuā-khoo lâng hó khuánn-thâu | tuā-khoo lâng hó khuànn-thâu）
 大箍个（tuā-khoo-ê）
 大箍菜頭蓬心（tuā-khoo tshài-thâu pōng-sim）
 大箍箍丁（tuā-khoo-khoo-ting）
@@ -1095,8 +1037,7 @@
 大舞大抐（tuā bú tuā lā）
 大舞抐（tuā bú lā）
 大餅圖（tuā-piánn-tôo）
-大墩（Tāi-tun）
-大墩（Tuā-tun）
+大墩（Tāi-tun | Tuā-tun）
 大廞使騃錢（tuā-him sái gâi-tsînn）
 大數據（tāi sòo-kì | kù）
 大潤發（Tāi-jūn-huat）
@@ -1104,8 +1045,7 @@
 大稻埕（Tuā-tiū-tiânn）
 大箱（tuā-siunn）
 大賣場（tuā-bē-tiûnn）
-大樹（tuā-tshiū）
-大樹（Tuā-tshiū）
+大樹（Tuā-tshiū | Tuā-tshiū）
 大樹好蔭影（tuā-tshiū hó ìm-ńg）
 大樹破有柴（tuā-tshiū phuà ū tshâ）
 大澳（Tuā-ò）
@@ -1117,7 +1057,6 @@
 大頭使（tuā-thâu-su̍t）
 大頭拇（tuā-thâu-bú）
 大頭拇公（tuā-thâu-bú-kong）
-大頭拇反（Tuā-thâu-bú-píng）
 大頭拇反（tuā-thâu-bú-píng）
 大頭狗母（tuā-thâu káu-bó）
 大頭家（tuā-thâu-ke）
@@ -1126,7 +1065,6 @@
 大頭釘（tuā-thâu-ting）
 大頭菜（tuā-thâu-tshài）
 大頭蝦（Tuā-thâu-hê）
-大頷胿（tuā ām-kui）
 大頷胿（tuā-ām-kui）
 大頷頸胿（tuā ām-kún kui）
 大館犬（tāi-kuán-khián）
@@ -1161,8 +1099,7 @@
 子宮頭（tsú-kiong-thâu）
 子宮頸（tsú-kiong-kíng）
 子貢（Tsú-kòng）
-子游（Tsír-iû）
-子游（Tsú-iû）
+子游（Tsír-iû | Tsú-iû）
 子路（Tsú-lōo）
 小七哥仔（sió-tshit ko-á）
 小人國（siáu-jîn-kok）
@@ -1181,8 +1118,7 @@
 小可代誌（sió-khuá tāi-tsì）
 小可生理（sió-khuá sing-lí）
 小可事變做大曠臼（sió-khuá sū piàn-tsó tuā khàng-khū）
-小巨蛋（siáu-kū | kī-tàn）
-小巨蛋（sió kī-tàn）
+小巨蛋（siáu-kū-tàn | siáu-kī-tàn | sió kī-tàn）
 小生理（sió-sing-lí）
 小血球（sió-hueh-kiû）
 小行星（sió-hi̍k-tshinn | sió-hi̍k-tshenn）
@@ -1212,7 +1148,6 @@
 小惑星（sió-hi̍k-tshenn | sió-hi̍k-tshinn）
 小暑（sió-sí | siáu-sí）
 小等一下（sió-tán--tsi̍t-ē）
-小等一下（sió-tán-tsi̍t-ē）
 小歇（sió-hioh）
 小腦（sió-náu）
 小資（sió-tsu）
@@ -1236,15 +1171,13 @@
 山田（suann-tshân）
 山地門（Suann-tē-mn̂g）
 山地門鄉（Suann-tē-mn̂g-hiong）
-山寺（san-sī）
-山寺（suann-sī）
+山寺（san-sī | suann-sī）
 山尖（suann-tsiam）
 山竹（suann-tik）
 山羊仔（suann-iûnn-á）
 山西（Suann-sai）
 山西省（Suann-sai-síng）
 山尾溜（suann-bué-liu | suann-bé-liu）
-山尾溜（suann-bué-liu）
 山坪（suann-phiânn）
 山坪仔（suann-phiânn-á）
 山奈（suann-nāi）
@@ -1272,8 +1205,7 @@
 山楂攕（sian-tsa-tshiám | san-tsa-tshiám）
 山溪仔水（suann khe-á tsuí）
 山萵仔菜（suann ue-á-tshài）
-山精（suann-tsiann）
-山精（suann-tsinn）
+山精（suann-tsiann | suann-tsinn）
 山鼻仔（Suann-phīnn-á）
 山窮海竭（san khîng hái kiat）
 山豬毛（Suann-ti-mn̂g）
@@ -1373,8 +1305,7 @@
 中尺度對流系統（tiong-tshioh-tōo tùi-liû hē-thóng）
 中央大學（Tiong-iong Tai-ha̍k）
 中央氣象局（Tiong-ng-khì-siōng-kio̍k）
-中央處理器（tiong-iong tshú-lí-khì）
-中央處理器（tiong-ng tshú-lí-khì）
+中央處理器（tiong-iong tshú-lí-khì | tiong-ng tshú-lí-khì）
 中央選舉委員會（Tiong-iong Suán-kí Uí-uân-huē）
 中正路（Tiong-tsìng-lōo）
 中和（Tiong-hô）
