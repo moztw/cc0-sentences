@@ -1,3 +1,4 @@
+工業指數（kang-gia̍p-tsí-sòo）
 中央選舉委員會（Tiong-iong Suán-kí Uí-uân-huē）
 中正路（Tiong-tsìng-lōo）
 中和（Tiong-hô）
@@ -184,10 +185,10 @@
 公歇（kong-hioh）
 公敵（kong-ti̍k）
 公親（kong-tshin）
+公親情無人叫食晝（kong tshin-tsiânn bô-lâng kiò tsia̍h-tàu）
 公雞（雞公仔）
 公聽會（kong-thiann-huē）
 公廳無人掃（kong-thiann bô-lâng sàu）
-公親情無人叫食晝（kong tshin-tsiânn bô-lâng kiò tsia̍h-tàu）
 六十石山（La̍k-tsa̍p-tsio̍h-suann）
 六六大順（lio̍k-lio̍k-tāi-sūn）
 六支尾（La̍k-ki-bué）
@@ -501,9 +502,9 @@
 心肝無趁喙（sim-kuann bô thàn-tshuì）
 心肝無意向（sim-kuann bô ì-hiàng）
 心肝結規丸（sim-kuann kiat kui-uân）
-心肝較大過王莽（sim-kuann khah-tuā kuè Ông-bóngT）
 心肝較大牛肺（sim-kuann khah tuā gû-hì）
 心肝較大過牛肺（sim-kuann khah-tuā kuè gû-hì）
+心肝較大過王莽（sim-kuann khah-tuā kuè Ông-bóngT）
 心肝頭（sim-kuann-thâu）
 心肝頭放外外（sim-kuann-thâu pàng-guā-guā）
 心肝頭知知（sim-kuann-thâu tsai-tsai）
@@ -675,8 +676,8 @@
 月亮（gue̍h-liāng）
 月信（gue̍h-sìn）
 月津港（Gua̍t-tin-káng）
-月眉（Gue̍h-bâi | Ge̍h-bâi）
 月眉（gue̍h-bâi | ge̍h-bâi）
+月眉（Gue̍h-bâi | Ge̍h-bâi）
 月眉（gue̍h-bâi）
 月食日（gue̍h tsia̍h ji̍t）
 月娘（gue̍h-niû | ge̍h-niû）
@@ -1131,8 +1132,8 @@
 牛仔毋捌虎（gû-á m̄ bat hóo）
 牛仔囝（gû-á-kiánn）
 牛奶（gû-ling）
-牛奶咖啡（gû-ling-ka-pi | gû-ni-ka-pi）
 牛奶咖啡（gû-ling-ka-pi | gû-lin-ka-pi | gû-ni-ka-pi）
+牛奶咖啡（gû-ling-ka-pi | gû-ni-ka-pi）
 牛奶凍（gû-ling-tàng）
 牛奶粉錢（gû-ling-hún-tsînn）
 牛奶茶（gû-ling-tê）
@@ -1146,8 +1147,8 @@
 牛牢內觸牛母（gû-tiâu lāi tak gû-bó）
 牛角豆（gû-kak-tāu）
 牛角𨂿（gû-kak-uâinn）
-牛屎龜（Gû-sái-ku）
 牛屎龜（gû-sái-ku）
+牛屎龜（Gû-sái-ku）
 牛屎龜牚石枋（gû-sái-ku thènn tsio̍h-pang）
 牛相觸（Gû-sio-tak）
 牛約（Giû-iok）
@@ -1459,6 +1460,7 @@
 去西方極樂世界（khì se-hong ki̍k-lo̍k sè-kài）
 去佗位（khì tó-uī）
 去便所（khì piān-sóo）
+去香港（khì hiong-káng | khì Hiong-kóng）
 去倒（khì-tò）
 去倒拍（khì-tò phah | khù-tò phah）
 去倒䆀（khì-tò-bái）
@@ -1543,8 +1545,6 @@
 台灣島（Tâi-uân-tó）
 台灣料理（Tâi-uân liāu-lí）
 台灣海峽（Tâi-uân Hái-kiap）
-烏腳病（Oo-kha-pēnn | Oo-kha-pīnn）
-醫療紀念館（i-liâu Kì-liām-kuán）
 台灣烏熊（Tâi-uân Oo-hîm）
 台灣就是台灣（Tâi-uân tō sī Tâi-uân）
 台灣猴（tâi-uân-kâu）
@@ -1657,13 +1657,13 @@
 夯篙尺（giâ-ko-tshioh）
 夯鐵輪（giâ-thih-lián）
 夯𡳞毋知轉肩（giâ lān mt-sai tńg king）
-失眠（sit-bîn）
 失日（sit-ji̍t）
 失月（sit-gue̍h）
 失水（sit-tsuí）
 失主（sit-tsú）
 失角擦（sit-kak-tshat）
 失格（sit-keh）
+失眠（sit-bîn）
 失智（sit-tì）
 失智症（sit-tì-tsìng）
 失臉面（sit-lián-bīn）
@@ -1770,8 +1770,8 @@
 幼囡仔（iù-gín-á）
 幼妓（iù-ki）
 幼腳（iù-kioh）
-幼齒（Iù-khí）
 幼齒（iù-khí）
+幼齒（Iù-khí）
 弗素（hut-sòo）
 必巡（pit-sûn）
 必祚（pit-tsà）
@@ -2627,9 +2627,6 @@
 曲棍球（khiok-kùn-kîu）
 曲盤（khik-puânn）
 有，毋食也戇（ū m̄-tsia̍h iā gōng）
-有做一站，無做虎牚頷（ū tsò tsi̍t-tsām bô tsò hóo thènn thâu）
-有做虎吞，無做虎睏（ū tsò hóo thun bô tsò hóo khùn）
-有做虎hām，無做虎牚頷（ū tsò hóo hām bô tsò hóo thènn-ām）
 有一二步拭矣（ū-tsi̍t-nn̄g-pōo-tshit--ah）
 有一个人款（ū tsi̍t ê lâng khuán）
 有一个人範（ū tsi̍t-ê lâng-pān）
@@ -2671,6 +2668,9 @@
 有氣的（ū-khuì--ê）
 有神論（iú-sîn-lūn）
 有站有節（ū-tsām-ū-tsat）
+有做一站，無做虎牚頷（ū tsò tsi̍t-tsām bô tsò hóo thènn thâu）
+有做虎吞，無做虎睏（ū tsò hóo thun bô tsò hóo khùn）
+有做虎hām，無做虎牚頷（ū tsò hóo hām bô tsò hóo thènn-ām）
 有兜有捎（ū-tau-ū-sau）
 有問題（ū būn-tê）
 有問題嗎（ū būn-tê--bô）
@@ -3185,6 +3185,7 @@
 你這馬敢有閒（lí tsit-má kám ū-îng）
 你都好鬥陣（lí to hó tàu-tīn）
 你就好鬥陣（lí tō hó-tàu-tīn）
+你敢是白癡的？（lí kám sī pe̍h-tshi--ê?）
 你敢欲（lí kánn beh?）
 你敢攏無歇睏（lí-kám-lóng-bô-hioh-khùn）
 你無講話，無人講你是啞口（lí bô kóng-uē, bô-lâng kóng lí sī é-káu）
@@ -3469,8 +3470,8 @@
 我毋捌台語（guá m̄ bat tâi-gí | guá m̄ bat tâi-gú）
 我去（guá khì）
 我台語講了真好（guá Tâi-gí kóng-liáu tsin hó）
-我共你講（Guá kā lí kóng）
 我共你講（guá kā lí kóng）
+我共你講（Guá kā lí kóng）
 我佇厝（guá tī tshù）
 我沒咧驚（guá bô leh kiann）
 我沒錢（guá bô-tsînn）
@@ -4313,13 +4314,14 @@
 店頭（tiàm-thâu）
 店頭家（tiàm-thâu-ke）
 庚子年（kenn-tsú-nî）
-府玉（Hú-gio̍k）
 府玉（hú-gio̍k）
+府玉（Hú-gio̍k）
 延平郡王（Iân-pîng-kūn-ông）
 延延（iân-tshiân）
 延長線（iân-tn̂g-suànn）
 延畢（iân-pit）
 延腦（iân-náu）
+延號（iân-hō）
 弦倍司（hiân-beh-suh）
 彼久（hit-kú）
 彼字（hit jī）
@@ -4623,6 +4625,7 @@
 明體（bîng-thé）
 昏頭（hun-thâu）
 服面（ho̍k-bīn）
+服務貿易協議（Ho̍k-bū Bōo-i̍k Hia̍p-gī）
 服務鈴（ho̍k-bū-lîng）
 服貿協議（Ho̍k-bōo Hia̍p-gī）
 杭州（Hâng-tsiu）
@@ -4734,8 +4737,8 @@
 沓沓仔是（ta̍uh-ta̍uh-á sī）
 沓滴（ta̍p-tih）
 沫（phe̍h | phe̍rh）
-河上洲（Hô-siōng-tsiu）
 河上洲（hô-siōng-tsiu）
+河上洲（Hô-siōng-tsiu）
 河老話（Hô-ló-uē）
 河洛話（Hô-ló-uē）
 河狹水緊，人急智生（hô e̍h tsuí kín, lâng kip tì senn）
@@ -4833,6 +4836,7 @@
 𤆬班（tshuā-pan）
 𤆬路（tshuā-lōo）
 𤆬路冊（tshuā-lōo-tsheh）
+𤆬路冊（Tshuā-lōo-tsheh）
 𤆬路狗（tshuā-lōo-káu）
 𤆬路機（tshuā-lōo ki）
 𤆬路機（tshuā-lōo-ki）
@@ -5158,7 +5162,6 @@
 阿扁仔（A-pínn-á）
 阿美族（A-bí-tso̍k）
 阿香去買的香真芳（A-hiong khì bé-ê hiunn tsin-phang）
-去香港（khì hiong-káng | khì Hiong-kóng）
 阿修羅（A-siu-lô）
 阿哥仔公子（a-ko-á kong-tsú）
 阿娘喂（a-niâ-uê）
@@ -5169,7 +5172,6 @@
 阿婆你莫吵（a-pô lí mài tshá）
 阿曼（A-bān）
 阿富汗（A-hù-hān）
-你敢是白癡的？（lí kám sī pe̍h-tshi--ê?）
 阿媽（a-má）
 阿媽我欲放屎（A-má guá beh pàng-sái）
 阿罩霧（A-tà-bū）
@@ -5717,8 +5719,8 @@
 柳營（Liú-iânn）
 柿仔色（khī-á-sik）
 歪歪跩跩（uai-uai-tsuāinn-tsuāinn）
-歪歪講，聖聖著（uai uai kóng siànn siànn tio̍h）
 歪歪講，正正著（uai uai kóng tsiànn tsiànn tio̍h）
+歪歪講，聖聖著（uai uai kóng siànn siànn tio̍h）
 歪哥錢（uai-ko-tsînn）
 歪喙斜目（uai-tshuì tshua̍h-ba̍k）
 歪喙雞毋食䆀米（uai-tshuì ke m̄ tsia̍h bái bí）
@@ -6305,8 +6307,8 @@
 飛𥐵仔（hui-phiat-á）
 飛𥐵仔球（pue-phiat-á-kiû | pe-phiat-á-kiû）
 食人（tsia̍h-lâng）
-食人一口，還人一斗（tsia̍h-lâng tsi̍t-kháu hîng-lâng tsi̍t-táu）
 食人一口，還人一斗（tsia̍h lâng tsi̍t káu, hîng lâng tsi̍t táu）
+食人一口，還人一斗（tsia̍h-lâng tsi̍t-kháu hîng-lâng tsi̍t-táu）
 食人一斤，也著還人四兩（tsia̍h-lâng tsi̍t-kin iā-tio̍h hîng-lâng sì-niú）
 食人半斤，還人八兩（tsia̍h-lâng puànn-kin hîng-lâng peh-niú）
 食刀仔肉（tsia̍h to-á-bah）
@@ -6803,7 +6805,6 @@
 時局（sî-kio̍k）
 時來運轉（sî-lâi-ūn-tsuán）
 時到時擔當（sî kàu sî tam-tng | sî tàu sî tam-tng）
-無米才煮番薯湯（bô bí tsiah tsú han-tsî-thng）
 時咕仔（sî-koo-á）
 時計果（sî-kè-kó）
 時時（sî-sî）
@@ -6950,8 +6951,8 @@
 浮水沬（phû-tsuí-bī）
 浮沬（phû-bī）
 浮空（phû-khang）
-浮洲（Phû-tsiu）
 浮洲（phû-tsiu）
+浮洲（Phû-tsiu）
 浮洲仔（Phû-tsiu-á）
 浮動（phû-tōng）
 浮球（phû-kiû）
@@ -6981,7 +6982,6 @@
 海砂厝（hái-sua-tshù）
 海埔（hái-poo）
 海峽兩岸（Hái-kiap Lióng-gān）
-服務貿易協議（Ho̍k-bū Bōo-i̍k Hia̍p-gī）
 海草礁（hái-tsháu-ta）
 海馬精（Hái-bé-tsiann）
 海參崴（Hái-sam-ui | Hái-som-ui）
@@ -7104,6 +7104,7 @@
 烏暗時代（oo-àm sî-tāi）
 烏暗眩（oo-àm-hîn）
 烏暗暝（oo-àm-mî）
+烏腳病（Oo-kha-pēnn | Oo-kha-pīnn）
 烏蜂（oo-phang）
 烏蜍仔（oo-sû-á）
 烏跤西淋（oo-kha sai lâm）
@@ -7393,6 +7394,7 @@
 耿爽（Kíng Sóng）
 胭脂（ian-tsi）
 胭脂米（ian-tsi-bí）
+胭脂馬拄著關老爺（ian-tsi-bé tú-tio̍h kuan ló-iâ）
 胮皮（hàng-phuê | hàng-phê）
 胮腫（hàng-tsíng）
 胮箬（hàng-ha̍h）
@@ -7798,7 +7800,6 @@
 馬大安（Má-tāi-an）
 馬公厝（bé-kong-tshù）
 馬太鞍（Má-tāi-an | Ma-tá-án）
-馬英九（Bé-á Ing-káu | Má Ing-káu）
 馬加智（Má-ka-tì）
 馬卡朗（ma-khá-lóng）
 馬卡龍（bé-kha̍h-liông）
@@ -7817,6 +7818,7 @@
 馬花糋（bé-hue-tsìnn）
 馬查蘭（Má-tsa-lân）
 馬查蘭（Má-tshâ-lân）
+馬英九（Bé-á Ing-káu | Má Ing-káu）
 馬英九（Má Ing-kiú）
 馬茶花（bé-tê-hue）
 馬草（bé-tsháu）
@@ -7890,8 +7892,8 @@
 鬼拍著（kuí-phah-tio̍h）
 鬼差（kuí-tshe）
 鬼喙（kuí-tshuì）
-鬼滅之刃（Kuí Bia̍t Tsi Jīm）
 鬼滅之刃（Kuí Bia̍t tsi Jīm）
+鬼滅之刃（Kuí Bia̍t Tsi Jīm）
 鬼滅之刃（kuí-bia̍t-tsi-jīm）
 乾片（khiân-phiàn）
 乾仔乾孫（kan-á-kan-sun）
@@ -8695,8 +8697,8 @@
 現貨市場（hiān-huè-tshī-tiûnn）
 現買（hiān-bé | hiān-bué）
 現遮（hiān-tsia）
-球仔（Kiû-á）
 球仔（kiû-á）
+球仔（Kiû-á）
 球埕（kiû-tiânn）
 球棍仔（kiû-kùn-á）
 球箠（kiû-tshuê）
@@ -9080,8 +9082,8 @@
 速速（sok-sok）
 速緊（sok-kín）
 逢甲（Hông-kah）
-連江（Liân-kang）
 連江（liân-kang）
+連江（Liân-kang）
 連看覓（liân-khuànn-māi）
 連假（liân-ká）
 連接空（liân-tsiap-khang）
@@ -9288,8 +9290,8 @@
 麥當勞（Be̍h-tang-lô）
 麥當勞（Be̍h-tng-lô）
 麥當勞（Be̍h-tong-lô）
-麥當勞（Bi̍k-tong-lô）
 麥當勞（bi̍k-tong-lô）
+麥當勞（Bi̍k-tong-lô）
 麥達路（Be̍h-ta̍t-lōo）
 麥寮（Be̍h-liâu）
 麻少翁（muâ-siáu-ong）
@@ -9573,7 +9575,6 @@
 惡面相看（ok-bīn-sio-khuànn）
 惡厝（ok-tshù）
 惡馬惡人騎，胭脂馬拄著關老爺（ok-bé ok-lâng khiâ, ian-tsi-bé tú-tio̍h kuan ló-iâ）
-胭脂馬拄著關老爺（ian-tsi-bé tú-tio̍h kuan ló-iâ）
 惡馬惡人騎（ok-bé ok-lâng khiâ）
 惡嬌（ok-kiau）
 惡緣（ok-iân）
@@ -9914,6 +9915,7 @@
 無成一个款（bô-sîng tsi̍t-ê khuán）
 無成體統（bô-sîng thé-thóng）
 無早無暗（bô-tsá-bô-àm）
+無米才煮番薯湯（bô bí tsiah tsú han-tsî-thng）
 無米兼閏月（bô bí kiam jūn-gue̍h | bô bí kiam jūn-ge̍h）
 無米閣拄著閏月（bô bí koh tú-tio̍h lūn-gue̍h | bô bí koh tú-tio̍h lūn-ge̍h）
 無自由單字元（bô-tsū-iû tan-jī-guân）
@@ -10089,8 +10091,8 @@
 無𡳞脬（bô lān-pha）
 無khàng暝日（bô-khàng mê-ji̍t）
 無款（bô-siāng-khuán）
-焦去（ta-khì）
 焦水期（ta-tsuí-kî）
+焦去（ta-khì）
 焦材花（ta-tsâi-hue）
 焦花（ta-hue）
 焦便所（ta-piān-sóo）
@@ -10264,8 +10266,8 @@
 發蘖（huat-ínn）
 盜用（tō-iōng）
 睏大仙（Khùn-tuā-sian）
-睏大豬（Khùn-tuā-ti）
 睏大豬（khùn-tuā-ti）
+睏大豬（Khùn-tuā-ti）
 睏床列車（khùn-tshn̂g-lia̍t-tshia）
 睏狐怪（Khùn-hôo-kuài）
 睏美人（khùn-bí-jîn）
@@ -12338,8 +12340,8 @@
 滾耍笑（kún-sńg-tshiò）
 滾絞（kún-ká）
 滾蛟龍（kún-ká-liông）
-滾蛟龍（Kún-kau-liông）
 滾蛟龍（kún-kau-liông）
+滾蛟龍（Kún-kau-liông）
 滾碖捘滾（kún-lún-tsūn-kún）
 滾藥水（kún-io̍h-tsuí）
 滾躘（kún-liòng | kún-lìng）
@@ -12601,8 +12603,8 @@
 臺北大巨蛋（Tâi-pak Tuā-kī-tàn | Tâi pak Tuā-kū-tàn）
 臺北車頭（Tâi-pak Tshia-thâu）
 臺北縣（Tâi-pak-kuān）
-臺江（Tâi-kang）
 臺江（tâi-kang）
+臺江（Tâi-kang）
 臺西（Tâi-se）
 臺南山上花園水道博物館（Tâi-lâm San-siōng Hua-uân Tsuí-tō Phok-bu̍t-kuán）
 臺南文化創意產業園區（Tâi-lâm Bûn-huà Tshòng-ì Sán-gia̍p Uân-khu）
@@ -13227,6 +13229,7 @@
 膠囊（ka-lông）
 膠囊咖啡（ka-lông-ka-pi）
 膣屄（tsi-bai）
+膣屄毛（tsi-bai-moo）
 蓬蓬坱（phōng-phōng ing）
 蓮花成寶鏡（liân-hue tsiânn pó-kiànn）
 蓮苞頭（liân-pôo-thâu）
@@ -14036,8 +14039,8 @@
 頭殼一孔（thâu-khak tsi̍t khang）
 頭殼予人舂著（thâu-khak hōo-lâng tsing--tio̍h）
 頭殼歹去（thâu-khak phái-khì）
-頭殼歹去（thâu-khak pháinn-khì）
 頭殼歹去（thâu-khak pháinn--khì）
+頭殼歹去（thâu-khak pháinn-khì）
 頭殼抹砒霜去飼虎（thâu-khak bua̍h phi-sng khì tshī-hóo）
 頭殼貯屎（thâu-khak té sái）
 頭殼楞（thâu-khak gông）
@@ -14700,6 +14703,7 @@
 醫師（i-su）
 醫學會（i-ha̍k-huē）
 醫館（i-kuán）
+醫療紀念館（i-liâu Kì-liām-kuán）
 鎖匙圈仔（só-sî-khian-á）
 鎖匙箍（só-sî khoo）
 鎖喉（só-âu）
@@ -14935,6 +14939,7 @@
 艥（tship）
 藕朽菌（ngāu-hiú-khún）
 藝文活動（gē-bûn ua̍h-tāng）
+藝術（gē-su̍t）
 藝術品（gē-su̍t-phín）
 藥丸咖啡（io̍h-uân-ka-pi）
 藥妝店（io̍h-tsng-tiàm）
@@ -15076,8 +15081,8 @@
 藻礁（tsó-ta）
 藻類（tsó-luī）
 蘆竹塘（lôo-tik-tn̂g）
-蘆洲（Lôo-tsiu）
 蘆洲（lôo-tsiu）
+蘆洲（Lôo-tsiu）
 蘆趵（lôo tà）
 蘆荻仔鳥（lôo tik á tsiáu）
 蘇打（soo-tánn）
@@ -15090,8 +15095,8 @@
 蘋果日報（phōng-kó-ji̍t-pò）
 蘋果派（phông-kó-phài）
 蘋果電腦（phōng-kó tiān-náu）
-蠓仔水（Báng-á-tsuí）
 蠓仔水（báng-á-tsuí）
+蠓仔水（Báng-á-tsuí）
 蠓仔咧飛（báng-á-teh-pue | báng-á-teh-pe）
 蠓仔香君（Báng-á-hiunn-kun）
 蠓仔香肚胿仔（Báng-á-hiunn-tōo-kuái-á）
@@ -15223,10 +15228,10 @@
 爛溝仔糜（lōo-kuai-á-muâi）
 爛溝仔糜（nāu kau-á muê）
 爛溝糜仔（nuā-kau-muê-á）
-爛糊仔糜（nuā-kôo-ámuê）
 爛糊仔糜（nuā kôo-á muê）
-爛糊糊（Nuā-kôo-kôo）
+爛糊仔糜（nuā-kôo-ámuê）
 爛糊糊（nuā-kôo-kôo）
+爛糊糊（Nuā-kôo-kôo）
 爛糊糜（nuā kôo muê）
 癩⿸疒哥病（thái-ko-pēnn）
 癩⿸疒哥症（thái-ko-tsìng）
@@ -15248,6 +15253,7 @@
 襪桶（bue̍h-tháng | be̍h-tháng）
 襪牆（bue̍h-tshiûnn | be̍h-tshiûnn）
 襪甕（bue̍h-àng | be̍h-àng）
+譴天譴天（khiàn-thian khiàn-thian）
 譴相（khiàn-siùnn）
 譴損（khiàn-sńg）
 護岸（hōo-huānn）
@@ -15567,10 +15573,41 @@
 鬱牢（ut-tiâu）
 鬱症（ut-tsìng）
 鬱悴（ut-tsu̍t）
+㔂甘蔗（lân-kam-tsià）
+㝗港（láng-káng）
+㝗港（làng-kàng）
+㤉（gê）
+㤉𡳞（gê-lān）
+㧎空（khê khang）
+㧎馬（khê bé）
+㧎跤㧎手（khê-kha-khê-tshiú）
+㧎關（khê-kuan）
+㧎㧎（khê-khê）
+㧣風（tu-hong）
+㧣風搢水（tu-hong-tsìnn-tsuí）
+㨑（tsang）
+㨻魚（tsānn-hî | tsānn-hû）
+㾀屎（khiap-sái）
+䆀才（bái-tsâi）
+䆀手（bái-tshiú）
+䆀手仔（bái-tshiú-á）
+䆀手仔枴（bái-tshiú-á-kuái）
+䆀火（bái-hué）
+䆀甲有齊勻（bái kah ū tsiâu-ûn）
+䆀甲有賰（bái kah ū-tshun）
+䆀抉（bái-kuat）
+䆀料（bái-liāu）
+䆀貨（bái-huè）
+䆀樣（bái-iūnn）
+䖙（the | thenn）
+䖙倒起腰（the-tó-khí-io）
+䠡街按路（tshê | tshuê-ke | kue-àn-lōo）
+䢢往（tshiāng-óng）
+䢢拄䢢拄著（tshiāng-tú-tshiāng tú-tio̍h）
+䫐一下（lìm tsi̍t-ē）
 𠞩甘蔗（tsuî-kam-tsià）
 𠞩價數（tsuî-kè-siàu）
 𠞭花（liô-hue）
-㔂甘蔗（lân-kam-tsià）
 𠢕（gâu）
 𠢕人（gâu-lâng）
 𠢕人堂（gâu-lâng-tn̂g）
@@ -15583,58 +15620,29 @@
 𠢕激算（gâu kik-sǹg）
 𠢕講話（gâu kóng-uē）
 𠢕講話（gâu kong-uē）
-㝗港（láng-káng）
-㝗港（làng-kàng）
 𡳞脬（lān-pha）
 𡳞脬帕（lān-pha-phè）
 𡳞脬帕仔（lān-pha phè-á）
 𡳞鳥（lān-tsiáu）
 𡳞鳥比雞腿（lān-tsiáu pí ke-thuí）
 𡳞鳥毛（lān-tsiáu-moo）
-膣屄毛（tsi-bai-moo）
 𡳞鳥頭（lān-tsiáu-thâu）
 𡳞蔓（lān-muā）
-㤉（gê）
-㤉𡳞（gê-lān）
-㧎空（khê khang）
-㧎馬（khê bé）
-㧎跤㧎手（khê-kha-khê-tshiú）
-㧎關（khê-kuan）
-㧎㧎（khê-khê）
-㧣風（tu-hong）
-㧣風搢水（tu-hong-tsìnn-tsuí）
-𫝻卵（huê-nn̄g）
-㨑（tsang）
 𢯾的（mooh--ê）
 𢯾壁（mooh-piah）
 𢯾壁尪仔（Mooh-piah-ang-á）
 𢯾壁鬼（mooh-piáh-kuí）
 𢯾𢯾（mooh-mooh）
-㨻魚（tsānn-hî | tsānn-hû）
 𣁳仔車（khat-á-tshia）
 𤞚狗病（siáu-káu-pēnn | siáu-káu-pīnn）
 𤲍兌（kheh-tuī | khueh-tuī）
 𤲍截（kheh-tse̍h | khueh-tsue̍h）
-㾀屎（khiap-sái）
 𤺪（siān）
 𤺪矣（siān--ah）
 𤺪呢（siān-neh）
 𤺪篤篤（siān-tauh-tauh）
-䆀才（bái-tsâi）
-䆀手（bái-tshiú）
-䆀手仔（bái-tshiú-á）
-䆀手仔枴（bái-tshiú-á-kuái）
-䆀火（bái-hué）
-䆀甲有齊勻（bái kah ū tsiâu-ûn）
-䆀甲有賰（bái kah ū-tshun）
-䆀抉（bái-kuat）
-䆀料（bái-liāu）
-䆀貨（bái-huè）
-䆀樣（bái-iūnn）
 𥰔仔（phín-á）
 𥴊仔店（kám-á-tiàm）
-䖙（the | thenn）
-䖙倒起腰（the-tó-khí-io）
 𧌄蜅蠐（ham-koo-tshêr）
 𧌄蜅蠐（iam-ko-tsê）
 𧌄蜅蠐仔（ám-poo-tsê-á）
@@ -15644,15 +15652,7 @@
 𧮙𧮙吼（tshoh-tshoh-háu）
 𧿬踏民主（thún-ta̍h bîn-tsú）
 𧿳𧿳猴（Phu̍t-phu̍t-kâu）
-𬦰起來（peh--khí-lâi）
-𬦰起跤弄（peh-khí-kha-lōng）
-𬦰起𬦰落（peh-khí-peh-lo̍h）
-𬦰崎（peh-kiā）
 𨂿著（uáinn--tio̍h）
-䠡街按路（tshê | tshuê-ke | kue-àn-lōo）
-䢢往（tshiāng-óng）
-䢢拄䢢拄著（tshiāng-tú-tshiāng tú-tio̍h）
-䫐一下（lìm tsi̍t-ē）
 𩚨（khiū）
 𩛩汗（kauh-kuānn）
 𩛩尿苴仔（kauh jiō-tsū-á）
@@ -15664,8 +15664,8 @@
 𪁎膏（tshio-ko）
 𪎶縕（thun-un）
 𪐞（tòo）
-工業指數（kang-gia̍p-tsí-sòo）
-延號（iân-hō）
-譴天譴天（khiàn-thian khiàn-thian）
-藝術（gē-su̍t）
-𤆬路冊（Tshuā-lōo-tsheh）
+𫝻卵（huê-nn̄g）
+𬦰起來（peh--khí-lâi）
+𬦰起跤弄（peh-khí-kha-lōng）
+𬦰起𬦰落（peh-khí-peh-lo̍h）
+𬦰崎（peh-kiā）
