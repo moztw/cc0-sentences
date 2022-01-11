@@ -8955,7 +8955,7 @@
 假俳（ké-pai）
 假捌（ké bat）
 假鬼六怪（ké-kuí-la̍k-kuài）
-假參假肉桂（ké som ké jio̍k-kuì | ké sim ké jio̍k-kuì | ké sam ké jio̍k-kuì）
+假參（ké som | ké sim | ké sam）假肉桂（ké jio̍k-kuì）
 假現實（ké-hiān-si̍t）
 假無意（ké-bô-ì）
 假痟（ké-siáu）
@@ -9011,7 +9011,8 @@
 做臭頭雞仔（tsò-tshàu-thâu-ke-á）
 做袂去（tsò bē khì | tsuè buē khì）
 做參做桂（Tsò-som tsò-kuì）
-做惡做毒，騎馬碌硞，好心好行，無衫通穿（tsò-ok tsò-to̍k khiâ-bé lo̍k-kho̍k hó-sim hó-hīng bô-sann thang tshīng）
+做惡做毒，騎馬碌硞（tsò-ok tsò-to̍k, khiâ-bé lo̍k-kho̍k）
+好心好行，無衫通穿（hó-sim hó-hīng bô-sann thang tshīng）
 做無正經頭路（tsò bô-tsìng-king thâu-lōo）
 做猴著會𬦰樹（tsò kâu tioh ē peh-tshiū）
 做園（tsò-huînn）
@@ -9155,7 +9156,8 @@
 國立中山大學（Kok-li̍p Tiong-san-tāi-ha̍k）
 國立公園（kok-li̍p kong-hn̂g）
 國立臺灣文學館（Kok-li̍p Tâi-uân Bûn-ha̍k-kuán）
-國立臺灣史前文化博物館南科考古館（Kok-li̍p Tâi-uân Sú-tsiân Bûn-huà Phok-bu̍t-kuán Lâm-Kho Khó-kóo-kuán）
+國立臺灣史前文化博物館（Kok-li̍p Tâi-uân Sú-tsiân Bûn-huà Phok-bu̍t-kuán）
+南科考古館（Lâm-Kho Khó-kóo-kuán）
 國立臺灣歷史博物館（Kok-li̍p Tâi-uân Li̍k-sú Phok-bu̍t-kuán）
 國字面（kok-jī-bīn）
 國字殼（kok-jī-khak）
@@ -9288,7 +9290,8 @@
 強子對挵機（kiông-tsú tuì-lòng-ki）
 強制罪（kiông-tsè-tsuē）
 強姦（kiông-kan）
-強驚勇，勇驚雄，雄驚無天良，無天良上驚神經無正常（Kiông kiann ióng, ióng kiann hiông, hiông kiann bô thian-liông, bô thian-liông siōng kiann sîn-king bô tsìng-siông）
+強驚勇，勇驚雄，雄驚無天良（Kiông kiann ióng, ióng kiann hiông, hiông kiann bô thian-liông）
+無天良上驚神經無正常（bô thian-liông siōng-kiann sîn-king bô tsìng-siông）
 彩仔紙（tshái-á-tsuá）
 彩色紙（tshái-sik-tsuá）
 彩色馬（Tshái-sik-bé）
@@ -10061,7 +10064,7 @@
 通起來（thong--khí--lâi）
 通參考（thang tsham-khó）
 通貨冗剩（thong-huè-liōng-siōng）
-通貨膨脹（thong-hònn phòng-tiòng | thong-huè phòng-tiòng | thong-huè phîng-tiòng | thong-huè phòng-tiùnng）
+通貨膨脹（thong-hònn phòng-tiòng | thong-huè phòng-tiùnng）
 通敨（thong-tháu）
 通鼓（thong-kóo）
 通懷仔（thong-kuî-á）
@@ -10251,7 +10254,7 @@
 鳥鼠仔刺（niáu-tshí-á-tshì）
 鳥鼠空當做圓栱門（niáu-tshí khang tòng-tsò uân-kông-muî）
 鳥鼠空變做圓栱門（niáu-tshí khang piàn-tsó uân-kong-muî）
-鳥鼠擗仔（niáu-tshí-phia̍k-á | niáu-tshú-phia̍k-á | niáu-tshí-phiak-á | niáu-tshú-phiak-á）
+鳥鼠擗仔（niáu-tshí-phia̍k-á | niáu-tshú-phiak-á）
 鳥鼠糖仔（niáu-tshí-thn̂g-á）
 鳥鵤（tsiáu-kak）
 鹿仔草庄（Lo̍k-á-tsháu-tsng）
