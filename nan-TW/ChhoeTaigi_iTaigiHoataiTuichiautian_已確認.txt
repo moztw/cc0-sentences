@@ -12052,7 +12052,7 @@
 新堀江（Sin-khut-kang）
 新婦仔相（sin-pū-á siòng）
 新婦仔神（sin-pū-á sîn）
-新婦仔體（sin-pū-á the3）
+新婦仔體（sin-pū-á thé）
 新宿（Sin-siok | Sin-sok）
 新創公司（sin-tshòng-kong-si）
 新創仔（sin-tshòng-á）
@@ -12174,7 +12174,8 @@
 溝（kau）
 溝仔（kau-á）
 溝仔尾（Kau-á-bué）
-溝仔底無魚，三界娘仔為王（kau-á-té bô hî, sam-kài-niû-á uî ông | kau-á-tué bô hî, sam-kài-niû-á uî ông）
+溝仔底無魚（kau-á-té bô hî | kau-á-tué bô hîm）
+三界娘仔為王（sam-kài-niû-á uî ông）
 溝頂（kau-tíng）
 溢刺酸（ik-tshiah-sng）
 溪仔墘（khe-á-kînn）
@@ -12482,7 +12483,7 @@
 蜂仔炮（phang-á-phàu）
 蜂岫癰（phang-siū-ing）
 蜂蜜檸檬（phang-bi̍t-lê-bóng）
-蜂蜜雞卵糕（phang-bi̍t k(u)e-nn̄g-ko）
+蜂蜜雞卵糕（phang-bi̍t kue-nn̄g-ko | phang-bi̍t ke-nn̄g-ko）
 蜈蚣咬，雞母哈（giâ-kang kā, ke-bó hah）
 蜈蚣崙（Giâ-kang-lūn）
 蜈蚣蛤仔蛇，三不服（giâ-kang kap-á tsuâ, sam-put-ho̍k）
@@ -13423,7 +13424,8 @@
 臺南山上花園水道博物館（Tâi-lâm San-siōng Hua-uân Tsuí-tō Phok-bu̍t-kuán）
 臺南文化創意產業園區（Tâi-lâm Bûn-huà Tshòng-ì Sán-gia̍p Uân-khu）
 臺南左鎮化石園區（Tâi-lâm Tsó-tìn Huà-tsio̍h Uân-khu）
-臺南市自然史教育館（Tâi-lâm-tshī Tsū-jiân-sú Kàu-io̍k-kuán | Tâi-lâm-tshī Tsū-liân-sú Kàu-io̍k-kuán）
+臺南市（Tâi-lâm-tshī）
+自然史教育館（Tsū-jiân-sú Kàu-io̍k-kuán | Tsū-liân-sú Kàu-io̍k-kuán）
 臺南市兒童科學館（Tâi-lâm-tshī Jî-tông Kho-ha̍k-kuán）
 臺南市南瀛科學教育館（Tâi-lâm-tshī Lâm-îng Kho-ha̍k Kàu-io̍k-kuán）
 臺南市美術館一館（Tâi-lâm-tshī Bí-su̍t-kuán It Kuán）
@@ -13533,7 +13535,7 @@
 遙算（iâu-sǹg | iâu-suàn）
 遛手（liù-tshiú）
 遛光光（liù-kng-kng）
-遛喙罨(仔)（liù tshuì-am(-á)）
+遛喙罨仔（liù tshuì-am-á）
 遛喙罩（liù tshuì-tà）
 遛帽（liù-bō）
 遠爿（hn̄g-pîng）
@@ -13785,7 +13787,7 @@
 撓（ngiáu）
 撓耳空（ngiáu hīnn-khang）
 撓耳屎（ngiáu-hīnn-sái）
-撓起來（ngiáu--khí-lâi | giáu--khí-lâi | ngiauh--khí-lâi | giauh--khí-lâi | giah--khí-lâi）
+撓起來（giáu--khí-lâi | ngiáu--khí-lâi | ngiauh--khí-lâi）
 撓鉤仔（ngiáu kau-á）
 撚耳仔（lián hīnn-á）
 撚錢（lián-tsînn）
@@ -14633,7 +14635,10 @@
 貓仔奴（niau-á-lôo）
 貓仔枋（niau-á-pang）
 貓仔間（niau-á-king）
-貓仔貓疪疤，放屎糊蠓罩，蠓罩洗無清氣，掠貓仔去破戲，破無，天光，掠貓仔駛尻川，半路死（Niau-á niau-pì-pà pàng-sái kôo báng-tà báng-tà sé bô tshing-khì lia̍h niau-á khì phuà-hì phuà bô thinn-kng lia̍h niau-á sái kha-tshng puànn-lōo sí）
+貓仔貓疪疤，放屎糊蠓罩（Niau-á niau-pì-pà, pàng-sái kôo báng-tà）
+蠓罩洗無清氣，掠貓仔去破戲（báng-tà sé bô tshing-khì, lia̍h niau-á khì phuà-hì）
+破無，天光（phuà bô, thinn-kng）
+掠貓仔駛尻川，半路死（lia̍h niau-á sái kha-tshng, puànn-lōo sí）
 貓老大（Niau-láu-tuā）
 貓空（Niàu-khang | Niau-khang）
 貓空纜車（Niau-khang Lám-tshia）
@@ -14931,7 +14936,8 @@
 應米（ìn-bí）
 戲肉（hì-bah）
 戲弄節（Hì-lāng-tseh）
-戲棚頂有彼號人，戲棚跤著有彼號人（hì-pênn-tíng ū hit-lō lâng, hì-pênn-kha tio̍h-ū hit lō lâng）
+戲棚頂有彼號人（hì-pênn-tíng ū hit-lō lâng）
+戲棚跤著有彼號人（hì-pênn-kha tio̍h-ū hit lō lâng）
 戲搤搤出來（hì iah-iah--tshut-lâi）
 戲精（hì-tsiann）
 戴口罩（kuà tshuì-am）
@@ -15878,11 +15884,12 @@
 攑竹篙概倒街（gia̍h-tik-ko kài-tó-ke）
 攑雨傘（gia̍h hōo-suànn）
 攑香綴拜（gia̍h-hiunn-tuè-pài | gia̍h-hiunn-tè-pài）
-攑耙柫摃家己頭額（gia̍h pê-put kòng ka-kī thâu-hia̍h | gia̍h pê-put kòng ka-tī thâu-hia̍h）
+攑耙柫摃（gia̍h pê-put kòng）家己頭額（ka-kī thâu-hia̍h | ka-tī thâu-hia̍h）
 攑牌仔（gia̍h-pâi-á）
 攑硬篙（gia̍h-ngē-ko）
 攑順風旗（gia̍h sūn-hong-kî）
-攑鼓仔扇去欱飛來飛去的火金姑（gia̍h kóo-á-sìnn khì hap | hop pue-lâi-pue-khì ê hué-kim-koo）
+攑鼓仔扇去（gia̍h kóo-á-sìnn khì）
+飛來飛去的火金姑（pue-lâi-pue-khì ê hué-kim-koo）
 攑旗軍仔（gia̍h-kî-kun-á）
 攑旗軍仔喝咿呵（gia̍h kî-kun-á huah-i-o）
 攑槌攑棍（gia̍h thuî gia̍h kùn）
