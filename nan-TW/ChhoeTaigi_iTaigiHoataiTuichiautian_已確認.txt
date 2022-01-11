@@ -24,8 +24,8 @@
 一下轉到厝（tsi̍t-ē tńg kàu tshù）
 一个（tsi̍t ê）
 一个一个（tsi̍t-ê tsi̍t-ê）
-一个人（tsi̍t-ê lâng）
 一个人，九个尾（tsi̍t-ê lâng, káu-ê bué）
+一个人（tsi̍t-ê lâng）
 一个人無雙頭才（tsi̍t-ê lâng bô siang-thâu tsâi）
 一个山頭，一隻鷓鴣（tsi̍t-ê suann-thâu, tsi̍t-tsiah tsià-koo）
 一个仔一个（tsi̍t-ê-á tsi̍t-ê）
@@ -139,8 +139,8 @@
 一面抹壁雙面光（tsi̍t-bīn buah-piah siang-bīn kng）
 一首歌（tsi̍t-siú-kua）
 一兼二顧，摸蜊仔兼洗褲（it-kiam-jī-kòo, bong lâ-á kiam sé-khòo）
-一拳無夠死（tsi̍t-kûn bô-kàu sí）
 一拳無夠死，半拳歹節力（tsi̍t-kûn bô-kàu-sí puànn-kûn pháinn-tsat-la̍t）
+一拳無夠死（tsi̍t-kûn bô-kàu sí）
 一時心適興（tsi̍t-sî sim-sik hing）
 一時失覺察（tsi̍t-sî sit-kak-tshat）
 一時風駛一時船（Tsi̍t-sî hong sái tsi̍t-sî tsûn）
@@ -391,8 +391,8 @@
 人氣歌（jîn-khì-kua）
 人參（jîn-som | lîn-som | jîn-sim | ji̋n-jín | gîn-som）
 人參榕（jîn-sim tshîng）
-人情冷暖（jîn-tsîng líng luán）
 人情冷暖，世態炎涼（jîn-tsîng líng luán, sè thài iām liâng）
+人情冷暖（jîn-tsîng líng luán）
 人情來，人情去（jîn-tsîng lâi, jîn-tsîng khì）
 人情味（jîn-tsîng-bī）
 人情留一半，後日好相看（jîn-tsîng lâu tsi̍t-puànn, āu--ji̍t hó sio khuànn）
@@ -430,8 +430,6 @@
 人懸漢大（lâng kuân hàn tuā）
 人驚鬼，鬼驚人（lâng kiann kuí, kuíkiann-lâng）
 人驚賊，賊驚人（lâng kiann tsha̍t, tsha̍t kiann-lâng）
-人𠢕，天咧做對頭（lâng gâu thinn teh tsò tuì-thâu）
-人𠢕，毋值天咧做對頭（lâng-gâu m̄-ta̍t thinn teh tsò tuì-thâu）
 入人門，順人意（ji̍p lâng-mn̂g, sūn lâng-ì）
 入力（ji̍p-li̍k）
 入子（ji̍p-tsí）
@@ -447,8 +445,8 @@
 入情入理（ji̍p-tsîng ji̍p-lí）
 入喙就烌（ji̍p-tshuì-tsiū-hu）
 入喙隨溶（ji̍p-tshuì-suî-iûnn）
-入鄉隨俗（ji̍p hiong suî sio̍k）
 入鄉隨俗，入港隨灣（ji̍p-hiong suî-sio̍k, ji̍p káng suî uan）
+入鄉隨俗（ji̍p hiong suî sio̍k）
 入錢（ji̍p-tsînn）
 入螺鈿（ji̍p-lê-tiān）
 八七分袂當閣較懸矣（pueh-tsa̍p-tshit hun bē-tàng koh khah kuân--ah）
@@ -796,8 +794,8 @@
 千本櫻（tshian-pún-ing）
 千言萬語（tshian giân bān gí）
 千里駒（tshian lí khu）
-千拄千（tshian tú tshian）
 千拄千，聖拄聖（tshian tú tshian siànn tú siànn）
+千拄千（tshian tú tshian）
 千思萬想（tshian su bān sióng）
 千真萬確（tshian-tsin-bān-khak）
 千票（tshing-phiò）
@@ -1546,7 +1544,7 @@
 六尾紅（La̍k-bué-âng）
 六角傘（la̍k-kak-suànn）
 六角散（la̍k-kak-sán）
-六重溪平埔文化園區（Lio̍k-tiông-khe Pênn-poo Bûn-huà Uân-khu | Lio̍k-tiông-khe Pînn-poo Bûn-huà Uân-khu）
+六重溪（Lio̍k-tiông-khe）
 六堆（Lio̍k-tui）
 六堵（La̍k-tóo）
 六桱床（la̍k-kènn-tshn̂g | la̍k-kìnn-tshn̂g）
@@ -2233,7 +2231,6 @@
 比一下輸贏（pí tsi̍t-ê su-iânn）
 比比鳥（Pí-pí-tsiáu）
 比伊較勥（pí i khah khiàng）
-比伊較𠢕（pí i khah gâu）
 比努悠瑪雅呢族（Pí-lóo-iu-má-ngá-nî-tho̍k）
 比論講（pí-lūn-kóng）
 比譀鏡閣較譀（pí hàm-kiànn koh-khah hàm）
@@ -2430,7 +2427,6 @@
 牛（giû）
 牛力（gû-li̍k）
 牛公（gû-kang）
-牛毋通𠢕行，人毋通出名（gû m̄-thang gâu kiânn, lâng m̄-thang tshut-miâ）
 牛仔毋捌虎（gû-á m̄ bat hóo）
 牛仔囝（gû-á-kiánn）
 牛奶（gû-ling）
@@ -2498,7 +2494,6 @@
 世情看冷暖，人面看懸低（sè-tsîng khuànn líng-luán, lâng-bīn khuànn kuân-kē）
 世間事，大理概（sè-kan sū, tāi-lí kài）
 世間事，罔凊彩（sè-kan sū, bóng tshìn-tshái）
-世間事予你袂𠢕得（sè-kan sū hōo lí bē gâu tit）
 世新大學（Sè-sin Tāi-ha̍k）
 主機枋（tsú-ki-pang）
 主題曲（tsú-tê-khik | tsú-tuê-khik）
@@ -2840,14 +2835,14 @@
 台灣語（Tâi-uân-gí | Tâi-uân-gú）
 台灣獨立運動（Tâi-uân to̍k-li̍p ūn-tōng）
 台灣積體電路（Tâi-uân Tsik-thé Tiān-lōo）
-台灣積體電路製造股份有限公司（Tâi-uân Tsik-thé Tiān-lōo Tsè-tsō Kóo-hūn Iú-hān Kong-si）
+台灣積體電路製造（Tâi-uân Tsik-thé Tiān-lōo Tsè-tsō）
 台灣總督（Tâi-uân Tsóng-tok）
 史哲（Sú Tiat）
 史記（Sír-kì | Sú-kì）
 司公仔（sai-kong-á）
 司公仔鳥（sai-kong-á-tsiáu）
 司公仔象桮（sai-kong á siūnn-pue）
-司公象桮結相黏（sai-kong siūnn-pue kat sio-liâm | sai-kong-á-siūnn-pue kat sio-liâm）
+司公象桮結相黏（sai-kong-á-siūnn-pue kat sio-liâm）
 司法博物館（Su-huat Phok-bu̍t-kuán）
 司孫仔（sai-sun-á）
 司捕車（su-póo-tshia）
@@ -3027,6 +3022,7 @@
 平板（pênn-pán | pînn-pán | pîng-pán）
 平枋（pênn-pang | pînn-pang）
 平枋電腦（pênn-pang-tiān-náu）
+平埔文化園區（Pênn-poo Bûn-huà Uân-khu | Pînn-poo Bûn-huà Uân-khu）
 平埔文化園區（Pênn-poo Bûn-huà Uân-khu | Pînn-poo Bûn-huà Uân-khu）
 平差數逝（pêⁿ-chha sò͘-chōa）
 平常（pîng-siông | pîng-siâng）
@@ -4709,8 +4705,7 @@
 我是啥人（guá sī siáng | guá sī siánn-lâng）
 我是緣投仔桑（guá sī iân-tâu-á sáng）
 我看無（guá khuànn bô）
-我衫攏穿上大領，騎鐵馬𤆬你踅海岸（guá sann lóng tshīng siōng tuā niá, khiâ thih-bé tshuā lí se̍h hái-huānn）
-我真𠢕（guá tsin gâu）
+我衫攏穿上大領（guá sann lóng tshīng siōng tuā niá）
 我砰啊（guá-piàng-ah）
 我袂曉（guá bē-hiáu）
 我強欲袂赴矣（Guá kiōng-beh bē-hù--ah）
@@ -4743,7 +4738,6 @@
 我會曉（guá ē-hiáu）
 我會曉講（guá ē-hiáu kóng）
 我會驚（guá ē kiann）
-我誠𠢕講台語（guá tsiânn gâu kóng Tâi-gí）
 我嘛是人（guá mā sī lâng）
 我嘛欲（guá mā beh）
 我認為（guá jīn-uî）
@@ -6080,6 +6074,7 @@
 罔罔仔食（bóng-bóng-á tsia̍h）
 肏姦搦撟（tshoh-kàn-la̍k-kiāu）
 股仔囝（kóo-á-kiánn）
+股份有限公司（Kóo-hūn Iú-hān Kong-si）
 股利率（kóo-lī-lu̍t）
 肥肉（puî-mah）
 肥朒朒（puî-tsut-tsut | puî-lut-lut）
@@ -6152,7 +6147,6 @@
 虎帽（hóo-bō）
 虎頭埤（Hóo-thâu-pi）
 虎頭鳥鼠尾（hóo-thâu niáu-tshí-bué）
-虎𤺪水牛厭（hóo siān tsuí-gû ià）
 虯（khiû）
 虯筋（khiû-kun | khiû-kin）
 虯閣澀（khiû-koh-siap）
@@ -7448,7 +7442,6 @@
 食袂倦（tsia̍h bē siān）
 食袂落（tsia̍h bē lo̍h）
 食袂落飯（tsia̍h-bē-lo̍h-pn̄g | tsia̍h-buē-lo̍h-pn̄g）
-食袂𤺪（tsia̍h bē siān）
 食迵海（tsia̍h-thàng-hái）
 食偷（tsia̍h-thau）
 食匏無留種（tsia̍h-pû bô-lâu-tsíng）
@@ -8315,8 +8308,6 @@
 真歡喜佮你熟似（tsin huann-hí kah lí si̍k-sāi）
 真歡喜為你服務（tsin huann-hí uī lí ho̍k-bū）
 真讚（tsin tsán）
-真𠢕（tsin gâu）
-真𤺪（tsin-siān）
 眠床底（bîn-tshn̂g-té）
 眠床枋（Bîn-tshn̂g-pang）
 眠腦（Bîn-náu）
@@ -8945,7 +8936,6 @@
 假影銀行（ké-iánn gîn-hâng）
 假數（ké-siàu）
 假錢（ké-tsînn）
-假𠢕假賢慧（ké-gâu ké hiân-huē）
 偌爾（guā-nī）
 偌濟錢（guā-tsē tsînn）
 偌濟擺（guā-tsē pái）
@@ -9110,7 +9100,6 @@
 啉燒酒（lim sio-tsiú）
 啊毋就（ah m̄-tō）
 啊毋就按呢（ah m̄-tō án-ne）
-啊你毋就足𠢕（ah lí m̄ tio̍h tsiok gâu）
 問仙（muī-sian）
 問甲一支柄（mn̄g kah tsi̍t ki pènn）
 問到ㄧ隻平（）
@@ -9878,7 +9867,6 @@
 莫東樓（mài-tang-lâu）
 莫振動（mài tín-tāng）
 莫假（mài-ké）
-莫假𠢕（mài ké-gâu）
 莫問足恐怖（mài mn̄g tsiok khióng-pòo）
 莫問真恐怖（mài mn̄g tsin khióng-pòo）
 莫理頓（Bo̍h-lí-tǹg）
@@ -12934,7 +12922,6 @@
 飼鳥鼠（tshī-niáu-tshí | tshī-niáu-tshú）
 飼銃（tshī-tshìng）
 飼豬式教育（tshī-ti-sik kàu-io̍k）
-飼豬𠢕人（tshī-ti gâu-lâng）
 飽流（pá-lâu）
 飽圓（pá-înn）
 髡毛（khun-moo | khun-mn̂g）
@@ -13834,7 +13821,6 @@
 暴風雪（pok-hong-seh）
 暴龍（pō-liông）
 暴蘖（pok-ínn）
-槽料夠，毋是師傅𠢕（tsô-liāu kàu m̄ sī sai-hū gâu）
 樂清（Ga̍k-tshing）
 樂跎（lo̍k-tô）
 樓仔厝（lâu-á-tshù）
@@ -14173,7 +14159,6 @@
 遮瞞（jia-muâ | lia-muâ）
 遮濟（tsiah tsē）
 遮驚疼（tsiah kiann thiànn）
-遮𠢕（tsiah-gâu）
 鄧不利多（tīng-put-lī-to）
 鄧麗君（Tīng Lê-kun）
 鄭文燦（Tēnn Bûn-tshàn）
@@ -15550,6 +15535,7 @@
 騎乘體位（khiâ-sîng thé-uī）
 騎馬仔囊（khiâ-bé-á long）
 騎湧（khiâ-íng）
+騎鐵馬𤆬你踅海岸（khiâ thih-bé tshuā lí se̍h hái-huānn）
 鬆餅（sang-piánn）
 魍魎（mǹg-sǹg | mǹg-sngh）
 魏延捙倒七星燈（Guī-iân tshia-tó tshit-tshenn ting）
