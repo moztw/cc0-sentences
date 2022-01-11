@@ -285,7 +285,6 @@
 七爺八爺 （tshit-iâ-peh-iâ）
 七葉蘭 （tshit-hio̍h-lân）
 七號仔 （tshit-hō-á）
-七號𥴊仔店 （tshit-hō kám-á-tiàm）
 七跤八手 （tshit kha peh tshiú）
 七點 （tshit-tiám）
 七曜 （tshit-iāu）
@@ -2480,7 +2479,6 @@
 牛隱窟仔（gû-ún-khut-á）
 牛欄（gû-nuâ）
 牛籠（gû-lông）
-牛𡳞脬檨（gû-lān-pha-suāinn）
 犬（khián）
 王女（ông-lú）
 王不留行（ông put liû hîng）
@@ -2686,7 +2684,6 @@
 包養（pau-ióng）
 包餡都無夠（pau-ānn to bô-kàu）
 包療（pau-liâu）
-包𡳞（pau-lān）
 北五堵（Pak-gōo-tóo）
 北成（Pak-sîng）
 北京話（Pak-kiann-uē）
@@ -2950,7 +2947,6 @@
 夯雉雞（giâ-thī-ke）
 夯篙尺（giâ-ko-tshioh）
 夯鐵輪（giâ-thih-lián）
-夯𡳞毋知轉肩（giâ lān mt-sai tńg king）
 失日（sit-ji̍t）
 失月（sit-gue̍h）
 失水（sit-tsuí）
@@ -4776,7 +4772,6 @@
 扴跤扴手（ke̍h-kha-ke̍h-tshiú）
 扴路（ke̍h-lōo）
 扴膏（ke̍h-kô）
-扴𡳞拐（ke̍h-lān-kuāinn）
 扶（phôo）
 扶扶挺挺（phôo-phôo-thánn-thánn）
 扶阿共仔（phôo-a-kiōng-á）
@@ -6048,7 +6043,6 @@
 直接飼（ti̍t-tsiap-tshī）
 直逝輦（ti̍t-tsuā-lián）
 直覺（ti̍t-kak）
-直𡳞無級（tit lān bô kip）
 知（tsainn）
 知一毋知二（tsai it m̄-tsai jī）
 知拄知（tsai-tú-tsai）
@@ -6093,7 +6087,6 @@
 糾圖（kiù-tôo）
 糾察隊（kiù-tshat-tuī）
 罔罔仔食（bóng-bóng-á tsia̍h）
-羌仔𡳞核（kiunn-á lān-hu̍t）
 肏姦搦撟（tshoh-kàn-la̍k-kiāu）
 股仔囝（kóo-á-kiánn）
 股利率（kóo-lī-lu̍t）
@@ -6168,8 +6161,6 @@
 虎帽（hóo-bō）
 虎頭埤（Hóo-thâu-pi）
 虎頭鳥鼠尾（hóo-thâu niáu-tshí-bué）
-虎𡳞（hóo-lān）
-虎𡳞仙（hóo-lān-sian）
 虎𤺪水牛厭（hóo siān tsuí-gû ià）
 虯（khiû）
 虯筋（khiû-kun | khiû-kin）
@@ -6997,7 +6988,6 @@
 玻璃體（po-lê-thé）
 玻璃罐仔（po-lê kuàn-á）
 畏小人（ùi-siáu-jîn | uì-siáu-jîn）
-
 畏同（uì-tông）
 畏死爸閣欲食饅頭（uì sí-pē koh-beh tsia̍h bîn-thâu）
 畏寒（uì-kuânn）
@@ -8698,7 +8688,6 @@
 袂褒得（bē po tit）
 袂靠（bē-khò）
 袂曉見笑（bē-hiáu kiàn-siàu）
-袂曉泅，牽拖𡳞脬大球（bē-hiáu siû khan-thua lān-pha tuā-kiû）
 袂曉看風勢（bē-hiáu khuànn hong-sè）
 袂曉看勢面（bē-hiáng khuànn sè-bīn）
 袂曉衰（bē-hiáu sue）
@@ -8810,7 +8799,6 @@
 逆口（gi̍k-kháu）
 逆目（gi̍k-ba̍k）
 逆乖（gi̍k-kuainn）
-逆𡳞乖（gi̍k lān kuai）
 郝龍斌（Hok Liông-pin）
 配會落飯（phuè ē lo̍h pn̄g）
 配親（phuè-tshin）
@@ -9756,7 +9744,6 @@
 眾人喙毒（tsìng-lâng tshuì to̍k）
 眾人喪，無人扛（tsìng-lâng song, bô-lâng kng）
 眾人僫扶（tsìng-lâng lān oh phôo）
-眾人𡳞僫含（tsìng-lâng lān oh kâm）
 硅素（ke-sòo）
 票面價值（phiò-bīn-kè-ta̍t）
 票根（phiàu-kin）
@@ -10624,7 +10611,6 @@
 揣轉來（tshuē tńg--lâi）
 揬破盲點（tu̍h-phuà bông-tiám）
 揬臭（tu̍h-tshàu）
-揬𡳞（tu̍h-lān）
 揭示（khiat-sī）
 揮發（hui-huat）
 援巢右（Uān-tsâu-iū）
@@ -11044,7 +11030,6 @@
 無驚無亂（bô-kiann-bô-luān）
 無體無統（bô thé bô thóng）
 無攬無拈（bô-lám-bô-ne）
-無𡳞脬（bô lān-pha）
 無khàng暝日（bô-khàng mê-ji̍t）
 無款（bô-siāng-khuán）
 焦水期（ta-tsuí-kî）
@@ -11153,7 +11138,6 @@
 畫本（uē-pún）
 畫作（uē-tsok）
 畫妝品（ue̍h-tsong-phín）
-畫虎𡳞（uē-hóo-lān | uī-hóo-lān）
 畫框（uē-khing）
 畫素（uē-sòo）
 畫素範（uē-sòo-pān）
@@ -11392,7 +11376,6 @@
 華安（Hûa-an）
 菱角喙（lîng-kak-tshuì）
 菱角龍（Lîng-kak-liông）
-萊𥴊仔店（lâi kám-á-tiàm）
 著（tio̍h）
 著毋著（tio̍h-m̄-tio̍h）
 著生驚鳥（tio̍h-tshenn-kiann-tsiáu）
@@ -11589,8 +11572,8 @@
 開放（khui-hòng）
 開放原始碼（khai-hòng guân-sí-bé）
 開放資料（khai-hòng-tsu-liāu）
-開花滿天芳，結子才驚人（khui-hue muá-thinn phang kiat-tsí tsiah kiann-lâng）
-開花滿天時，結子才驚人（khui-hue muá-thinn sî kiat-tsí tsiah kiann-lâng）
+開花滿天芳，結子才驚人（khui-hue muá-thinn phang, kiat-tsí tsiah kiann-lâng）
+開花滿天時，結子才驚人（khui-hue muá-thinn sî, kiat-tsí tsiah kiann-lâng）
 開風氣（khai-hong-khì）
 開泰（khai-thài）
 開胸（khui-hing）
@@ -11598,7 +11581,6 @@
 開頂車（khui-tíng-tshia）
 開喙豆（khui-tshuì-tāu）
 開喙蚶，粒粒臭（khui-tshuì ham, lia̍p-lia̍p tshàu）
-開喙蚶粒粒臭（khui-tshuì ham lia̍p-lia̍p tshàu）
 開源（khai-guân）
 開源人（khai-guân-lâng）
 開源者（khai-guân-tsiá）
@@ -11774,7 +11756,6 @@
 塑膠筍（sok-ka-sún）
 塑膠橐仔（sok-ka-lok-á）
 塑膠罐仔（sok-ka-kuàn-á）
-塑膠𡳞（sok-ka-lān）
 塔志克（Thah-tsì-khik）
 塔羅牌（Thah-lô-pâi）
 塗（thôo）
@@ -11866,7 +11847,6 @@
 幌盪鞦（hàinn-tōng-tshiu）
 幌籃仔（hàinn-nâ-á）
 幌籮仔（hàinn-lô-á）
-幌𡳞（hàinn-lān）
 幹大乾坤（kàn tuā khiân-khun）
 幹尻川（kàn kha-tshng）
 幹當（kàn-tǹg）
@@ -13160,7 +13140,6 @@
 暝尾仔（mê-bué-á）
 暝暗討無明仔早起頓（mê àm thó bô bîng á tsái-khí-tuìnn）
 暢甲毋知人（thiòng-kah-m̄-tsai-lâng）
-暢甲𡳞脬落去（thiòng kah lān-pha lak-khì）
 暢尿（thiòng-jiō）
 暢快（thiòng-khuài）
 暢頭（thiòng-thâu）
@@ -13238,7 +13217,6 @@
 漚跤（àu-kha）
 漚膎唌蠅（àu-kê-siânn-sîn）
 漚膣屄（àu-tsi-bai）
-漚𡳞鳥（àu-lān-tsiáu）
 漢文（hàn-bûn）
 漢他病毒（Hàn-thann Pēnn-to̍k | Hàn-thann Pīnn-to̍k）
 漢字（Hàn-jī）
@@ -13961,7 +13939,6 @@
 磅潲（pōng-siâu）
 磅額銃（pōng-hia̍h-tshìng）
 磅體重（pōng-thé-tāng）
-磅𡳞（pōng-lān）
 磐安（Poân-an）
 磕（kha̍p）
 磕挵（kha̍p-lòng）
@@ -14634,7 +14611,6 @@
 褪褲（thǹg khòo）
 褪褲拍的（thǹg khòo phah--ê）
 褪褲放屁（thǹg-khòo-pàng-phuì）
-褪褲𡳞（thǹg-khòo-lān）
 褪躘（thùn-lióng）
 褲底袋磅子（khòo-té tē pōng-tsí）
 褲帶結相連（khòo-tuà ka sio-liân | khòo-tuà kat sio-liân）
@@ -14672,7 +14648,6 @@
 貓霧仔光（bâ-bū-á-kng）
 貓霧光（bâ-bū-kng）
 貓霧捒（bâ-bū-sak）
-貓𡳞（niau-lān | niau-lǎn）
 賰（thng）
 賰偌濟（tshun guā-tsē）
 賴和（Luā Hô）
@@ -14816,7 +14791,6 @@
 頭殼貯屎（thâu-khak té sái）
 頭殼楞（thâu-khak gông）
 頭殼衝煙（thâu-khak tshìng-ian）
-頭殼𢯾咧燒（thâu-khak mooh leh sio）
 頭殼pha̍t-tái（thâu-khak pha̍t-tái）
 頭搖尾搖（thâu iô bué iô）
 頭楞楞（thâu gông-gông）
@@ -14837,7 +14811,6 @@
 頭鬃尾仔（thâu-tsang bué-á）
 頭鬃型（thâu-tsang-hîng）
 頭爐香（thâu-lôo-hiunn）
-頭𢯾咧燒（thâu mooh teh sio）
 頰溝骨（khih-kau-kut）
 頷胿腺（ām-kui-sàn | ām-kui-suànn）
 頷箍（ām-khoo）
@@ -14846,7 +14819,6 @@
 頷頸仔（ām-kún-á）
 頷頸仔肉（ām-kún-á-bah）
 頷頸生瘤，拄著（ām-kún senn-liû tú-tio̍h）
-頷頸伸長長予人𠞩（ām-kún tshun-tn̂g-tn̂g hōo-lâng tsuî）
 頷頸胿（ām-kún-kui）
 頷頸lui（ām-kui-lui）
 頸椎（kíng-tsui）
@@ -15546,7 +15518,6 @@
 雞鐘仔（ke-tsing-á | kue-tsing-á）
 雞籠（Ke-lâng）
 雞籠蜂（ke-lang-phang | kue-lang-phang | kere-lang-phang）
-雞𡳞核（ke lān-hu̍t）
 離天七舖外路（lī thinn tshit-phòo guā lōo）
 離仔甲（lî-á-kah）
 離合悲歡（lī-ha̍p-pi-huan | lî-ha̍p-pi-huan）
@@ -15640,7 +15611,6 @@
 礙耳（gāi-hīnn | gāi-hī）
 礙虐（gāi-gio̍h）
 礙講（ngāi-káng）
-礙𡳞（gāi-lān）
 穩死（ún-sí）
 穩著愛（ún-tio̍h-ài）
 穩當（ún-tàng）
@@ -16270,7 +16240,6 @@
 鑿目（tsha̍k-ba̍k）
 鑿枷家己夯（Tsha̍k-kê ka-tī giâ）
 鑿鑿（tsha̍k-tsha̍k）
-鑿𡳞（tsha̍k-lān）
 鸚哥魚（ing-ko-hî）
 鸚鵡（ing-bú）
 鬱口（ut-káu）
@@ -16281,7 +16250,6 @@
 㔂甘蔗（lân-kam-tsià）
 㝗港（láng-káng | làng-kàng）
 㤉（gê）
-㤉𡳞（gê-lān）
 㧎空（khê khang）
 㧎馬（khê bé）
 㧎跤㧎手（khê-kha-khê-tshiú）
@@ -16309,64 +16277,6 @@
 䢢往（tshiāng-óng）
 䢢拄䢢拄著（tshiāng-tú-tshiāng tú-tio̍h）
 䫐一下（lìm tsi̍t-ē）
-𠞩甘蔗（tsuî-kam-tsià）
-𠞩價數（tsuî-kè-siàu）
-𠞭花（liô-hue）
-𠢕（gâu）
-𠢕人（gâu-lâng）
-𠢕人堂（gâu-lâng-tn̂g）
-𠢕早（gâu-tsá）
-𠢕囥歲（gâu khǹg-huè | khǹg-hè）
-𠢕食鬼（gâu-tsia̍h-kúi）
-𠢕開（gâu-khai）
-𠢕話喙錦（gâu-uē tshuì-gím）
-𠢕褒（gâu-po）
-𠢕激算（gâu kik-sǹg）
-𠢕講話（gâu kóng-uē | gâu kong-uē）
-𡳞脬（lān-pha）
-𡳞脬帕（lān-pha-phè）
-𡳞脬帕仔（lān-pha phè-á）
-𡳞鳥（lān-tsiáu）
-𡳞鳥比雞腿（lān-tsiáu pí ke-thuí）
-𡳞鳥毛（lān-tsiáu-moo）
-𡳞鳥頭（lān-tsiáu-thâu）
-𡳞蔓（lān-muā）
-𢯾的（mooh--ê）
-𢯾壁（mooh-piah）
-𢯾壁尪仔（Mooh-piah-ang-á）
-𢯾壁鬼（mooh-piáh-kuí）
-𢯾𢯾（mooh-mooh）
-𣁳仔車（khat-á-tshia）
-𤞚狗病（siáu-káu-pēnn | siáu-káu-pīnn）
-𤲍兌（kheh-tuī | khueh-tuī）
-𤲍截（kheh-tse̍h | khueh-tsue̍h）
-𤺪（siān）
-𤺪矣（siān--ah）
-𤺪呢（siān-neh）
-𤺪篤篤（siān-tauh-tauh）
-𥰔仔（phín-á）
-𥴊仔店（kám-á-tiàm）
-𧌄蜅蠐（ham-koo-tshêr | iam-ko-tsê）
-𧌄蜅蠐仔（ám-poo-tsê-á）
-𧮙姦搦撟（tshoh-kàn-la̍k-kiāu）
-𧮙姦撟（tshoh-kàn-kiāu）
-𧮙𧮙叫（tshoh-tshoh-kiò）
-𧮙𧮙吼（tshoh-tshoh-háu）
 𧿬踏民主（thún-ta̍h bîn-tsú）
-𧿳𧿳猴（Phu̍t-phu̍t-kâu）
-𨂿著（uáinn--tio̍h）
-𩚨（khiū）
-𩛩汗（kauh-kuānn）
-𩛩尿苴仔（kauh jiō-tsū-á）
-𩛩雺（kauh-bông）
-𩛩檳榔（kauh pin-nn̂g）
-𩸙仔王（Tāi-á-ông）
 𪁎趒（tshio-tiô | tshio-tîo）
 𪁎膏（tshio-ko）
-𪎶縕（thun-un）
-𪐞（tòo）
-𫝻卵（huê-nn̄g）
-𬦰起來（peh--khí-lâi）
-𬦰起跤弄（peh-khí-kha-lōng）
-𬦰起𬦰落（peh-khí-peh-lo̍h）
-𬦰崎（peh-kiā）
