@@ -1,30 +1,51 @@
 // 在瀏覽器上難以顯示的罕見字
+一步𬦰上天（tsi̍t-pōo peh tsiūnn thinn）
 七號𥴊仔店 （tshit-hō kám-á-tiàm）
+人𠢕，天咧做對頭（lâng gâu thinn teh tsò tuì-thâu）
+人𠢕，毋值天咧做對頭（lâng-gâu m̄-ta̍t thinn teh tsò tuì-thâu）
+大狗𬦰牆，細狗趁樣（tuā káu peh tshiûnn, sè káu thàn iūnn）
+比伊較𠢕（pí i khah gâu）
+牛毋通𠢕行，人毋通出名（gû m̄-thang gâu kiânn, lâng m̄-thang tshut-miâ）
 牛𡳞脬檨（gû-lān-pha-suāinn）
+世間事予你袂𠢕得（sè-kan sū hōo lí bē gâu tit）
 包𡳞（pau-lān）
 夯𡳞毋知轉肩（giâ lān mt-sai tńg king）
+我真𠢕（guá tsin gâu）
+我誠𠢕講台語（guá tsiânn gâu kóng Tâi-gí）
 扴𡳞拐（ke̍h-lān-kuāinn）
 直𡳞無級（tit lān bô kip）
 羌仔𡳞核（kiunn-á lān-hu̍t）
 虎𡳞（hóo-lān）
 虎𡳞仙（hóo-lān-sian）
+虎𤺪水牛厭（hóo siān tsuí-gû ià）
+食袂𤺪（tsia̍h bē siān）
+真𠢕（tsin gâu）
+真𤺪（tsin-siān）
 袂曉泅，牽拖𡳞脬大球（bē-hiáu siû khan-thua lān-pha tuā-kiû）
 逆𡳞乖（gi̍k lān kuai）
+假𠢕假賢慧（ké-gâu ké hiân-huē）
+做猴著會𬦰樹（tsò kâu tioh ē peh-tshiū）
+啊你毋就足𠢕（ah lí m̄ tio̍h tsiok gâu）
 眾人𡳞僫含（tsìng-lâng lān oh kâm）
+莫假𠢕（mài ké-gâu）
 揬𡳞（tu̍h-lān）
 無𡳞脬（bô lān-pha）
 畫虎𡳞（uē-hóo-lān | uī-hóo-lān）
 萊𥴊仔店（lâi kám-á-tiàm）
 塑膠𡳞（sok-ka-lān）
 幌𡳞（hàinn-lān）
+飼豬𠢕人（tshī-ti gâu-lâng）
 暢甲𡳞脬落去（thiòng kah lān-pha lak-khì）
 漚𡳞鳥（àu-lān-tsiáu）
+槽料夠，毋是師傅𠢕（tsô-liāu kàu m̄ sī sai-hū gâu）
 磅𡳞（pōng-lān）
+遮𠢕（tsiah-gâu）
 褪褲𡳞（thǹg-khòo-lān）
 貓𡳞（niau-lān | niau-lǎn）
 頭殼𢯾咧燒（thâu-khak mooh leh sio）
 頭𢯾咧燒（thâu mooh teh sio）
 頷頸伸長長予人𠞩（ām-kún tshun-tn̂g-tn̂g hōo-lâng tsuî）
+龜做龜討食，鱟做鱟𬦰壁（ku tsò ku thó-tsia̍h hāu tsò hāu peh-piah）
 雞𡳞核（ke lān-hu̍t）
 礙𡳞（gāi-lān）
 鑿𡳞（tsha̍k-lān）
@@ -87,20 +108,3 @@
 𬦰起跤弄（peh-khí-kha-lōng）
 𬦰起𬦰落（peh-khí-peh-lo̍h）
 𬦰崎（peh-kiā）
-我真𠢕（guá tsin gâu）
-人𠢕，天咧做對頭（lâng gâu thinn teh tsò tuì-thâu）
-人𠢕，毋值天咧做對頭（lâng-gâu m̄-ta̍t thinn teh tsò tuì-thâu）
-比伊較𠢕（pí i khah gâu）
-牛毋通𠢕行，人毋通出名（gû m̄-thang gâu kiânn, lâng m̄-thang tshut-miâ）
-世間事予你袂𠢕得（sè-kan sū hōo lí bē gâu tit）
-我誠𠢕講台語（guá tsiânn gâu kóng Tâi-gí）
-真𠢕（tsin gâu）
-假𠢕假賢慧（ké-gâu ké hiân-huē）
-啊你毋就足𠢕（ah lí m̄ tio̍h tsiok gâu）
-莫假𠢕（mài ké-gâu）
-飼豬𠢕人（tshī-ti gâu-lâng）
-槽料夠，毋是師傅𠢕（tsô-liāu kàu m̄ sī sai-hū gâu）
-遮𠢕（tsiah-gâu）
-真𤺪（tsin-siān）
-虎𤺪水牛厭（hóo siān tsuí-gû ià）
-食袂𤺪（tsia̍h bē siān）
