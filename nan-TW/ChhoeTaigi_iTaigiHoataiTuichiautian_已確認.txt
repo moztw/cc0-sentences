@@ -849,7 +849,6 @@
 大一統（tuā it-thóng）
 大人大種（tuā-lâng tuā tsíng）
 大人囡仔（tuā-lâng gín-á）
-大人𤆬囡仔去𨑨迌（tuā-lâng tshuā gín-á khì tshit-thô）
 大人齒（tuā-lâng khí）
 大个（tuā--ê）
 大大（tuā-tuā）
@@ -1790,7 +1789,6 @@
 巴糊仔（pa kôo-á）
 巴壟衛（Pa-lóng-ué）
 引句點（ín-kù-tiám）
-引𤆬（ín-tshuā）
 引誘（ín-iú）
 引磬（ín-khìng）
 引擎（iân-jín | ia̋n-jín）
@@ -2690,7 +2688,6 @@
 半行走（puànn-kiânn-tsáu）
 半男陽（puànn-lâm-iûnn）
 半身不遂（puàn-sin-put-suī）
-半𨑨迌（puànn-thit-thô）
 半命（puànn-miā）
 半坪（puànn-phiânn）
 半信半疑（puànn-sìn-puànn-gî）
@@ -3735,7 +3732,6 @@
 好佳哉（hó-ka-tsài）
 好命（hó-miā）
 好所在（hó-sóo-tsāi）
-好𤆬頭（hó-tshuā-thâu）
 好物仔（hó-mih-á）
 好空（hó-khang）
 好看無好食（hó-khuànn bô hó-tsia̍h）
@@ -4708,12 +4704,10 @@
 我欲（guá beh）
 我欲出海去看海翁（guá beh tshut-hái khì khuànn hái-ang）
 我欲去台灣結婚辦桌（guá beh khì Tâi-uân kiat-hun pān-toh）
-我欲去𨑨迌（Guá beh khì tshit-thô）
 我欲去玩（Guá beh khì sńg）
 我欲去便所（guá beh khì piān-sóo）
 我欲去食中晝（guá beh khì tsia̍h tiong-tàu）
 我欲去食晝（guá beh khì tsia̍h-tàu）
-我欲來去𨑨迌（guá beh lâi-khì tshit-thô）
 我欲來轉（Guá beh lâi tńg）
 我欲學臺語（guá beh o̍h Tâi-gí）
 我欲講的（guá beh kóng--ê）
@@ -5110,18 +5104,12 @@
 巡洋艦（sûn-iûnn-lām）
 巡境（sun̂-kíng）
 迂拘（u-khu）
-𨑨迌（tshit-thô | thit-thô）
-𨑨迌王（tshit-thô-ông）
-𨑨迌仔（thit-thô-á | tshit-thô-á）
-𨑨迌印仔（tshit-thô-ìn-á）
-𨑨迌車（tshit-thô-tshia）
-𨑨迌物仔（tshit-thô mih-á）
-𨑨迌物仔店（tshit-thô-mih-á-tiàm）
-𨑨迌物節（tshit-thô-mi̍h-tsiat）
-𨑨迌者（tshit-thô-tsiá）
-𨑨迌設施（tshit-thô | thit-thô siat-si）
-𨑨迌銃（tshit-thô-tshìng）
-𨑨迌鎖匙（tshit-thô-só-sî）
+
+
+
+
+
+
 邑（ip）
 那來那（ná lâi ná）
 那瑪夏（Na-má-siah）
@@ -5967,16 +5955,11 @@
 炕肉飯（khòng-bah-pn̄g）
 炕番薯（khòng-han-tsî | tsû）
 炙甘草（tsià-kam-tshó）
-𤆬（tshuā）
-𤆬歹（tshuā-pháinn）
-𤆬我去（tshuā guá khì）
-𤆬狗散步（tshuā káu sàn-pōo）
-𤆬班（tshuā-pan）
-𤆬路（tshuā-lōo）
-𤆬路冊（tshuā-lōo-tsheh）
-𤆬路狗（tshuā-lōo-káu）
-𤆬路機（tshuā-lōo-ki）
-𤆬頭（tshuā-thâu）
+
+
+
+
+
 爸母（pē-bú）
 爸母生成（pē-bó senn-tsiânn）
 版主（pán-tsú）
@@ -6860,7 +6843,6 @@
 洋割包（iûnn-kuah-pau）
 洋路灣（Iûnn-lōo-uan）
 洋蔥水雞（Iûnn-tshang-tsuí-ke）
-洋𥰔仔（iûnn-phín-á）
 洗手台仔（sé-tshiú-tâi-á）
 洗手面（sé-tshiú-bīn）
 洗手熊（sé-tshiú-hîm）
@@ -6996,7 +6978,6 @@
 相拍龜仔（sio-phah-ku-á）
 相拍輾挵槌（sio-phah lìn-lòng-thuî）
 相拍輾挵膏（sio-phah lìn-lòng-kô）
-相𤆬走（sio-tshuā-tsáu）
 相爭領（sio-tsenn-niá）
 相勁尻川（sio-kīng kha-tshuinn）
 相姦（sio-kàn）
@@ -9014,7 +8995,6 @@
 偷走壘（thau-tsáu-luí）
 偷來黯去（thau-lâi-ám-khì）
 偷拈偷捻（thau-ni-thau-liàm）
-偷𤆬（thau-tshuā）
 偷掠雞（thau-lia̍h-ke | thau-lia̍h-kue）
 偷換概念（thau-uānn kài-liām）
 偷微（thau-bî）
@@ -9089,7 +9069,6 @@
 啉予焦（lim hōo ta）
 啉甲飽（lim-kah-pá）
 啉咖啡（lim ka-pi）
-啉食𨑨（lim-tsia̍h-tshit）
 啉迵海（lim-thàng-hái）
 啉燒酒（lim sio-tsiú）
 啊毋就（ah m̄-tō）
@@ -14412,7 +14391,6 @@
 歕鼓吹（pûn kóo-tshue）
 歕雞胿（pûn-ke-kui）
 歕雞胿仔（pûn ke-kui-á）
-歕𥰔仔（pûn-phín-á）
 澱粉（tiān-hún）
 澳（ò）
 澳門（Ò-mn̂g）
@@ -14635,7 +14613,6 @@
 輸人毋輸陣（su-lâng m̄ su-tīn）
 輸入法（su-ji̍p-hoat）
 輸甲貼貼（su-kah tah-tah）
-輸送帶（khong-pé-á）
 輸贏（su-iânn）
 辨識碼（piān-sik-bé）
 遲刻（tî-khik）
@@ -15451,7 +15428,6 @@
 雞仔腸，鳥仔肚（ke-á tn̂g, tsiáu-á tōo）
 雞仔鴨仔講袂通（ke-á ah-á kóng bē-thong）
 雞未啼，狗未吠（ke bē thî káu bē puī）
-雞母𤆬（ke-bó tshuā）
 雞母狗仔（ke-bó káu-á）
 雞目（ke-ba̍k）
 雞肉角（ke-bah-kak）
@@ -15528,7 +15504,6 @@
 騎乘體位（khiâ-sîng thé-uī）
 騎馬仔囊（khiâ-bé-á long）
 騎湧（khiâ-íng）
-騎鐵馬𤆬你踅海岸（khiâ thih-bé tshuā lí se̍h hái-huānn）
 鬆餅（sang-piánn）
 魍魎（mǹg-sǹg | mǹg-sngh）
 魏延捙倒七星燈（Guī-iân tshia-tó tshit-tshenn ting）
