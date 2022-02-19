@@ -14,6 +14,7 @@
 ### 2016-itaigi華台對照典
 
 「ChhoeTaigi_iTaigiHoataiTuichiautian」資料來自「ChhoeTaigi 找台語：台語字詞資料庫」專案整理之 [2016-itaigi華台對照典](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase#7-2016-itaigi華台對照典)，由 [iTaigi團隊](https://itaigi.tw/) 以「公眾領域貢獻宣告」（CC0）釋出。
-#### 協助資料整理
 
-[ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.txt](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_尚待清理.txt) 中的句子尚需人工整理，確認後放入[ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.txt](https://github.com/moztw/cc0-sentences/blob/master/nan-TW/ChhoeTaigi_iTaigiHoataiTuichiautian_已確認.txt)。需清理的部分包含多餘空格、逗號、有多重發音之重複句子、括弧內非發音⋯⋯等狀況，歡迎協助。
+### 咱來學臺灣閩南語
+
+Lan-Lai-Oh-Taigi 資料來自 「教育部『咱來學臺灣閩南語』學習手冊」，經由 [Taiwanese-Corpus / Lan-Lai-Oh-Taigi](https://github.com/Taiwanese-Corpus/Lan-Lai-Oh-Taigi) 整理。
