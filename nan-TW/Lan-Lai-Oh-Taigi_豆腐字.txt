@@ -1,5 +1,4 @@
 // 系統字體不完整，顯示時會缺字的句子
-
 你莫咧遐假𠢕（Lí mài teh hia ké-gâu）
 阿伯𠢕早（A-peh gâu-tsá）
 伊真𠢕拍球（I tsin gâu phah-kiû）
@@ -14,3 +13,30 @@
 熱天的時人較𠢕齷齪（Jua̍h-thinn ê sî lâng khah gâu ak-tsak）
 伊共人𤆬囡仔（I kā lâng tshuā gín-á）
 伊看起來真𤺪（I khuànn--khí-lâi tsin siān）
+伊想欲挽回𪜶愛人仔的心（I siūnn-beh bán-huê in ài-jîn-á ê sim）
+明明知影會輸，𪜶猶原堅持到最後（Bîng-bîng tsai-iánn ē su, in iu-guân kian-tshî kàu tsuè-āu）
+訂婚彼工，𪜶老母就提一跤金手環欲去送定（Tīng-hun hit kang, in lāu-bú tō the̍h tsi̍t kha kim tshiú-khuân beh khì sàng-tiānn）
+這件代誌你去共𪜶小挲一下（Tsit kiānn tāi-tsì lí khì kā in sió so--tsi̍t-ē）
+想袂到𪜶兩个會冤家變親家（Siūnn bē kàu in nn̄g ê ē uan-ke piàn tshin-ke）
+算命仙的講𪜶兩人的八字袂合（Sǹg-miā sian--ê kóng in nn̄g lâng ê peh-jī bē-ha̍h）
+雖然𪜶兜真散赤，毋過𪜶的囡仔攏真有出脫（Sui-jiân in tau tsin sàn-tshiah, m̄-koh in ê gín-á lóng tsin ū tshut-thuat）
+𪜶囝已經失蹤幾若冬矣（In kiánn í-king sit-tsong kuí-nā tang--ah）
+𪜶老母反對𪜶來往，伊煞來病相思（In lāu-bú huán-tuì in lâi-óng, i suah lâi pēnn-siunn-si）
+𪜶兩人佇街仔路搝搝搦搦，真無體統（In nn̄g lâng tī ke-á-lōo khiú-khiú-la̍k-la̍k, tsin bô thé-thóng）
+𪜶兩个人已經講和矣（In nn̄g ê lâng í-king kóng-hô--ah）
+𪜶兩个人的感情真好（In nn̄g ê lâng ê kám-tsîng tsin hó）
+𪜶兩个平常時仔上愛答喙鼓（In nn̄g ê pîng-siông-sî-á siōng ài tap-tshuì-kóo）
+𪜶兩个自小學就是同窗（In nn̄g ê tsū sió-ha̍k tō sī tông-tshong）
+𪜶兩个是雙生仔，毋才生做一模一樣（In nn̄g ê sī siang-senn-á, m̄-tsiah senn-tsò it-bôo-it-iūnn）
+𪜶兩个個性會合（In nn̄g ê kò-sìng ē ha̍h）
+𪜶兩个翁仔某誠恩愛（In nn̄g ê ang-á-bóo tsiânn un-ài）
+𪜶兩姊妹仔無依無倚，按呢毋是辦法（In nn̄g tsí-muē-á bô-i-bô-uá, án-ne m̄ sī pān-huat）
+𪜶的親事講袂成（In ê tshin-sū kóng bē sîng）
+𪜶阿三仔是咧做廚子的（In A-sam--á sī teh tsò tôo-tsí--ê）
+𪜶阿祖真長歲壽，食甲九十外歲矣閣誠勇健（In a-tsóo tsin tn̂g-huè-siū, tsia̍h kah káu-tsa̍p-guā huè--ah koh tsiânn ióng-kiānn）
+𪜶兜火燒厝，你緊去叫𪜶老爸轉去（In tau hué-sio-tshù, lí kín khì kiò in lāu-pē tńg--khì）
+𪜶兜真散赤（In tau tsin sàn-tshiah）
+𪜶兜開板仔店（In tau khui pán-á tiàm）
+𪜶規家伙仔靠拋網掠魚過日子（In kui-ke-hué-á khò pha bāng lia̍h hî kuè ji̍t-tsí）
+𪜶透早就去挽茶矣（In thàu-tsá tō khì bán tê--ah）
+𪜶搬厝了後，阮就較無去行踏（In puann-tshù liáu-āu, guán tō khah bô khì kiânn-ta̍h）

@@ -21,7 +21,6 @@ Hanji,Lomaji
 伊定定得罪人（I tiānn-tiānn tik-tsuē--lâng）
 我比你較濟歲（Guá pí lí khah tsē huè）
 有也好，無也好（Ū iā-hó, bô iā-hó）
-𪜶兩个個性會合（In nn̄g ê kò-sìng ē ha̍h）
 我同意你的看法（Guá tông-ì lí ê khuànn-huat）
 阿英仔真好笑神（A-ing--á tsin hó-tshiò-sîn）
 咱暫時袂當相見（Lán tsiām-sî bē-tàng sio-kìnn）
@@ -50,7 +49,6 @@ Hanji,Lomaji
 咱千萬毋通拍歹感情（Lán tshian-bān m̄-thang phah-pháinn kám-tsîng）
 恁兩个莫閣冤家矣啦！（Lín nn̄g ê mài koh uan-ke--ah--lah!）
 我有接著你寄來的批（Guá ū tsiap-tio̍h lí kià--lâi ê phue）
-𪜶兩个人的感情真好（In nn̄g ê lâng ê kám-tsîng tsin hó）
 這件代誌毋著的人是你（Tsit kiānn tāi-tsì m̄-tio̍h ê lâng sī lí）
 這件代誌我共伊回掉矣（Tsit kiānn tāi-tsì guá kā i huê-tiāu--ah）
 你真正是娶著一个好某（Lí tsin-tsiànn sī tshuā-tio̍h tsi̍t ê hó bóo）
@@ -73,7 +71,6 @@ Hanji,Lomaji
 伊蹛佇阮隔壁（I tuà tī guán keh-piah）
 這个囡仔號名未？（Tsit ê gín-á hō-miâ--buē?）
 阮囝今年二十出頭矣（Guán kiánn kin-nî jī-tsa̍p tshut-thâu--ah）
-𪜶兩个自小學就是同窗（In nn̄g ê tsū sió-ha̍k tō sī tông-tshong）
 頭前是死路（Thâu-tsîng sī sí-lōo）
 船仔歇佇橋跤（Tsûn-á hioh tī kiô-kha）
 這條小路真歹行（Tsit tiâu sió-lōo tsin pháinn kiânn）
@@ -165,7 +162,6 @@ Hanji,Lomaji
 伊三不五時就來阮兜行踏（I sam-put-gōo-sî tō lâi guán tau kiânn-ta̍h）
 阮這間厝是欲租人做徛家的（Guán tsit king tshù sī beh tsoo lâng tsò khiā-ke--ê）
 規間厝恬靜無聲，連半个人影嘛無（Kui king tshù tiām-tsīng bô-siann, liân puànn ê lâng-iánn mā bô）
-𪜶兜火燒厝，你緊去叫𪜶老爸轉去（In tau hué-sio-tshù, lí kín khì kiò in lāu-pē tńg--khì）
 便所臭薟薟，予人鼻著強欲擋袂牢（Piān-sóo tshàu-hiam-hiam, hōo lâng phīnn-tio̍h kiōng-beh tòng bē tiâu）
 海水漲起來矣（Hái-tsuí tiòng--khí-lâi--ah）
 日頭對東爿出來（Ji̍t-thâu uì tang-pîng tshut--lâi）
@@ -253,10 +249,8 @@ Hanji,Lomaji
 你這間厝設計了真媠（Lí tsit king tshù siat-kè liáu tsin suí）
 你這馬咧做啥物穡頭？（Lí tsit-má teh tsò siánn-mih sit-thâu?）
 伊較早是真出名的明星（I khah-tsá sī tsin tshut-miâ ê bîng-tshenn）
-𪜶阿三仔是咧做廚子的（In A-sam--á sī teh tsò tôo-tsí--ê）
 你是教佗一科的？我教物理（Lí sī kà tó tsi̍t kho--ê? Guá kà bu̍t-lí）
 你生理欲做，衛生嘛愛講究（Lí sing-lí beh tsò, uē-sing mā ài káng-kiù）
-𪜶規家伙仔靠拋網掠魚過日子（In kui-ke-hué-á khò pha bāng lia̍h hî kuè ji̍t-tsí）
 作穡人攏愛靠天公伯仔，才有通食穿（Tsoh-sit-lâng lóng ài khò thinn-kong-peh--á, tsiah ū thang tsia̍h-tshīng）
 用心拍拚做生理，久來就會趁大錢（Iōng-sim phah-piànn tsò-sing-lí, kú--lâi tō ē thàn tuā tsînn）
 伊漢草真好（I hàn-tsháu tsin hó）
@@ -297,7 +291,6 @@ Hanji,Lomaji
 你哪會食甲規个面花巴哩貓？（Lí ná ē tsia̍h kah kui ê bīn hue-pa-li-niau?）
 伊做無三月日就予人辭頭路（I tsò bô sann gue̍h-ji̍t tō hōo lâng sî-thâu-lōo）
 做人若知足，日子就會較好過（Tsò-lâng nā ti-tsiok, ji̍t-tsí tō ē khah hó kuè）
-𪜶兩个是雙生仔，毋才生做一模一樣（In nn̄g ê sī siang-senn-á, m̄-tsiah senn-tsò it-bôo-it-iūnn）
 彼个貧惰骨，日頭曝尻川矣閣毋起來（Hit ê pîn-tuānn-kut, ji̍t-thâu pha̍k kha-tshng--ah koh m̄ khí--lâi）
 惡人無膽（Ok-lâng bô-tánn）
 勤儉才有底（Khîn-khiām tsiah ū-té）
@@ -343,7 +336,6 @@ Hanji,Lomaji
 伊違反規定，去予主辦單位除名矣（I uî-huán kui-tīng, khì hōo tsú-pān tan-uī tû-miâ--ah）
 阿母氣甲袂講話，干焦直直捶心肝（A-bú khì kah bē kóng-uē, kan-na ti̍t-ti̍t tuî sim-kuann）
 序細若有孝，序大人就會感覺較安慰（Sī-sè nā iú-hàu, sī-tuā-lâng tō ē kám-kak khah an-uì）
-明明知影會輸，𪜶猶原堅持到最後（Bîng-bîng tsai-iánn ē su, in iu-guân kian-tshî kàu tsuè-āu）
 你莫閣佇遐咧眠夢矣（Lí mài koh tī hia teh bîn-bāng--ah）
 天欲光矣（Thinn beh kng--ah）
 遮是佗位？（Tsia sī tó-uī?）
@@ -390,7 +382,6 @@ Hanji,Lomaji
 伊佇房間溫習功課，莫共伊吵（I tī pâng-king un-si̍p kong-khò, mài kā i tshá）
 今仔日的代誌上好莫拖到明仔載（Kin-á-ji̍t ê tāi-tsì siōng hó mài thua kàu bîn-á-tsài）
 這本冊的內容真淺，囡仔人嘛看有（Tsit pún tsheh ê luē-iông tsin tshián, gín-á-lâng mā khuànn-ū）
-𪜶兜真散赤（In tau tsin sàn-tshiah）
 算看偌濟錢（Sǹg khuànn guā-tsē tsînn）
 錢有夠用就好（Tsînn ū-kàu īng tō hó）
 我的口座猶閣有存款（Guá ê kháu-tsō iáu-koh ū tsûn-khuán）
@@ -429,7 +420,6 @@ Hanji,Lomaji
 這擺我存死欲佮伊拚（Tsit pái guá tshûn-sí beh kah i piànn）
 做序大愛有序大的款（Tsò sī-tuā ài ū sī-tuā ê khuán）
 等物僫到，等人快老（Tán mih oh kàu, tán lâng khuài lāu）
-𪜶兩个人已經講和矣（In nn̄g ê lâng í-king kóng-hô--ah）
 細漢囡仔攏較驚生份（Sè-hàn gín-á lóng khah kiann-senn-hūn）
 毋通講袂贏人就欲反桌（M̄-thang kóng bē iânn--lâng tō beh píng-toh）
 代誌哪會行到這款地步？（Tāi-tsì ná ē kiânn kàu tsit khuán tē-pōo?）
@@ -441,21 +431,17 @@ Hanji,Lomaji
 伊是我拄過上歹剃頭的人（I sī guá tú--kuè siōng pháinn-thì-thâu ê lâng）
 感情的代誌是袂當勉強的（Kám-tsîng ê tāi-tsì sī bē-tàng bián-kióng--ê）
 阮兩个人相出路，無拄著（Guán nn̄g ê lâng sio-tshut-lōo, bô tú--tio̍h）
-伊想欲挽回𪜶愛人仔的心（I siūnn-beh bán-huê in ài-jîn-á ê sim）
 伊佇內底，你共伊喊一下（I tī lāi-té, lí kā i hiàm--tsi̍t-ē）
 真歹勢，無張持共你挨著（Tsin pháinn-sè, bô-tiunn-tî kā lí e--tio̍h）
 你這句廢話，有講若無講（Lí tsit kù huì-uē, ū kóng ná bô kóng）
 少年的，你著聽老歲仔苦勸（Siàu-liân--ê, lí tio̍h thiann lāu-huè-á khóo-khǹg）
-𪜶兩个平常時仔上愛答喙鼓（In nn̄g ê pîng-siông-sî-á siōng ài tap-tshuì-kóo）
-想袂到𪜶兩个會冤家變親家（Siūnn bē kàu in nn̄g ê ē uan-ke piàn tshin-ke）
+
 你講甲哩哩囉囉，我聽攏無！（Lí kóng kah li-li-lo-lo, guá thiann lóng bô!）
 共伊講一句，按呢就袂直矣（Kā i kóng--tsi̍t-kù, án-ne tō bē-ti̍t--ah）
-這件代誌你去共𪜶小挲一下（Tsit kiānn tāi-tsì lí khì kā in sió so--tsi̍t-ē）
 你毋通掛意，我會趕緊轉來（Lí m̄-thang kuà-ì, guá ē kuánn-kín tńg--lâi）
 這層代誌咱頂過已經講過矣！（Tsit tsân tāi-tsì lán tíng-kuè í-king kóng--kuè--ah!）
 管待伊喔！叫伊家己想辦法（Kuán-thāi--i--ooh! Kiò i ka-kī siūnn pān-huat）
 自由的生活是人人攏想欲過的（Tsū-iû ê sing-ua̍h sī lâng-lâng lóng siūnn-beh kuè--ê）
-𪜶搬厝了後，阮就較無去行踏（In puann-tshù liáu-āu, guán tō khah bô khì kiânn-ta̍h）
 做人愛知影伸勼，才袂傷食虧（Tsò-lâng ài tsai-iánn tshun-kiu, tsiah bē siunn tsia̍h-khui）
 到時便看，才來決定欲按怎做（Kàu-sî piān-khuànn, tsiah lâi kuat-tīng beh án-tsuánn tsò）
 大兄將伊滿腹的苦情講予我聽（Tuā-hiann tsiong i muá-pak ê khóo-tsîng kóng hōo guá thiann）
@@ -477,7 +463,6 @@ Hanji,Lomaji
 阿英仔誠歹命，自細漢爸母就過身矣（A-ing--á tsiânn pháinn-miā, tsū sè-hàn pē-bú tō kuè-sin--ah）
 免你家婆，阮兜的代誌我家己會處理（Bián lí ke-pô, guán tau ê tāi-tsì guá ka-kī ē tshú-lí）
 我佮人講話，你莫佇邊仔咧插喙插舌（Guá kah lâng kóng-uē, lí mài tī pinn--á teh tshap-tshuì-tshap-tsi̍h）
-𪜶兩姊妹仔無依無倚，按呢毋是辦法（In nn̄g tsí-muē-á bô-i-bô-uá, án-ne m̄ sī pān-huat）
 這件代誌的原因佮結果，攏無人知影（Tsit kiānn tāi-tsì ê guân-in kah kiat-kó, lóng bô lâng tsai-iánn）
 少年人若有相意愛就好，咱莫插傷濟（Siàu-liân-lâng nā ū sio ì-ài tō hó, lán mài tshap siunn tsē）
 伊欲過身的時陣，交代我愛好好仔照顧你（I beh kuè-sin ê sî-tsūn, kau-tài guá ài hó-hó-á tsiàu-kòo--lí）
@@ -489,12 +474,10 @@ Hanji,Lomaji
 做人愛實在，才會當佇社會上佮人徛起（Tsò-lâng ài si̍t-tsāi, tsiah ē-tàng tī siā-huē-siōng kah lâng khiā-khí）
 伊遐爾無閒，這款小事敢通去麻煩伊？（I hiah-nī bô-îng, tsit khuán sió-sū kám thang khì mâ-huân--i?）
 伊無佮意你，你若去求伊，一定會碰壁（I bô kah-ì--lí, lí nā khì kiû--i, it-tīng ē pōng-piah）
-𪜶老母反對𪜶來往，伊煞來病相思（In lāu-bú huán-tuì in lâi-óng, i suah lâi pēnn-siunn-si）
 我佮伊已經真久無來往矣，毋知影伊的情形（Guá kah i í-king tsin kú bô lâi-óng--ah, m̄ tsai-iánn i ê tsîng-hîng）
 無彩你遐爾仔愛伊，結果伊猶是雙跤踏雙船（Bô-tshái lí hiah-nī-á ài--i, kiat-kó i iáu sī siang kha ta̍h siang tsûn）
 伊有誠濟內孫（I ū tsiânn tsē lāi-sun）
 伊是阮查埔人（I sī guán tsa-poo-lâng）
-𪜶兩个翁仔某誠恩愛（In nn̄g ê ang-á-bóo tsiânn un-ài）
 有一个媠姑娘徛佇路邊等車（Ū tsi̍t ê suí koo-niû khiā tī lōo-pinn tán tshia）
 這對雙生仔到底啥人是啥人，我實在無法度分別（Tsit tuì siang-senn-á tàu-té siánn-lâng sī siánn-lâng, guá si̍t-tsāi bô-huat-tōo hun-piat）
 這條路透車頭（Tsit tiâu lōo thàu tshia-thâu）
@@ -539,7 +522,6 @@ Hanji,Lomaji
 跍咧食飯真歹看（Khû teh tsia̍h pn̄g tsin pháinn-khuànn）
 伊哭甲目屎四淋垂（I khàu kah ba̍k-sái sì-lâm-suî）
 這項物件你欲挃無？（Tsit hāng mih-kiānn lí beh ti̍h--bô?）
-𪜶透早就去挽茶矣（In thàu-tsá tō khì bán tê--ah）
 你莫對伊跤來手來（Lí mài tuì i kha-lâi-tshiú-lâi）
 莫來共我纏跤絆手（Mài lâi kā guá tînn-kha-puànn-tshiú）
 索仔小𫟂咧就會使（Soh-á sió hân--leh tō ē-sái）
@@ -562,7 +544,6 @@ Hanji,Lomaji
 物件若予伊提過手，伊就毋還人矣（Mih-kiānn nā hōo i the̍h kuè-tshiú, i tō m̄ hîng--lâng--ah）
 你去房間䀐看覓，看伊敢有咧讀冊（Lí khì pâng-king siam khuànn-māi, khuànn i kám ū teh tha̍k-tsheh）
 這个所在誠狹，你轉踅的時陣著細膩（Tsit ê sóo-tsāi tsiânn e̍h, lí tńg-se̍h ê sî-tsūn tio̍h sè-jī）
-𪜶兩人佇街仔路搝搝搦搦，真無體統（In nn̄g lâng tī ke-á-lōo khiú-khiú-la̍k-la̍k, tsin bô thé-thóng）
 人共伊歹，伊毋但毋驚，閣敢佮人㧣（Lâng kā i pháinn, i m̄-nā m̄ kiann, koh kánn kah lâng tu）
 彼幾个竹雞仔佇巷仔口相拍，緊敲電話予警察（Hit kuí ê tik-ke-á tī hāng-á-kháu sio-phah, kín khà-tiān-uē hōo kìng-tshat）
 聖拄聖，我才臆伊無欲來，伊就敲電話講欲請假矣（Siànn-tú-siànn, guá tsiah ioh i bô beh lâi, i tō khà-tiān-uē kóng beh tshíng-ká--ah）
@@ -636,7 +617,6 @@ Hanji,Lomaji
 若是攏無人欲去，咱就抽鬮來決定（Nā-sī lóng bô-lâng beh khì, lán tō thiu-khau lâi kuat-tīng）
 生理花花仔（Sing-lí hue-hue--á）
 辛勞咧咒懺無錢（Sin-lô teh tsiù-tshàm bô tsînn）
-𪜶兜開板仔店（In tau khui pán-á tiàm）
 你毋是彼種料（Lí m̄ sī hit tsióng liāu）
 頂冬的收成袂䆀（Tíng-tang ê siu-sîng bē-bái）
 軍中操練真辛苦（Kun-tiong tshau-liān tsin sin-khóo）
@@ -672,7 +652,6 @@ Hanji,Lomaji
 痠骨輪，疼骨節（Sng kut-lûn, thiànn kut-tsat）
 伊疼甲透暗睏袂去（I thiànn kah thàu-àm khùn bē khì）
 伊的面看著譀浡譀浡（I ê bīn khuànn-tio̍h hàm-phu̍h-hàm-phu̍h）
-𪜶阿祖真長歲壽，食甲九十外歲矣閣誠勇健（In a-tsóo tsin tn̂g-huè-siū, tsia̍h kah káu-tsa̍p-guā huè--ah koh tsiânn ióng-kiānn）
 伊下早仔去予屜仔挾著尾二指，這馬閣猶未消（I e-tsái-á khì hōo thuah-á gia̍p-tio̍h bué-jī-tsáinn, tsit-má koh iáu-buē siau）
 你的胭脂落色矣（Lí ê ian-tsi lak-sik--ah）
 彼領衫去沐著坱埃（Hit niá sann khì bak-tio̍h ing-ia）
@@ -750,7 +729,6 @@ Hanji,Lomaji
 我昨暝做甲翻點（Guá tsa-mê tsò kah huan-tiám）
 伊規年迵天攏佇國外（I kui-nî-thàng-thinn lóng tī kok-guā）
 這台車已經載盡磅矣（Tsit tâi tshia í-king tsài tsīn-pōng--ah）
-𪜶囝已經失蹤幾若冬矣（In kiánn í-king sit-tsong kuí-nā tang--ah）
 我去予電梯門挾佇中央（Guá khì hōo tiān-thui mn̂g nge̍h tī tiong-ng）
 七點才坐桌，這陣去傷早（Tshit tiám tsiah tsē-toh, tsit-tsūn khì siunn tsá）
 伊出代誌彼時，我佇厝裡（I tshut-tāi-tsì hit-sî, guá tī tshù--lí）
@@ -770,7 +748,6 @@ Hanji,Lomaji
 大格雞慢啼（Tuā-keh ke bān thî）
 伊去廟裡拈香（I khì biō--lí liam-hiunn）
 無禁無忌食百二（Bô-kìm-bô-khī tsia̍h pah-jī）
-𪜶的親事講袂成（In ê tshin-sū kóng bē sîng）
 我來去共你講親情（Guá lâi-khì kā lí kóng-tshin-tsiânn）
 好朋友著愛破腹相見（Hó pîng-iú tio̍h-ài phuà-pak sann-kìnn）
 無疑悟你會出國讀冊（Bô-gî-ngōo lí ē tshut-kok tha̍k-tsheh）
@@ -778,14 +755,12 @@ Hanji,Lomaji
 舊曆正月初九是天公生（Kū-li̍k tsiann-gue̍h tshe-káu sī Thinn-kong-senn）
 你莫想講散凶人就好欺負（Lí mài siūnn-kóng sàn-hiong-lâng tō hó khi-hū）
 咱讀冊就毋通讀對尻脊骿去（Lán tha̍k-tsheh tō m̄-thang tha̍k tuì kha-tsiah-phiann khì）
-算命仙的講𪜶兩人的八字袂合（Sǹg-miā sian--ê kóng in nn̄g lâng ê peh-jī bē-ha̍h）
 樹頭徛予在，毋驚樹尾做風颱（Tshiū-thâu khiā hōo tsāi, m̄-kiann tshiū-bué tsò-hong-thai）
 你口試講甲離離落落，一定考袂牢（Lí kháu-tshì kóng kah li-li-lak-lak, it-tīng khó bē tiâu）
 若無經過這擺的考驗，你永遠袂出脫（Nā-bô king-kuè tsit pái ê khó-giām, lí íng-uán bē tshut-thuat）
 為著欲幫助彼个囡仔，伊四界去題緣（Uī-tio̍h beh pang-tsōo hit ê gín-á, i sì-kè khì tê-iân）
 食雞，會起家；食鰇魚，生囡仔好育飼（Tsia̍h ke, ē khí-ke; tsia̍h jiû-hî, senn gín-á hó io-tshī）
 伊下性命走，想欲趕著車幫（I hē-sènn-miā tsáu, siūnn-beh kuánn tio̍h tshia-pang）
-訂婚彼工，𪜶老母就提一跤金手環欲去送定（Tīng-hun hit kang, in lāu-bú tō the̍h tsi̍t kha kim tshiú-khuân beh khì sàng-tiānn）
 伊真冇手（I tsin phànn-tshiú）
 開錢若開水（Khai-tsînn ná khai tsuí）
 錢無經過我的手（Tsînn bô king-kuè guá ê tshiú）
@@ -805,7 +780,6 @@ Hanji,Lomaji
 這个物件我照割價賣你，無趁你的錢（Tsit ê mih-kiānn guá tsiàu kuah-kè bē--lí, bô thàn lí ê tsînn）
 食人的頭路，錢項的代誌愛較細膩咧（Tsia̍h lâng ê thâu-lōo, tsînn-hāng ê tāi-tsì ài khah sè-jī--leh）
 你見擺都開彼號戇錢，實在有夠冤枉（Lí kiàn-pái to khai hit-lō gōng-tsînn, si̍t-tsāi ū-kàu uan-óng）
-雖然𪜶兜真散赤，毋過𪜶的囡仔攏真有出脫（Sui-jiân in tau tsin sàn-tshiah, m̄-koh in ê gín-á lóng tsin ū tshut-thuat）
 這本冊一千箍無人買，落尾手七百箍賣出去（Tsit pún tsheh tsi̍t tshing khoo bô lâng bé, lo̍h-bué-tshiú tshit pah khoo bē--tshut-khì）
 這陣的股票市草誠好，伊攢兩百萬，存範欲大抐一下（Tsit-tsūn ê kóo-phiò tshī-tsháu tsiânn hó, i tshuân nn̄g-pah bān, tshûn-pān beh tuā lā--tsi̍t-ē）
 空喙堅疕矣（Khang-tshuì kian-phí--ah）
@@ -824,4 +798,257 @@ Hanji,Lomaji
 這藥仔抹落去，真緊就會退癀矣（Tse io̍h-á buah--lo̍h-khì, tsin kín tō ē thè-hông--ah）
 你若欲半䖙倒看電視，早慢會近視（Lí nā beh puànn-the-tó khuànn tiān-sī, tsá-bān ē kīn-sī）
 母身若顧予伊好，囡仔出世就較健康（Bó-sin nā kòo hōo i hó, gín-á tshut-sì tō khah kiān-khong）
-你今仔日看著小可仔各樣，是毋是感冒矣？（Lí kin-á-ji̍t khuànn-tio̍h sió-khuá-á koh-iūnn, sī m̄ sī kám-mōo--ah?）
+兩个囡仔為著𨑨迌物仔咧冤（Nn̄g ê gín-á uī-tio̍h tshit-thô-mih-á teh uan）
+落雨天的時陣（Lo̍h-hōo-thinn ê sî-tsūn）
+這條路就變甲真歹行（Tsit tiâu lōo tō piàn kah tsin pháinn kiânn）
+這件代誌（Tsit kiānn tāi-tsì）
+啥物時陣欲開始動手？（Siánn-mih sî-tsūn beh khai-sí tāng-tshiú?）
+我有寫批予伊（Guá ū siá phue hōo--i）
+毋過伊攏無共我回（M̄-koh i lóng bô kā guá huê）
+規間厝恬靜無聲（Kui king tshù tiām-tsīng bô-siann）
+連半个人影嘛無（Liân puànn ê lâng-iánn mā bô）
+便所臭薟薟（Piān-sóo tshàu-hiam-hiam）
+予人鼻著強欲擋袂牢（Hōo lâng phīnn-tio̍h kiōng-beh tòng bē tiâu）
+今仔日的天氣（Kin-á-ji̍t ê thinn-khì）
+佮平常時仔無仝款（Kah pîng-siông-sî-á bô kāng-khuán）
+這兩个皮包仔（Tsit nn̄g ê phuê-pau-á）
+看起來仝款仔仝款（Khuànn--khí-lâi kāng-khuán-á-kāng-khuán）
+這款貴參參的物件（Tsit khuán kuì-som-som ê mi̍h-kiānn）
+你也買會落去！（Lí iā bé ē lo̍h--khì!）
+日月潭的景色袂䆀（Ji̍t-gua̍t-thâm ê kíng-sik bē-bái）
+有閒咱來去行行咧（ū-îng lán lâi-khì kiânn-kiânn--leh）
+作穡人攏愛靠天公伯仔（Tsoh-sit-lâng lóng ài khò thinn-kong-peh--á）
+才有通食穿（Tsiah ū thang tsia̍h-tshīng）
+用心拍拚做生理（Iōng-sim phah-piànn tsò-sing-lí）
+久來就會趁大錢（Kú--lâi tō ē thàn tuā tsînn）
+彼个貧惰骨（Hit ê pîn-tuānn-kut） 
+日頭曝尻川矣閣毋起來（Ji̍t-thâu pha̍k kha-tshng--ah koh m̄ khí--lâi）
+逐家講笑爾爾（Ta̍k-ke kóng-tshiò niā-niā）
+你莫遐爾嚴肅啦！（Lí mài hiah-nī giâm-siok--lah!）
+序細若有孝（Sī-sè nā iú-hàu）
+序大人就會感覺較安慰（Sī-tuā-lâng tō ē kám-kak khah an-uì）
+你寒天出門毋穿外套（Lí kuânn-thinn tshut-mn̂g m̄ tshīng guā-thò）
+較加嘛會感冒（Khah-ke mā ē kám-mōo）
+彼隻貓仔的爪仔真利（Hit tsiah niau-á ê jiáu-á tsin lāi）
+毋通去予伊抓著（M̄-thang khì hōo i jiàu--tio̍h）
+今仔日的代誌（Kin-á-ji̍t ê tāi-tsì）
+上好莫拖到明仔載（Siōng hó mài thua kàu bîn-á-tsài）
+這本冊的內容真淺（Tsit pún tsheh ê luē-iông tsin tshián）
+囡仔人嘛看有（Gín-á-lâng mā khuànn-ū）
+我欲出運矣（Guá beh tshut-ūn--ah）
+這馬開始欲趁大錢囉！（Tsit-má khai-sí beh thàn tuā tsînn--looh!）
+你按呢呿呿嗽（Lí án-ne khuh-khuh-sàu）
+哪會無愛去予先生看？（Ná ē bô ài khì hōo sian-sinn khuànn?）
+伊騎車跋倒（I khiâ tshia pua̍h-tó）
+所以跤頭趺有一个空喙（Sóo-í kha-thâu-u ū tsi̍t ê khang-tshuì）
+咱共伊鬥分伻淡薄仔（Lán kā i tàu pun-phenn--tām-po̍h-á）
+伊較袂遐忝（I khah bē hiah thiám）
+我替伊煩惱甲欲死（Guá thè i huân-ló kah beh-sí）
+伊煞無要無緊（I suah bô-iàu-bô-kín）
+我是凊彩講的（Guá sī tshìn-tshái kóng--ê）
+你毋通囥佇心肝內（Lí m̄-thang khǹg tī sim-kuann-lāi）
+你莫看我無夠重（Lí mài khuànn guá bô-kàu-tāng）
+我毋是好欺負的（Guá m̄ sī hó khi-hū--ê）
+阿英仔誠歹命（A-ing--á tsiânn pháinn-miā）
+自細漢爸母就過身矣（Tsū sè-hàn pē-bú tō kuè-sin--ah）
+免你家婆（Bián lí ke-pô）
+阮兜的代誌我家己會處理（Guán tau ê tāi-tsì guá ka-kī ē tshú-lí）
+我佮人講話（Guá kah lâng kóng-uē）
+你莫佇邊仔咧插喙插舌（Lí mài tī pinn--á teh tshap-tshuì-tshap-tsi̍h）
+這件代誌的原因佮結果（Tsit kiānn tāi-tsì ê guân-in kah kiat-kó）
+攏無人知影（Lóng bô lâng tsai-iánn）
+少年人若有相意愛就好（Siàu-liân-lâng nā ū sio ì-ài tō hó）
+咱莫插傷濟（Lán mài tshap siunn tsē）
+伊欲過身的時陣（I beh kuè-sin ê sî-tsūn）
+交代我愛好好仔照顧你（Kau-tài guá ài hó-hó-á tsiàu-kòo--lí）
+這个袂使，彼个毋通（Tsit ê bē-sái, hit ê m̄-thang）
+全你的意見了了（Tsuân lí ê ì-kiàn--liáu-liáu）
+這是咱這組的問題（Tse sī lán tsit tsoo ê būn-tê）
+莫共外人牽拖入來（Mài kā guā-lâng khan-thua--ji̍p-lâi）
+咱做人著愛有志氣（Lán tsò-lâng tio̍h-ài ū tsì-khì）
+才袂予人看無目地（Tsiah bē hōo lâng khuànn-bô ba̍k-tē）
+伊的人生坎坎坷坷（I ê jîn-sing khám-khám-khia̍t-khia̍t）
+講起來話頭長啦！（Kóng--khí-lâi uē-thâu tn̂g--lah!）
+行李請你小共我看一下（Hîng-lí tshiánn lí sió kā guá khuànn--tsi̍t-ē）
+我連鞭就轉來（Guá liâm-mi tō tńg--lâi）
+做人愛實在（Tsò-lâng ài si̍t-tsāi）
+才會當佇社會上佮人徛起（Tsiah ē-tàng tī siā-huē-siōng kah lâng khiā-khí）
+伊遐爾無閒（I hiah-nī bô-îng）
+這款小事敢通去麻煩伊？（Tsit khuán sió-sū kám thang khì mâ-huân--i?）
+伊無佮意你（I bô kah-ì--lí）
+你若去求伊，一定會碰壁（Lí nā khì kiû--i, it-tīng ē pōng-piah）
+我佮伊已經真久無來往矣（Guá kah i í-king tsin kú bô lâi-óng--ah）
+毋知影伊的情形（M̄ tsai-iánn i ê tsîng-hîng）
+無彩你遐爾仔愛伊（Bô-tshái lí hiah-nī-á ài--i）
+結果伊猶是雙跤踏雙船（Kiat-kó i iáu sī siang kha ta̍h siang tsûn）
+這對雙生仔到底啥人是啥人（Tsit tuì siang-senn-á tàu-té siánn-lâng sī siánn-lâng）
+我實在無法度分別（Guá si̍t-tsāi bô-huat-tōo hun-piat）
+我顧佮你講話（Guá kòo kah lí kóng-uē）
+無張持公車煞走去（Bô-tiunn-tî kong-tshia suah tsáu--khì）
+都來到半中站矣（To lâi kàu puànn-tiong-tsām--ah）
+才想著物件袂記得提（Tsiah siūnn-tio̍h mih-kiānn bē-kì-tit the̍h）
+糋好的芋仔糋（Tsìnn hó ê ōo-á-tsìnn）
+欲食進前愛閣乍一下（Beh tsia̍h tsìn-tsîng ài koh tsànn--tsi̍t-ē）
+虱目魚的幼刺仔誠濟（Sat-ba̍k-hî ê iù-tshì-á tsiânn tsē）
+你著細膩仔食（Lí tio̍h sè-jī-á tsia̍h）
+我真有食福（Guá tsin ū tsia̍h-hok）
+每一擺來，你攏煮好料的（muí tsi̍t pái lâi, lí lóng tsú hó-liāu--ê）
+今仔日有人客欲來（Kin-á-ji̍t ū lâng-kheh beh lâi）
+你愛準備六塊飯碗才有夠（Lí ài tsún-pī la̍k tè pn̄g-uánn tsiah ū-kàu）
+好心的頭家！（Hó-sim ê thâu-ke!）
+一碗飯來分我好無？（Tsi̍t uánn pn̄g lâi pun--guá hó--bô?）
+我囥佇桌頂的文件（Guá khǹg tī toh-tíng ê bûn-kiānn）
+是啥人提去的？（sī siánn-lâng the̍h--khì--ê?）
+物件若予伊提過手（Mih-kiānn nā hōo i the̍h kuè-tshiú）
+伊就毋還人矣（i tō m̄ hîng--lâng--ah）
+你去房間䀐看覓（Lí khì pâng-king siam khuànn-māi）
+看伊敢有咧讀冊（Khuànn i kám ū teh tha̍k-tsheh）
+這个所在誠狹（Tsit ê sóo-tsāi tsiânn e̍h）
+你轉踅的時陣著細膩（Lí tńg-se̍h ê sî-tsūn tio̍h sè-jī）
+人共伊歹（Lâng kā i pháinn）
+伊毋但毋驚，閣敢佮人㧣（i m̄-nā m̄ kiann, koh kánn kah lâng tu）
+彼幾个竹雞仔佇巷仔口相拍（Hit kuí ê tik-ke-á tī hāng-á-kháu sio-phah）
+緊敲電話予警察（Kín khà-tiān-uē hōo kìng-tshat）
+聖拄聖（Siànn-tú-siànn）
+我才臆伊無欲來，伊就敲電話講欲請假矣（Guá tsiah ioh i bô beh lâi, i tō khà-tiān-uē kóng beh tshíng-ká--ah）
+囡仔大漢了後（Gín-á tuā-hàn liáu-āu）
+眠床就愛換新的矣（Bîn-tshn̂g tō ài uānn sin--ê--ah）
+窗仔門關甲密喌喌（Thang-á-mn̂g kuainn kah ba̍t-tsiuh-tsiuh）
+連胡蠅都飛袂入去（Liân hôo-sîn to pue bē ji̍p--khì）
+彼陣我一个人蹛佇山頂（Hit-tsūn guá tsi̍t ê lâng tuà tī suann-tíng）
+日子過了真清閒（ji̍t-tsí kuè liáu tsin tshing-îng）
+地動了後（Tē-tāng liáu-āu）
+彼間樓仔厝看著就敢若有淡薄仔歪斜（Hit king lâu-á-tshù khuànn-tio̍h tō kánn-ná ū tām-po̍h-á uai-tshua̍h）
+暗時坐佇窗仔門邊（Àm-sî tsē tī thang-á-mn̂g-pinn）
+我攏有看著五彩的燈火閃閃爍爍（Guá lóng ū khuànn-tio̍h ngóo-tshái ê ting-hué siám-siám-sih-sih）
+天氣咧變誠緊（Thinn-khì teh piàn tsiânn kín）
+早暗愛會記得疊衫（Tsá-àm ài ē-kì-tit tha̍h sann）
+古早人煎草藥仔（Kóo-tsá lâng tsuann tsháu-io̍h-á）
+攏嘛是用急燒仔（Lóng mā sī iōng kip-sio-á）
+阮小弟的風吹牢佇樹仔頂（Guán sió-tī ê hong-tshue tiâu tī tshiū-á-tíng）
+提袂落來（The̍h bē lo̍h--lâi）
+我來提碗共你貯飯（Guá lâi the̍h uánn kā lí té-pn̄g）
+你閣小等一下（Lí koh sió-tán--tsi̍t-ē）
+這塊玉仔干焦是中等的貨色（Tsit tè gi̍k-á kan-na sī tiong-tíng ê huè-sik）
+袂講蓋好（Bē kóng kài hó）
+你著愛攑雨傘去（Lí tio̍h-ài gia̍h hōo-suànn khì）
+毋拄好落雨就用會著（M̄-tú-hó lo̍h-hōo tō īng ē tio̍h）
+今仔日天氣無好（Kin-á-ji̍t thinn-khì bô hó）
+你出門的時愛會記得紮雨幔（Lí tshut-mn̂g ê sî ài ē-kì-tit tsah hōo-mua）
+你毋是去買物件（Lí m̄ sī khì bé mih-kiānn）
+哪會空手轉來？（Ná ē khang-tshiú tńg--lâi?）
+伊𬦰山的時陣（I peh-suann ê sî-tsūn）
+無細膩跋落去坑崁（Bô-sè-jī pua̍h lo̍h-khì khenn-khàm）
+予烏墨𪐞開（Hōo oo-ba̍k tòo--khui）
+嘛是一種畫圖的手法（Mā sī tsi̍t tsióng uē-tôo ê tshiú-huat）
+出業頭路無半項（Tshut-gia̍p thâu-lōo bô-puànn-hāng）
+暫時來賣燒肉粽（Tsiām-sî lâi bē sio bah-tsàng）
+下早仔的生理真好（E-tsái-á ê sing-lí tsin hó）
+我早早就收擔矣！（Guá tsá-tsá tō siu-tànn--ah!）
+時機誠䆀（Sî-ki tsiânn bái）
+害我十二生相變透透嘛變無撚（Hāi guá tsa̍p-jī senn-siùnn piàn-thàu-thàu mā piàn-bô-lián）
+按呢做一日歇一日（Án-ne tsò tsi̍t ji̍t hioh tsi̍t ji̍t）
+欲做到當時才做會了？（Beh tsò kàu tang-sî tsiah tsò ē liáu?）
+咱這月日的生產目標（Lán tsit gue̍h-ji̍t ê sing-sán bo̍k-piau
+愛比頂月日的量加重倍濟（Ài pí tíng gue̍h-ji̍t ê liōng ke tîng-puē tsē）
+我想講這个計畫已經是穩的矣（Guá siūnn-kóng tsit ê kè-uē í-king sī ún--ê--ah）
+無疑悟猶是失敗（Bô-gî-ngōo iáu sī sit-pāi）
+伊下早仔去予屜仔挾著尾二指（I e-tsái-á khì hōo thuah-á gia̍p-tio̍h bué-jī-tsáinn）
+這馬閣猶未消（Tsit-má koh iáu-buē siau）
+你哪會一个怐怐？（Lí ná ē tsi̍t ê khòo-khòo?）
+袂曉轉踅一下！（Bē-hiáu tńg-se̍h--tsi̍t-ē!）
+這个囡仔誠精光（Tsit ê gín-á tsiânn tsing-kong）
+做代誌嘛誠骨力（Tsò tāi-tsì mā tsiânn kut-la̍t）
+伊生做遮爾臭老（I senn-tsò tsiah-nī tshàu-lāu）
+實在看袂出講才二十歲爾爾（si̍t-tsāi khuànn bē tshut kóng tsiah jī-tsa̍p huè niā-niā）
+伊一定是頂世人燒好香（I it-tīng sī tíng-sì-lâng sio hó hiunn）
+才會娶著遮爾好的某（Tsiah ē tshuā-tio̍h tsiah-nī hó ê bóo）
+跤步踏差啥人無？（Kha-pōo ta̍h-tsha siánn-lâng bô?）
+只要改過就好矣（Tsí-iàu kái-kò tō hó--ah）
+你共我舞這齣的（Lí kā guá bú tsit tshut--ê）
+叫我欲按怎收山？（Kiò guá beh án-tsuánn siu-suann?）
+前輩講的話你愛加減仔聽（Tsiân-puè kóng ê uē lí ài ke-kiám-á thiann）
+才袂食虧（Tsiah bē tsia̍h-khui）
+這種無情理的話（Tsit tsióng bô tsîng-lí ê uē）
+干焦你才講會出來（Kan-na lí tsiah kóng ē tshut--lâi）
+我叫是伊偌勇咧（Guá kiò-sī i guā ióng--leh）
+原來是一尾軟跤蝦（Guân-lâi sī tsi̍t bué nńg-kha-hê）
+你莫佇遐戇想矣（Lí mài tī hia gōng-siūnn--ah）
+緊去做代誌較要緊（Kín khì tsò tāi-tsì khah iàu-kín）
+明明知影代誌真嚴重（Bîng-bîng tsai-iánn tāi-tsì tsin giâm-tiōng）
+伊嘛是蹽落去（i mā sī liâu--lo̍h-khì）
+咱著愛綴會著社會的改變（Lán tio̍h-ài tuè ē tio̍h siā-huē ê kái-piàn）
+毋通傷古板（M̄-thang siunn kóo-pán）
+你這个人予人看現現矣（Lí tsit ê lâng hōo lâng khuànn-hiān-hiān--ah）
+閣講嘛無效矣（Koh kóng mā bô-hāu--ah）
+這馬下勻的少年人（Tsit-má ē-ûn ê siàu-liân-lâng）
+想法佮阮往過攏無仝（siūnn-huat kah guán íng-kuè lóng bô-kāng）
+伊講話誠歹聲嗽（I kóng-uē tsiânn pháinn-siann-sàu）
+予人聽著心肝頭袂爽快（Hōo lâng thiann tio̍h sim-kuann-thâu bē sóng-khuài）
+你是按怎逐擺攏會袂記得（Lí sī-án-tsuánn ta̍k pái lóng ē bē-kì--tit）
+實在有夠脫線（si̍t-tsāi ū-kàu thuat-suànn）
+干焦共伊講兩句仔（Kan-na kā i kóng--nn̄g-kù-á）
+伊就閣開始咧覕喙矣（i tō koh khai-sí teh bih-tshuì--ah）
+遮爾重要的物件竟然無紮（Tsiah-nī tiōng-iàu ê mih-kiānn kìng-jiân bô tsah）
+你實在有夠散形（Lí si̍t-tsāi ū-kàu suànn-hîng）
+咱做代誌的時陣（Lán tsò tāi-tsì ê sî-tsūn）
+立場著愛徛予正（Li̍p-tiûnn tio̍h-ài khiā hōo tsiànn）
+才袂去予人批評（Tsiah bē khì hōo lâng phue-phîng）
+你口試講甲離離落落（Lí kháu-tshì kóng kah li-li-lak-lak）
+一定考袂牢（it-tīng khó bē tiâu）
+若無經過這擺的考驗（Nā-bô king-kuè tsit pái ê khó-giām）
+你永遠袂出脫（Lí íng-uán bē tshut-thuat）
+為著欲幫助彼个囡仔（Uī-tio̍h beh pang-tsōo hit ê gín-á）
+伊四界去題緣（i sì-kè khì tê-iân）
+食雞會起家（Tsia̍h ke ē khí-ke）
+食鰇魚，生囡仔好育飼（Tsia̍h jiû-hî, senn gín-á hó io-tshī）
+你提一千箍出去（Lí the̍h tsi̍t-tshing khoo tshut--khì）
+有賰錢轉來無？（ū tshun-tsînn tńg--lâi--bô?）
+月底又閣迫倚矣（Gue̍h-té iū-koh pik-uá--ah）
+愛閣攢會仔錢囉（ài koh tshuân huē-á tsînn--looh）
+這个物件我照割價賣你（Tsit ê mih-kiānn guá tsiàu kuah-kè bē--lí）
+無趁你的錢（Bô thàn lí ê tsînn）
+食人的頭路（Tsia̍h lâng ê thâu-lōo）
+錢項的代誌愛較細膩咧（Tsînn-hāng ê tāi-tsì ài khah sè-jī--leh）
+你見擺都開彼號戇錢（Lí kiàn-pái to khai hit-lō gōng-tsînn）
+實在有夠冤枉（si̍t-tsāi ū-kàu uan-óng）
+這本冊一千箍無人買（Tsit pún tsheh tsi̍t tshing khoo bô lâng bé）
+落尾手七百箍賣出去（Lo̍h-bué-tshiú tshit pah khoo bē--tshut-khì）
+這陣的股票市草誠好（Tsit-tsūn ê kóo-phiò tshī-tsháu tsiânn hó）
+伊攢兩百萬（i tshuân nn̄g-pah bān）
+存範欲大抐一下（Tshûn-pān beh tuā lā--tsi̍t-ē）
+你若欲半䖙倒看電視（Lí nā beh puànn-the-tó khuànn tiān-sī）
+早慢會近視（Tsá-bān ē kīn-sī）
+母身若顧予伊好（Bó-sin nā kòo hōo i hó）
+囡仔出世就較健康（Gín-á tshut-sì tō khah kiān-khong）
+你今仔日看著小可仔各樣（Lí kin-á-ji̍t khuànn-tio̍h sió-khuá-á koh-iūnn）
+是毋是感冒矣？（sī m̄ sī kám-mōo--ah?）
+明明知影會輸（Bîng-bîng tsai-iánn ē su）
+訂婚彼工（Tīng-hun hit kang)
+老母就提一跤金手環欲去送定（Lāu-bú tō the̍h tsi̍t kha kim tshiú-khuân beh khì sàng-tiānn）
+這件代誌（Tsit kiānn tāi-tsì）
+冤家變親家（Uan-ke piàn tshin-ke）
+算命仙的（Sǹg-miā sian--ê）
+兩人的八字袂合（Nn̄g lâng ê peh-jī bē-ha̍h）
+已經失蹤幾若冬矣（Í-king sit-tsong kuí-nā tang--ah）
+伊煞來病相思（I suah lâi pēnn-siunn-si）
+兩人佇街仔路搝搝搦搦（Nn̄g lâng tī ke-á-lōo khiú-khiú-la̍k-la̍k）
+真無體統 （Tsin bô thé-thóng）
+兩个人已經講和矣（Nn̄g ê lâng í-king kóng-hô--ah）
+兩个人的感情真好（Nn̄g ê lâng ê kám-tsîng tsin hó）
+兩个平常時仔上愛答喙鼓（Nn̄g ê pîng-siông-sî-á siōng ài tap-tshuì-kóo）
+兩个自小學就是同窗（Nn̄g ê tsū sió-ha̍k tō sī tông-tshong）
+兩个是雙生仔，毋才生做一模一樣（Nn̄g ê sī siang-senn-á, m̄-tsiah senn-tsò it-bôo-it-iūnn）
+兩个個性會合（Nn̄g ê kò-sìng ē ha̍h）
+兩个翁仔某誠恩愛（Nn̄g ê ang-á-bóo tsiânn un-ài）
+兩姊妹仔無依無倚（Nn̄g tsí-muē-á bô-i-bô-uá）
+按呢毋是辦法（Án-ne m̄ sī pān-huat）
+親事講袂成（Tshin-sū kóng bē sîng）
+阿三仔是咧做廚子的（A-sam--á sī teh tsò tôo-tsí--ê）
+阿祖真長歲壽（A-tsóo tsin tn̂g-huè-siū）
+食甲九十外歲矣閣誠勇健（Tsia̍h kah káu-tsa̍p-guā huè--ah koh tsiânn ióng-kiānn）
+你緊去叫𪜶老爸轉去（Lí kín khì kiò in lāu-pē tńg--khì）
+開板仔店（Khui pán-á tiàm）
+規家伙仔靠拋網掠魚過日子（Kui-ke-hué-á khò pha bāng lia̍h hî kuè ji̍t-tsí）
+透早就去挽茶矣（Thàu-tsá tō khì bán tê--ah）
+搬厝了後，阮就較無去行踏（Puann-tshù liáu-āu, guán tō khah bô khì kiânn-ta̍h）
