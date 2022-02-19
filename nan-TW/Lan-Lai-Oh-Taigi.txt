@@ -17,7 +17,6 @@ Hanji,Lomaji
 我佮伊無親（Guá kah i bô tshin）
 你是按怎無來？（Lí sī án-tsuánn bô lâi?）
 我的冊借人矣（Guá ê tsheh tsioh--lâng--ah）
-你莫咧遐假𠢕（Lí mài teh hia ké-gâu）
 好啦！莫吵啦！（Hó--lah! Mài tshá--lah!）
 伊定定得罪人（I tiānn-tiānn tik-tsuē--lâng）
 我比你較濟歲（Guá pí lí khah tsē huè）
@@ -69,7 +68,6 @@ Hanji,Lomaji
 人咧叫你，你嘛共人應一下（Lâng teh kiò--lí, lí mā kā lâng ìn--tsi̍t-ē）
 你出門在外，家己千萬愛細膩（Lí tshut-mn̂g tsāi guā, ka-kī tshian-bān ài sè-jī）
 兩个囡仔為著𨑨迌物仔咧冤（Nn̄g ê gín-á uī-tio̍h tshit-thô-mih-á teh uan）
-阿伯𠢕早（A-peh gâu-tsá）
 你號做啥物名？（Lí hō-tsò siánn-mih miâ?）
 伊是我的家後（I sī guá ê ke-āu）
 伊蹛佇阮隔壁（I tuà tī guán keh-piah）
@@ -221,7 +219,6 @@ Hanji,Lomaji
 冰箱害去矣（Ping-siunn hāi--khì--ah）
 小等一下！（Sió-tán--tsi̍t-ē!）
 你真好運呢！（Lí tsin hó-ūn--neh!）
-伊真𠢕拍球（I tsin gâu phah-kiû）
 近來生活較快活（Kīn-lâi sing-ua̍h khah khuìnn-ua̍h）
 咱來去外口烘肉（Lán lâi-khì guā-kháu hang bah）
 彼間冊店的冊真濟（Hit king tsheh-tiàm ê tsheh tsin tsē）
@@ -237,7 +234,6 @@ Hanji,Lomaji
 伊差一點仔就著獎矣，有夠無彩（I tsha tsi̍t-tiám-á tō tio̍h-tsióng--ah, ū-kàu bô-tshái）
 這款貴參參的物件你也買會落去！（Tsit khuán kuì-som-som ê mi̍h-kiānn lí iā bé ē lo̍h--khì!）
 日月潭的景色袂䆀，有閒咱來去行行咧（Ji̍t-gua̍t-thâm ê kíng-sik bē-bái, ū-îng lán lâi-khì kiânn-kiânn--leh）
-伊誠𠢕（I tsiânn gâu）
 你著行正途（Lí tio̍h kiânn tsìng-tôo）
 我頂伊的缺（Guá tíng i ê khueh）
 伊的工夫袂䆀（I ê kang-hu bē-bái）
@@ -406,10 +402,8 @@ Hanji,Lomaji
 食甲老老老（Tsia̍h kah lāu-lāu-lāu）
 腹肚脹起來（Pak-tóo tiòng--khí-lâi）
 伊喘氣喘袂過（I tshuán-khuì tshuán bē kuè）
-伊真𠢕破病（I tsin gâu phuà-pēnn）
 食藥仔愛配滾水（Tsia̍h io̍h-á ài phuè kún-tsuí）
 食薰對身體無好（Tsia̍h-hun tuì sin-thé bô hó）
-伊看起來真𤺪（I khuànn--khí-lâi tsin siān）
 你無代無誌哪會腹肚疼？（Lí bô-tāi-bô-tsì ná ē pak-tóo thiànn?）
 伊身體欠安，才會無來上班（I sin-thé khiàm-an, tsiah ē bô lâi siōng-pan）
 伊有帶病，面色才會遐歹看（I ū tài-pēnn, bīn-sik tsiah ē hiah pháinn-khuànn）
@@ -429,7 +423,6 @@ Hanji,Lomaji
 伊閣咧起無空矣（I koh teh khí-bô-khang--ah）
 伊是阮祧仔內的（I sī guán thiāu-á-lāi--ê）
 一句話盤來盤去（Tsi̍t kù uē puânn lâi puânn khì）
-伊共人𤆬囡仔（I kā lâng tshuā gín-á）
 燒燒面焐人冷尻川（Sio-sio bīn ù lâng líng kha-tshng）
 我已經輸甲貼底矣（Guá í-king su kah tah-té--ah）
 遐的數就準拄好矣（Hia-ê siàu tō tsún-tú-hó--ah）
@@ -481,7 +474,6 @@ Hanji,Lomaji
 我是凊彩講的，你毋通囥佇心肝內（Guá sī tshìn-tshái kóng--ê, lí m̄-thang khǹg tī sim-kuann-lāi）
 你莫看我無夠重，我毋是好欺負的（Lí mài khuànn guá bô-kàu-tāng, guá m̄ sī hó khi-hū--ê）
 伊彼个人就是無量，袂堪得看人好（I hit ê lâng tō sī bô-liōng, bē-kham-tit khuànn lâng hó）
-伊誠𠢕激五仁，激甲逐家笑咍咍（I tsiânn gâu kik-ngóo-jîn, kik kah ta̍k-ke tshiò-hai-hai）
 阿英仔誠歹命，自細漢爸母就過身矣（A-ing--á tsiânn pháinn-miā, tsū sè-hàn pē-bú tō kuè-sin--ah）
 免你家婆，阮兜的代誌我家己會處理（Bián lí ke-pô, guán tau ê tāi-tsì guá ka-kī ē tshú-lí）
 我佮人講話，你莫佇邊仔咧插喙插舌（Guá kah lâng kóng-uē, lí mài tī pinn--á teh tshap-tshuì-tshap-tsi̍h）
@@ -515,7 +507,6 @@ Hanji,Lomaji
 菜已經熥好矣（Tshài í-king thn̄g hó--ah）
 蟳仔管較有肉（Tsîm-á-kóng khah ū bah）
 這鼎糜煮了傷泔（Tsit tiánn muê tsú liáu siunn ám）
-食番薯𠢕脹氣（Tsia̍h han-tsî gâu tiùnn-khì）
 伊對食這項真甘開（I tuì tsia̍h tsit hāng tsin kam khai）
 雞去剁剁咧通好食（Ke khì tok-tok--leh thang-hó tsia̍h）
 西瓜愛到分才會甜（Si-kue ài kàu-hun tsiah ē tinn）
@@ -546,7 +537,6 @@ Hanji,Lomaji
 用鐵枝共門拄咧（Iōng thih-ki kā mn̂g tú--leh）
 毋通佮人釘孤枝（M̄-thang kah lâng tìng-koo-ki）
 跍咧食飯真歹看（Khû teh tsia̍h pn̄g tsin pháinn-khuànn）
-伊真𠢕唸四句聯（I tsin gâu liām sì-kù-liân）
 伊哭甲目屎四淋垂（I khàu kah ba̍k-sái sì-lâm-suî）
 這項物件你欲挃無？（Tsit hāng mih-kiānn lí beh ti̍h--bô?）
 𪜶透早就去挽茶矣（In thàu-tsá tō khì bán tê--ah）
@@ -593,7 +583,6 @@ Hanji,Lomaji
 田比園較貴（Tshân pí hn̂g khah kuì）
 伊險予海湧𩛩去（I hiám hōo hái-íng kauh--khì）
 連鞭欲做風颱矣！（Liâm-mi beh tsò-hong-thai--ah!）
-山頂真𠢕罩雺（Suann-tíng tsin gâu tà-bông）
 我無紮雨傘，佳哉落雨毛仔爾爾（Guá bô tsah hōo-suànn, ka-tsài lo̍h hōo-mn̂g-á niā-niā）
 外面當咧透風，你莫閣出去矣（Guā-bīn tng-teh thàu-hong, lí mài koh tshut--khì--ah）
 天氣咧變誠緊，早暗愛會記得疊衫（Thinn-khì teh piàn tsiânn kín, tsá-àm ài ē-kì-tit tha̍h sann）
@@ -720,7 +709,6 @@ Hanji,Lomaji
 伊是一个無天良的人（I sī tsi̍t ê bô-thian-liông ê lâng）
 伊逐項代誌攏佯毋知（I ta̍k hāng tāi-tsì lóng tènn-m̄-tsai）
 你按呢放捒某囝敢著？（Lí án-ne pàng-sak bóo-kiánn kám tio̍h?）
-做人毋通傷𠢕窮分（Tsò-lâng m̄-thang siunn gâu khîng-hun）
 伊真正是鐵齒銅牙槽（I tsin-tsiànn sī thih-khí tâng-gê-tsô）
 咱著愛想予開，較袂心悶（Lán tio̍h-ài siūnn hōo khui, khah bē sim-būn）
 相諍毋認輸，相輸毋捌贏（Sio-tsènn m̄ jīn-su, sio-su m̄ bat iânn）
@@ -744,7 +732,6 @@ Hanji,Lomaji
 伊足拍拚作穡，透暝透日攏毋歇睏（I tsiok phah-piànn tsoh-sit, thàu-mê thàu-ji̍t lóng m̄ hioh-khùn）
 跤步踏差啥人無？只要改過就好矣（Kha-pōo ta̍h-tsha siánn-lâng bô? Tsí-iàu kái-kò tō hó--ah）
 你共我舞這齣的，叫我欲按怎收山？（Lí kā guá bú tsit tshut--ê, kiò guá beh án-tsuánn siu-suann?）
-伊真𠢕變面，你毋通佮伊講耍笑（I tsin gâu pìnn-bīn, lí m̄-thang kah i kóng-sńg-tshiò）
 前輩講的話你愛加減仔聽，才袂食虧（Tsiân-puè kóng ê uē lí ài ke-kiám-á thiann, tsiah bē tsia̍h-khui）
 這種無情理的話，干焦你才講會出來（Tsit tsióng bô tsîng-lí ê uē, kan-na lí tsiah kóng ē tshut--lâi）
 我叫是伊偌勇咧，原來是一尾軟跤蝦（Guá kiò-sī i guā ióng--leh, guân-lâi sī tsi̍t bué nńg-kha-hê）
@@ -765,7 +752,6 @@ Hanji,Lomaji
 這台車已經載盡磅矣（Tsit tâi tshia í-king tsài tsīn-pōng--ah）
 𪜶囝已經失蹤幾若冬矣（In kiánn í-king sit-tsong kuí-nā tang--ah）
 我去予電梯門挾佇中央（Guá khì hōo tiān-thui mn̂g nge̍h tī tiong-ng）
-熱天的時人較𠢕齷齪（Jua̍h-thinn ê sî lâng khah gâu ak-tsak）
 七點才坐桌，這陣去傷早（Tshit tiám tsiah tsē-toh, tsit-tsūn khì siunn tsá）
 伊出代誌彼時，我佇厝裡（I tshut-tāi-tsì hit-sî, guá tī tshù--lí）
 今仔日我無閒，別日才去揣你（Kin-á-ji̍t guá bô-îng, pa̍t-ji̍t tsiah khì tshuē--lí）
