@@ -24,4 +24,4 @@
 
 ### 咱來學臺灣閩南語
 
-Lan-Lai-Oh-Taigi 資料來自 「教育部『咱來學臺灣閩南語』學習手冊」，經由 [Taiwanese-Corpus / Lan-Lai-Oh-Taigi](https://github.com/Taiwanese-Corpus/Lan-Lai-Oh-Taigi) 整理。
+Lan-Lai-Oh-Taigi 資料來自教育部[《咱來學臺灣閩南語》學習手冊](https://language.moe.gov.tw/result.aspx?subclassify_sn=506&content_sn=40)《讀語句上簡單》一二冊，整理自 [Taiwanese-Corpus / Lan-Lai-Oh-Taigi](https://github.com/Taiwanese-Corpus/Lan-Lai-Oh-Taigi) 專案提供的結構化資料檔，未有已知版權限制。
