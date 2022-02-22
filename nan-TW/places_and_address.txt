@@ -975,7 +975,7 @@
 東海大學（Tang-hái Tāi-ha̍k）
 東區（Tang-khu）
 東區商圈（Tang-khu Siong-khuan | Tang-khu Siong-khoan）
-東清村 Iranmeylek（Tang-tshing-tshun）
+東清村（Tang-tshing-tshun）
 東港溪（Tang-káng-khe）
 東港鎮（Tang-káng-tìn）
 東湖（Tang-ôo | Tang-hôo）
@@ -1067,7 +1067,7 @@
 芝山（Tsi-san）
 芝山巖（Tsi-san-giâm）
 芬園鄉（Hun-hn̂g-hiong）
-花園 Mayhoman（Hua-hn̂g）
+花園（Hua-hn̂g）
 花蓮（Hua-liân | Hoa-liân）
 花蓮市（Hoa-liân-chhī）
 花蓮高中（Hua-liân Ko-tiong | Hoa-lian Ko-tiong）
@@ -1283,7 +1283,7 @@
 紅柴林（Âng-tshâ-nâ）
 紅葉溪（Âng-hio̍h-khe）
 紅樹林（Âng-tshiū-nâ）
-紅頭村 Imorod（Âng-thâu）
+紅頭村（Âng-thâu）
 美崙公園（Bí-lūn Kong-hn̂g）
 美術館（Bí-su̍t-kuán | Bí-su̍t-koán）
 美通橋（Bí-thong-kiô）
@@ -1357,7 +1357,7 @@
 旅運中心（Lí-ūn Tiong-sim）
 晉江師大路口（Tsìn-kang Su-tāi Lōo-kháu | Chìn-kang Su-tāi Lō͘-kháu）
 晉江街（Tsìn-kang-kue | Chìn-kang-koe）
-朗島村 Iraralay（Lóng-tó-tshun）
+朗島村（Lóng-tó-tshun）
 柴竹圍（Tshâi-tik-uî | Chhâi-tek-ûi）
 柴埕（Tshâ-tiânn | Chhâ-tiâⁿ）
 柴寮仔（Tshâi-liâu-á | Chhâi-liâu-á）
@@ -1398,7 +1398,7 @@
 烏日（Oo-ji̍t | O͘-ji̍t）
 烏日區（O͘-ji̍t-khu）
 烏日國小（Oo-ji̍t-kok-sió）
-烏來區 Ulay（U-lai-khu）
+烏來區（U-lai-khu）
 烏坵鄉（Oo-khiu-hiong | O͘-khiu-hiong）
 烏塗磅空（Oo-thôo Pōng-khang | O͘-thô͘ Pōng-khang）
 烏溪（Oo-khe | O͘-khe）
@@ -1571,7 +1571,7 @@
 造橋（Tsō-kiô | Chō-kiô）
 造橋鄉（Chō-kiô-hiong）
 連江縣（Liân-kang-kuān | Liân-kang-koān）
-野銀 Ivalino（Iá-gîn-tshun）
+野銀村（Iá-gîn-tshun）
 陳有蘭溪（Tân-iú-lân-khe）
 陳厝（Tân-tshù | Tân-chhù）
 雪山磅空（Suat-suann Pōng-khang | Soat-soaⁿ Pōng-khang）
@@ -1846,7 +1846,7 @@
 暖暖區（Loán-loán-khu）
 暗坑下（Àm-khenn-hā | Àm-kheⁿ-hā）
 椰林大道（Iâ-nâ Tuā-tô | Iâ-nâ Tōa-tō）
-椰油村 Yayo（Iâ-iû-tshun）
+椰油村（Iâ-iû-tshun）
 椰城公園（Iâ-siânn-kong-hn̂g）
 楊梅（Iûnn-muî | Iûⁿ-mûi）
 楊梅區（Iûⁿ-mûi-khu）
@@ -1976,7 +1976,7 @@
 槓仔寮（Khōng-á-liâu）
 滴水（Tih-tsuí | Tih-chúi）
 滿州鄉（Boán-chiu-hiong）
-漁人 Iratay（Hî-lîn）
+漁人（Hî-lîn）
 漁港（Hû-káng）
 漢本（Hàn-pún）
 瑪家鄉（Má-ka-hiong）
@@ -2300,7 +2300,7 @@
 關渡水岸公園（Kan-tāu-tsuí-huānn-kong-hn̂g）
 關渡國中（Kan-tāu Kok-tiong）
 關廟區（Koan-biō-khu）
-霧社 Alang paran（Bū-siā）
+霧社（Bū-siā）
 霧峰區（Bū-hong-khu）
 霧臺鄉（Bū-tâi-hiong）
 麗山高中（Lē-san-ko-tiong）
@@ -2323,7 +2323,7 @@
 鹹水溪（Kiâm-tsuí-khe | Kiâm-chúi-khe）
 蘭陽溪（Lân-iâng-khe）
 蘭雅（Lân-ngá）
-蘭嶼鄉 Ponso no Tao（Lân-sū-hiong）
+蘭嶼鄉（Lân-sū-hiong）
 露營區（Lōo-iânn-khu | Lō͘-iâⁿ-khu）
 鶯歌（Ing-ko | Eng-ko）
 鶯歌區（Eng-ko-khu）
@@ -2349,4 +2349,3 @@
 觀音仔地（Kuan-im-á-tuē | Koan-im-á-tōe）
 觀音區（Koan-im-khu）
 觀雲橋（Koan-hûn-kiô）
-name:nan-HJ || name（name:nan-TL | name:nan-POJ）
