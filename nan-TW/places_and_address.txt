@@ -345,7 +345,7 @@
 中壢區（Tiong-le̍k-khu）
 丹鳳（Tan-hōng）
 五分埔（Gōo-hūn-poo）
-五谷王廟/先嗇宮（Ngóo-kok-ông-biō/Sian-sik-kiong）
+五谷王廟（Ngóo-kok-ông-biō）
 五和村（Gōo-hô-tshun | Gō͘-hô-chhun）
 五股區（Gōo-kóo-khu | Gō͘-kó͘-khu）
 五股楊梅高架道路（Gōo-kóo Iûnn-muî Ko-kè To-lō | Gō͘-kó͘ Iûⁿ-mûi Ko-kè Tō-lō͘）
@@ -452,6 +452,7 @@
 文昌橋（Bûn-chhiong-kiô）
 文林北路（Bûn-lîm-pak-lōo | Bûn-lîm-pak-lō͘）
 文林路（Bûn-lîm-lōo | Bûn-lîm-lō͘）
+文武聖殿（Bûn-bú Sìng-tiān）
 文盛公園（Bûn-sīng Kong-hn̂g | Bûn-sēng Kong-hn̂g）
 文華高中（Bûn-huâ Ko-tiong | Bûn-hôa Ko-tiong）
 文德（Bûn-tik）
@@ -679,6 +680,7 @@
 立人國小（Li̍p-jîn-kok-sió）
 立法院（Li̍p-huat-īnn | Li̍p-hoat-īⁿ）
 交力坪（Ka-la̍t-pênn | Ka-la̍t-pêⁿ）
+先嗇宮（Sian-sik-kiong）
 光明路（Kng-bîng-lōo | Kng-bêng-lō͘）
 光明橋（Kong-bêng-kiô）
 光復（Kong-ho̍k）
@@ -788,6 +790,7 @@
 至善公園（Tsì-siān Kong-hn̂g | Chì-siān Kong-hn̂g）
 至善國中（Tsì-siān-kok-tiong）
 舟山路（Tsiu-san-lōo | Chiu-san-lō͘）
+行天宮（Hîng-thian-kiong）
 行刑場（Hîng-hîng-tiûnn | Hêng-hêng-tiûⁿ）
 行政院（Hîng-tsìng-īnn | Hêng-chèng-īⁿ）
 行義橋（Hēng-gī-kiô）
@@ -1352,7 +1355,7 @@
 師大綜合大樓（Su-tāi Tsong-ha̍p Tuā-lâu | Su-tāi Chong-ha̍p Tōa-lâu）
 徐州路（Tshî-tsiu-lōo | Chhî-chiu-lō͘）
 徐匯中學（Tshî-huē Tiong-ha̍k）
-恩主公廟/行天宮（Un-tsú-kong-biō /Hîng-thian-kiong）
+恩主公廟（Un-tsú-kong-biō）
 挹翠橋（Iap-chhùi-kiô）
 旅運中心（Lí-ūn Tiong-sim）
 晉江師大路口（Tsìn-kang Su-tāi Lōo-kháu | Chìn-kang Su-tāi Lō͘-kháu）
@@ -1925,7 +1928,7 @@
 義竹鄉（Gī-tek-hiong）
 義重町（Gi-tiōng-ting）
 聖人橋（Sèng-jîn-kiô）
-聖帝廟/文武聖殿（Sìng-tè-biō/Bûn-bú Sìng-tiān）
+聖帝廟（Sìng-tè-biō）
 聖景路（Sèng-kéng-lō͘）
 萱野（Suan-iá | Soan-iá）
 葫洲（Oô-tsiu）
