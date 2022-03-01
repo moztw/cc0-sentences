@@ -45,7 +45,7 @@
 二膽島（Jī-tánn-tó | Jī-táⁿ-tó）
 入安仔（Ji̍p-an-á）
 八分（Pueh-hun | Poeh-hun）
-八斗子（Peh-táu-á）
+八斗仔（Peh-táu-á）
 八仙圳（Pat-sian-chùn）
 八仙橋（Pat-sian-kiô）
 八里區（Pat-lí-khu）
@@ -216,7 +216,7 @@
 大塔悠（Tuā-tah-iu | Tōa-tah-iu）
 大暖坑（Tuā-luán-khinn | Tōa-loán-khiⁿ）
 大業路自行車道（Tāi-gia̍p-lō͘-thih-bé-tō）
-大業隧道（Tāi-gia̍p-pōng-khang）
+大業磅空（Tāi-gia̍p-pōng-khang）
 大溪（Tuā-khe | Tōa-khe）
 大溪區（Tāi-khe-khu）
 大經橋（Tōa-keng-kiô）
@@ -278,7 +278,7 @@
 中山國中（Tiong-san Kok-tiong）
 中山堂埕（Tiong-san-tn̂g-tiânn | Tiong-san-tn̂g-tiâⁿ）
 中山橋（Tiong-san-kiô）
-中文（Siânn-lāi | Siâⁿ-lāi）
+城內（Siânn-lāi | Siâⁿ-lāi）
 中台世界博物館（Tiong-tâi Sè-kài Phok-bu̍t-kuán | Tiong-tâi Sè-kài Phok-bu̍t-koán）
 中台禪寺（Tiong-tâi-siân-sī）
 中央公園（Tiong-iong Kong-hn̂g）
@@ -340,7 +340,7 @@
 中興村（Tiong-hing-tshun）
 中興新村（Tiong-hing Sin-tshun）
 中興橋（Tiong-hing-kiô）
-中興隧道（Tiong-hing-pōng-khang）
+中興磅空（Tiong-hing-pōng-khang | Tiong-heng-pōng-khang）
 中興嶺（Tiong-hing-niá | Tiong-heng-niá）
 中壢（Tiong-li̍k | Tiong-le̍k）
 中壢區（Tiong-le̍k-khu）
@@ -442,7 +442,7 @@
 廿粒（Jia̍p-lia̍p）
 文山二分局（Bûn-san Jī-hun-kio̍k）
 文山區（Bûn-san-khu）
-文山隧道（Bûn-san Pōng-khang）
+文山磅空（Bûn-san Pōng-khang）
 文中路（Bûn-tiong-lōo | Bûn-tiong-lō͘）
 文化中心（Bûn-huà Tiong-sim | Bûn-hòa Tiong-sim）
 文心中清（Bûn-sim Tiong-tshing）
@@ -787,7 +787,7 @@
 老梅（Lo-bue | Lo-boe）
 自強新村（Tsū-kiông-sìn-tshun | Chū-kiông-sin-chhun）
 自強橋（Chū-kiông-kiô）
-自強隧道（Tsū-kiông-pōng-khang）
+自強磅空（Tsū-kiông-pōng-khang）
 至善公園（Tsì-siān Kong-hn̂g | Chì-siān Kong-hn̂g）
 至善國中（Tsì-siān-kok-tiong）
 舟山路（Tsiu-san-lōo | Chiu-san-lō͘）
@@ -877,7 +877,7 @@
 辛亥生態公園（Sin-hāi-sing-thài-kong-hn̂g）
 辛亥國小（Sin-hāi Kok-sió）
 辛亥路車行地下道（Sin-hāi-lōo-tshia-hîng-tē-hā-tō | Sin-hāi-lō͘-chhia-hêng-tē-hā-tō）
-辛亥隧道（Sin-hāi-pōng-khang）
+辛亥磅空（Sin-hāi-pōng-khang）
 那瑪夏區（Namasia-khu）
 酉陽街（Iú-iông-kue | Iú-iông-koe）
 里港鄉（Lí-káng-hiong）
@@ -896,7 +896,7 @@
 和平（Hô-pîng | Hô-pêng）
 和平安和路口（Hô-pîng An-hô Lōo-kháu | Hô-pêng An-hô Lō͘-kháu）
 和平區（Hô-pêng-khu）
-和平街仔口（Hô-pîng Kue-á-lōo | Hô-pêng Koe-á-kháu）
+和平街仔口（Hô-pîng Kue-á-kháu | Hô-pêng Koe-á-kháu）
 和平新生路口（Hô-pîng Sin-sing Lōo-kháu | Hô-pêng Sin-seng Lō͘-kháu）
 和平溪（Hô-pîng-khe | Hô-pêng-khe）
 和美鎮（Hô-bí-tìn）
@@ -951,7 +951,7 @@
 抱仔坑（Phō-á-khinn | Phō-á-khiⁿ）
 抱仔跤（Phō-á-kha）
 拍鐵寮（Phah-thih-liâu）
-旺邦隧道（Ōng-pang-pōng-khang）
+旺邦磅空（Ōng-pang-pōng-khang）
 昆明街（Khun-bîng-ke | Khun-bêng-ke）
 昆陽（Khun-iông）
 明水路（Bîng-tsuí-lōo | Bêng-chúi-lō͘）
@@ -1490,7 +1490,7 @@
 基隆河（Ke-lâng-hô）
 基隆路車行地下道（Ke-lâng-lōo-tshia-hîng-tē-hā-tō | Ke-lâng-lō͘-chhia-hêng-tē-hā-tō）
 基隆路高架道路（Kue-lâng-lōo Ko-kè Tō-lōo | Koe-lâng-lō͘ Ko-kè Tō-lō͘）
-基隆隧道（Ke-lâng-pōng-khang）
+基隆磅空（Ke-lâng-pōng-khang）
 堉琪橋（Io̍k-kî-kiô）
 婆婆橋（Pô-pô-kiô）
 密婆坑（Bi̍t-pô-khinn | Bi̍t-pô-khiⁿ）
@@ -1562,7 +1562,7 @@
 莊頂路（Chng-téng-lō͘）
 莊頂路橋（Chng-téng-lō͘-kiô）
 莊敬路（Tsong-kìng-lōo | Chong-kèng-lō͘）
-莊敬隧道（Tsong-kìng-pōng-khang | Chong-kèng-pōng-khang）
+莊敬磅空（Tsong-kìng-pōng-khang | Chong-kèng-pōng-khang）
 莒光鄉（Kí-kong-hiong）
 莒光路（Kú-kong-lōo | Kú-kong-lō͘）
 蚵仔寮（Ô-á-liâu）
@@ -1738,7 +1738,7 @@
 詔安厝（Tsiàu-an-tshù | Chiàu-an-chhù）
 象山（Tshiūnn-suann）
 象山公園（Tshiūnn-suann Kong-hn̂g | Chhiūⁿ-soaⁿ Kong-hn̂g）
-象山隧道（Tshiūnn-suànn Pōng-khang | Chhiūⁿ-soaⁿ Pōng-khang）
+象山磅空（Tshiūnn-suànn Pōng-khang | Chhiūⁿ-soaⁿ Pōng-khang）
 象頭埔（Tshiūnn-thâu-poo | Chhiūⁿ-thâu-po͘）
 貴興路（Kuì-hing-lōo | Kùi-heng-lō͘）
 進安公園（Tsìn-an Kong-hn̂g | Chìn-an Kong-hn̂g）
@@ -2009,7 +2009,7 @@
 福興鄉（Hok-heng-hiong）
 福興路（Hok-hing-lōo | Hok-heng-lō͘）
 福興路口（Ho̍k-hing Lōo-kháu | Ho̍k-heng Lō͘-kháu）
-福興隧道（Hok-hing-pōng-khang | Hok-heng-pōng-khang）
+福興磅空（Hok-hing-pōng-khang | Hok-heng-pōng-khang）
 福龍園（Hok-liông-hn̂g）
 福龜（Hok-ku）
 福龜旅遊中心（Hok-ku Lú-iû Tiong-sim）
@@ -2284,7 +2284,7 @@
 雙溪橋（Siang-khe-kiô）
 雙蓮國小（Siang-liân Kok-sió）
 懷生國中（Huâi-sing Kok-tiong | Hoâi-seng Kok-tiong）
-懷恩隧道（Huâi-un-pōng-khang | Hoâi-un-pōng-khang）
+懷恩磅空（Huâi-un-pōng-khang | Hoâi-un-pōng-khang）
 懷寧街（Huâi-lîng-kue | Hoâi-lêng-koe）
 瀧溪（Liông-khe）
 羅東（Lô-tong）
