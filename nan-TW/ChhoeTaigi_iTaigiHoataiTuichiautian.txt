@@ -1322,7 +1322,7 @@
 不省人事（put síng jîn-sū）
 不約而同（put-iok-jî-tông）
 不得不（put-tit-put）
-不得開曲（put-titkhai-khiau）
+不得開曲（put-tit khai-khiau）
 不情不願（put-tsîng-put-guān）
 不接一（put-tsiap-it）
 不貪不取（put-tham-put-tshú）
@@ -3574,7 +3574,7 @@
 吊樹猴（tiàu-tshiū-kâu）
 吊燈（tiàu-ting）
 吊褲（tiàu-khòo）
-吊懸低（tiàu-kôan-kē）
+吊懸低（tiàu-kuân-kē）
 吊䘥仔（tiàu-kah-á）
 同性愛（tông-sìng-ài）
 同性戀（tông-sìng-luān | tông-sìng-luân）
@@ -4894,7 +4894,7 @@
 疕仔囝（phí-á-kiánn）
 皂隸（tsô-lē）
 禿髮（thut-huat）
-禿額（thut-hia̍）
+禿額（thuh-hia̍h）
 秀才秀才騎馬弄弄來（siù-tsâi siù-tsâi khiâ bé lōng-lōng-lâi）
 秀洲（Siù-tsiu）
 秀朗橋（Siù-lóng-kiô）
@@ -9075,7 +9075,6 @@
 啊毋就按呢（ah m̄-tō án-ne）
 問仙（muī-sian）
 問甲一支柄（mn̄g kah tsi̍t ki pènn）
-問到ㄧ隻平（）
 問徒（būn-tôo）
 問號（mn̄g-hō）
 問點（mn̄g-tiám）
