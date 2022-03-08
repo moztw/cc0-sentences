@@ -14,4 +14,4 @@
 
 ## 目前進度
 
-整理至 [2020/03 的這一句以上](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-03#ts-1584150500.445500) 完成
+整理至 [2020/03](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-03) 完成
