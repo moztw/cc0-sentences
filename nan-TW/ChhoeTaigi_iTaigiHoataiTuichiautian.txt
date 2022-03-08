@@ -4734,7 +4734,7 @@
 我遮（guá tsia）
 我聽無（guá thiann-bô）
 我聽攏無（guá thiann-lóng-bô）
-戒火草（kài-hué-tsháu | kài-hé-）
+戒火草（kài-hué-tsháu | kài-hé-tsháu）
 戒急用忍（kài-kip-iōng-jím）
 扭掠（liú-lia̍h）
 扭著（láu--tio̍h | náu--tio̍h）
@@ -4742,7 +4742,7 @@
 扮頭（pān-thâu）
 扯（tshé）
 扯消（tshé-siau）
-扯筊（tshé-�kiáu）
+扯筊（tshé-kiáu）
 扯煞（tshé-suah）
 扲糖無洗手的朋友（gīm-thn̂g bô sé-tshiú ê pîng-iú）
 扴耳（ke̍h-hīnn）
@@ -9090,7 +9090,7 @@
 啥物時陣（siánn-mih sî-tsūn）
 啥物碗糕（siánn-mih uánn-ko）
 啥潲（siánn-siâu | sánn-siâu）
-啪啦拳（Pha-la-kheng）
+啪啦拳（Pha-la-khiàn）
 圈仔糋（khian-á-tsìnn）
 國中（kok-tiong）
 國中生（kok-tiong-sing）
@@ -13458,7 +13458,7 @@
 趖趖也（sô-sô-ā）
 踅口令（se̍h-kháu-līng）
 踅玲瑯（se̍h-lin-long）
-踅玲瑯馬仔（se̍h-lîng-long-bé-）
+踅玲瑯馬仔（se̍h-lîng-long-bé-á）
 踅振動（se̍h-tín-tāng）
 踅神（se̍h-sîn）
 踅球（se̍h-kiû）
