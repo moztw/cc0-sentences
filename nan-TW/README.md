@@ -26,3 +26,13 @@
 ### 咱來學臺灣閩南語
 
 Lan-Lai-Oh-Taigi 資料來自教育部[《咱來學臺灣閩南語》學習手冊](https://language.moe.gov.tw/result.aspx?subclassify_sn=506&content_sn=40)《讀語句上簡單》一二冊，整理自 [Taiwanese-Corpus / Lan-Lai-Oh-Taigi](https://github.com/Taiwanese-Corpus/Lan-Lai-Oh-Taigi) 專案提供的結構化資料檔，未有已知版權限制。
+
+
+### places and address
+
+places_and_address 地名與地址資料集由 Supaplextw 整理自 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)，以 CC0 釋出。
+
+
+### wikinews
+
+wikinews 資料集由原作者 TongcyDai 提供並以 CC0 釋出。
