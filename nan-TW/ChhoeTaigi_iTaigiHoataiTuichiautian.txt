@@ -8637,7 +8637,6 @@
 袂當煞獅尾（bē-tàng suah sai-bué）
 袂當算擺（bē-tàng suìnn-pái）
 袂落樓梯（bē lo̍h lâu-thui）
-袂較大（bē-khah-tōa）
 袂較細（bē-khah-sè）
 袂過心（bē kuè-sim）
 袂過風（bē kuè-hong | buē kè-hong）
@@ -10936,6 +10935,7 @@
 無話講茭荖（bô-uē kóng ka-ló）
 無路使（bô-lōo-sái）
 無路屎（bô-lōo-sái）
+無較大（bô-khah-tōa）
 無較縒（bô-khah-tsua̍h）
 無道德錢（bô tō-tik tsînn）
 無鉛汽油（bô-iân khì-iû）
