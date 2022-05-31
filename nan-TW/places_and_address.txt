@@ -1324,7 +1324,7 @@
 倒追仔（tó-tuī-á）
 凌厝（Lîng-tshù）
 厝仔（Tshù-á）
-員山鄉（ÎNN-suann-hiong）
+員山鄉（Înn-suann-hiong）
 員林（Uân-lîm）
 員林市（Uân-lîm-tshī）
 員林坑（Uân-lîm-khinn）
@@ -1472,7 +1472,8 @@
 國立臺北藝術大學（Kok-li̍p Tâi-pak Gē-su̍t Tāi-ha̍k）
 國立臺灣大學（Kok-li̍p-tâi-uân-tāi-ha̍k）
 國立臺灣科技大學（Kok-li̍p-tâi-uân-kho-ki-tāi-ha̍k）
-國立臺灣師範大學公館校區（Kok-li̍p Tâi-uân Tāi-ha̍k Su-huān Tāi-ha̍k Kong-kuán Hāu-khu）
+國立臺灣師範大學（Kok-li̍p Tâi-uân Tāi-ha̍k Su-huān Tāi-ha̍k）
+公館校區（Kong-kuán Hāu-khu）
 國立臺灣師範大學和平校區（Kok-li̍p Tâi-uân Su-huān Tāi-ha̍k Hô-pîng Hāu-khu）
 國立臺灣海洋大學（Kok-li̍p-hái-iûnn-tāi-ha̍k）
 國立臺灣藝術大學（Kok-li̍p Tâi-uân Gē-su̍t Tāi-ha̍k）
