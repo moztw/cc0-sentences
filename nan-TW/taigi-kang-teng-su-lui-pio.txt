@@ -1,49 +1,49 @@
 工程（kang-têng）
 詞彙表（sû-lūi-pió）
-塗水（thô-chúi）
+塗水（thô͘-chúi）
 疊磚（thia̍p-chng）
-地繩線（tē-chîn-sòa）
+地繩線（tē-chîn-sòaⁿ）
 貼（tah）
-平坦（pên-thán）
+平坦（pêⁿ-thán | pîⁿ-thán）
 搭架（tah-kè）
 油漆（iû-chhat）
 釘枋模（tèng pang-bô）
-灌漿（koàn-chiun）
+灌漿（koàn-chiuⁿ）
 做裝潢（chò chong-hông）
 縛鐵仔（pa̍k thih-á）
 黏條仔（liâm tiâu-á）
-做水電（chò chúi-tiān）
+做水電（chò chúi-tiān | chòe chúi-tiān）
 抿石仔（bín chio̍h-á）
 反金（hoán-kim）
-磨石仔（bôachioh̍-á）
+磨石仔（bôa chioh̍-á）
 洗石仔（sé-chio̍h-á）
 斬石仔（chám-chio̍h-á）
-做地磚（chò tē-chng）
+做地磚（chò tē-chng | chòe tōe-chng）
 拍塗跤底（phah thô͘-kha-té）
-做防水（chò hông-chúi）
+做防水（chò hông-chúi | chòe hông-chúi）
 吊料（tiàu-liāu）
 夯料（giâ-liâu）
 人（lâng）
 師傅（sai-hū）
 小工（sió-kang）
-粗工（chho-kang）
+粗工（chho͘-kang）
 動詞（tōng-sû）
 抹塗（boah-thô͘）
 抹壁（boah-piah）
 抹塗跤（boah-thô͘-kha）
 抹柱仔（boah-thiāu-á）
 拍底（phah-té）
-搝線（giú-sòan）
+搝線（giú-sòaⁿ）
 斷壁（tnḡ-piah）
 剾壁（khau-piah）
 疊磚（thia̍p-chng）
-篩塗（thai-thô）
-撨塗（chhiau-thô）
+篩塗（thai-thô͘）
+撨塗（chhiau-thô͘）
 托塗（thuh-thô͘）
 黏（liâm）
 櫼紙牌仔（chin chóa-pâi-á）
 拭目子（chhit bak̍-chí）
-油漆（Iû-chhat）
+油漆（iû-chhat）
 細項家私（sè-hāng ke-si）
 抹刀（boah-to）
 柴抹刀（chhâ-boah-to）
@@ -67,7 +67,7 @@
 塑膠牌仔（sok-ka pâi-á）
 水觳仔（chúi-khok-á）
 刀仔（to-á）
-刀片（to-phìn）
+刀片（to-phìⁿ）
 海綿（hái-mî）
 鐵筅仔（thih-chhéng-á）
 掃帚頭仔（sàu-chhiú thâu-á）
@@ -76,7 +76,7 @@
 鉛筆（iân-pit）
 灌縫的（koàn-phāng—ê）
 十字（sip̍-jī）
-扁的（pín ê）
+扁的（píⁿ--ê）
 璇石筆（soān-chio̍h-pit）
 墜仔（tūi-á）
 大項（tōa-hāng）
@@ -97,14 +97,14 @@
 建材（kiàn-châi）
 紅毛塗（âng-mô-thô | âng-bûn-thô | âng-mnĝ-thô）
 清粉（chheng-hún）
-塗膏（thô-ko）
-塗膏水（thô-ko-chúi）
+塗膏（thô͘-ko）
+塗膏水（thô͘-ko-chúi）
 砂（soa）
 沙（soa）
 膠泥（ka-nî）
 黏劑（liâm-che）
 海菜粉（hái-chhài-hún）
-趖目塗（sô-bak̍-thô）
+趖目塗（sô-bak̍-thô͘）
 抿石仔塗（bín-chioh̍-á-thô）
 石仔（chioh̍-á）
 防水劑（hông-chúi-che）
@@ -116,10 +116,10 @@
 廊（lông）
 工地（kang-tē）
 鐵架（thih-kè）
-三角架（san-kak-kè） 
+三角架（saⁿ-kak-kè） 
 鐵枋（thih-pang）
 電篋仔（tiān-kheh-á）
-地繩線（tē-chîn-sòan）
+地繩線（tē-chîn-sòaⁿ）
 形容詞（hêng-lông-sû）
 好（hó）
 䆀（bái）
