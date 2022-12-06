@@ -52,6 +52,7 @@
 八德中洲街仔口（Pat-tik Tiong-tsiu Kue-á-kháu）
 八德區（Pat-tik-khu）
 八德街（Pat-tik-kue）
+八掌溪（Pat-tsiáng-khe）
 十一命（Tsa̍p-it-miā）
 十二甲（Tsa̍p-jī-kah）
 十二張（Tsa̍p-jī-tiunn）
@@ -1654,7 +1655,6 @@
 復興橋（Ho̍k-hing-kiô）
 惠安街（Huī-an-kue）
 惠蓀林場（Huī-sun Lîm-tiûnn）
-掌溪（Pat-tsiáng-khe）
 敦化北路（Tun-huà Pak-lōo）
 敦化和平路口（Tun-huà Hô-pîng Lōo-kháu）
 景山溪（Kíng-suann-khe）
