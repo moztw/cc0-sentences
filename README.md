@@ -6,8 +6,9 @@ You can use it without any restriction.
 
 ## some sources
 
-- archive of G0v Rand0m channel (chats to donate here) - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
+- archive of G0v Rand0m channel (chats & donate to cc0) - https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH
 - corpus at [Mozilla Common Voice](http://voice.mozilla.org/zh-TW/) Project - https://github.com/mozilla/voice-web/tree/master/server/data/zh-TW
+- notes on using chatgpt (GPT-4) create sentences - https://hackmd.io/@moztw/cc0-sentences-gpt
 
 
 ## phonetic coverage 
