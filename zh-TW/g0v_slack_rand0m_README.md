@@ -12,6 +12,10 @@
 [2]: https://github.com/irvin/cc0-sentences/blob/master/zh-TW/g0v_slack_rand0m.txt
 [3]: http://join.g0v.tw/
 
+## 可用於 ChatGPT 協助處理的 prompt
+
+> 將接下來的對話紀錄整理成一句一行。將14字以上的句子切斷成兩句。略過有ID與時間的行數。去除句中的英文。忽略所有符號、ID、emoji、空行。把數字改為中文大寫。改寫句子以維持順暢。句尾不需要句號。
+
 ## 目前進度
 
-整理至 [2020/03](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-03) 完成
+整理至 [2020/04](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-04) 完成
