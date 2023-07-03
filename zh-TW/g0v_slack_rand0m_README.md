@@ -1,4 +1,4 @@
-# [g0v Slack][3] CC0 corpus from #rand0m channel chatlog
+# [g0v Slack][3] CC0 corpus from #rand0m chatlog
 
 ## 釋出資料
 
