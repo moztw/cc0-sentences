@@ -41,3 +41,7 @@ wikinews 資料集由原作者 TongcyDai 提供並以 CC0 釋出。
 ### animals
 
 animals 的動物名稱資料，由小小書房／小寫出版整理提供。
+
+### common-voice
+
+直接提交到 common voice 的句子，以 CC0 授權釋出。整理到 cv-corpus-19.0-2024-09-13
