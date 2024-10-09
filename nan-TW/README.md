@@ -21,6 +21,7 @@
 [參考資料](https://max-everyday.com/2020/03/taiwanese-common-word-700/)
 
 ## 資料來源與授權
+
 ### 2016-itaigi華台對照典
 
 「ChhoeTaigi_iTaigiHoataiTuichiautian」資料來自「ChhoeTaigi 找台語：台語字詞資料庫」專案整理之 [2016-itaigi華台對照典](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase#7-2016-itaigi華台對照典)，由 [iTaigi團隊](https://itaigi.tw/) 以「公眾領域貢獻宣告」（CC0）釋出。
@@ -29,12 +30,14 @@
 
 Lan-Lai-Oh-Taigi 資料來自教育部[《咱來學臺灣閩南語》學習手冊](https://language.moe.gov.tw/result.aspx?subclassify_sn=506&content_sn=40)《讀語句上簡單》一二冊，整理自 [Taiwanese-Corpus / Lan-Lai-Oh-Taigi](https://github.com/Taiwanese-Corpus/Lan-Lai-Oh-Taigi) 專案提供的結構化資料檔，未有已知版權限制。
 
-
 ### places and address
 
 places_and_address 地名與地址資料集由 Supaplextw 整理自 [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)，以 CC0 釋出。
 
-
 ### wikinews
 
 wikinews 資料集由原作者 TongcyDai 提供並以 CC0 釋出。
+
+### animals
+
+animals 的動物名稱資料，由小小書房／小寫出版整理提供。
