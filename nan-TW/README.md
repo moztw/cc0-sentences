@@ -45,3 +45,7 @@ animals 的動物名稱資料，由小小書房／小寫出版整理提供。
 ### common-voice
 
 直接提交到 common voice 的句子，以 CC0 授權釋出。整理到 cv-corpus-19.0-2024-09-13
+
+### LKK
+
+整理自李江却台語文教基金會 [LKK用字表](https://docs.google.com/spreadsheets/d/1ICPcP3PuEdLirax-HBLtewiOz53KzAfpme9sjmoIO-w/edit?gid=1364822222#gid=1364822222) (2024/5/10 版本)
