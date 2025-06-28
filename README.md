@@ -16,7 +16,7 @@ You can use it without any restriction.
 
 The coveraged rate of phonetic of current corpus, compared to CnsPhonetic2016-08v2.cin input table.
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2025-06-28](https://github.com/irvin/cc0-sentences/commit/e340b6dad1e08b65c3fc7d72e1afd9544c3752d5) DB)
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2025-06-28](https://github.com/irvin/cc0-sentences/commit/7bda1ac905c80c116e31945d26a36392713177e5) DB)
 26393 sentences
 
 ```
@@ -34,7 +34,7 @@ We have cover 66.75% of the pronunciations.
 
 The coveraged rate and missing chars from current text corpus to common chars table from MOE. 
 
-(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2025-06-28](https://github.com/irvin/cc0-sentences/commit/e340b6dad1e08b65c3fc7d72e1afd9544c3752d5) DB)
+(calculate via [text tools](https://github.com/irvin/voice-text-tools) on [2025-06-28](https://github.com/irvin/cc0-sentences/commit/7bda1ac905c80c116e31945d26a36392713177e5) DB)
 26393 sentences
 
 ```
