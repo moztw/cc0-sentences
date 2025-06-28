@@ -35,4 +35,4 @@ https://github.com/moztw/cc0-sentences/blob/master/zh-TW/g0v_slack_rand0m.txt
 
 ## 目前進度
 
-整理至 [2020/05](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-05) 完成
+整理至 [2020/07](https://g0v-slack-archive.g0v.ronny.tw/index/channel/CGU1SLHNH/2020-07) 完成
